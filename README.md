@@ -6,7 +6,7 @@ creating workflow for Jupyter notebooks
 
 
 1. Jupyter Basics
-2. IPython-Juptyer Rich Display
-3. Math Basics using Latex
+2. Juptyer Rich Display
+3. Math Expression Basics using Latex
 
 
