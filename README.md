@@ -1,6 +1,6 @@
 # Jupyter Project
 
-creating workflow for Jupyter notebooks
+Learning workflow for Jupyter notebooks
 
 ## TOC
 
