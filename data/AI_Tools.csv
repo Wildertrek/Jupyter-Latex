@@ -1,0 +1,295 @@
+Tool/Capability,Description,Capability Type
+Adobe Photoshop,Adobe Photoshop is a raster graphics editor.,Graphic editing
+Amazon Backup,Fully managed backup service that makes it easy to centralize and automate the backup of data across AWS services in the cloud as well as on premises using the AWS Storage Gateway,AWS Tools
+Amazon Comprehend,Amazon Comprehend is a natural language processing (NLP) service that uses machine learning to find insights and relationships in text.,AWS Tools
+Amazon DynamoDB,Amazon DynamoDB is a fully managed proprietary NoSQL database service that supports key-value and document data structures and is offered by Amazon as part of the Amazon Web Services portfolio. Data Storage Type,AWS Tools
+Amazon Elastic Block Storage,"Persistent, durable, low-latency block-level storage volumes for EC2 instances",AWS Tools
+Amazon Elastic File System,Fully managed elastic NFS file system for use with AWS Cloud services and on-premises resources,AWS Tools
+Amazon Elastic Inference,"Amazon Elastic Inference allows you to attach low-cost GPU-powered acceleration to Amazon EC2 and Amazon SageMaker instances to reduce the cost of running deep learning inference by up to 75%. Amazon Elastic Inference supports TensorFlow, Apache MXNet, and ONNX models, with more frameworks coming soon.",AWS Tools
+Amazon Forecast,Amazon Forecast is a fully managed service that uses machine learning to deliver highly accurate forecasts.,AWS Tools
+Amazon Ground Truth,Build highly accurate training datasets for machine learning quickly.,AWS Tools
+Amazon Kinesis,"Amazon Kinesis is an Amazon Web Service (AWS) for processing big data in real time. Kinesis is capable of processing hundreds of terabytes per hour from high volumes of streaming data from sources such as operating logs, financial transactions, and social media feeds. Data Acquisition Tool",AWS Tools
+Amazon Lex,Amazon Lex is a service for building conversational interfaces into any application using voice and text.,AWS Tools
+Amazon Mechanical Turk (Mturk),"Data Labeling Tool - Amazon Mechanical Turk (Mturk) is a crowdsourcing website for businesses (known as Requesters) to hire remotely located ""crowdworkers"" to perform discrete on-demand tasks that computers are currently unable to do.",AWS Tools
+Amazon Personalize,Amazon Personalize is a machine learning service that makes it easy for developers to create individualized recommendations for customers using their applications.,AWS Tools
+Amazon Polly,"Amazon Polly is a service that turns text into lifelike speech, allowing you to create applications that talk, and build entirely new categories of speech-enabled products.",AWS Tools
+Amazon Rekognition,"Amazon Rekognition provides fast and accurate face search, allowing you to identify a person in a photo or video using your private repository of face images.",AWS Tools
+Amazon S3,Object storage infrastructure,AWS Tools
+Amazon SageMaker,"Amazon Sagemaker is a cloud machine-learning platform that enables developers to create, train, and deploy machine-learning (ML) models in the cloud. SageMaker also enables developers to deploy ML models on embedded systems and edge-devices. Data science environment with Jupyter Notebook and other technologies tuned for DL and ML. Designed for end-to-end train, build and deployment.",AWS Tools
+Amazon Textract,Amazon Textract is a service that automatically extracts text and data from scanned documents.,AWS Tools
+Amazon Transcribe,Amazon Transcribe makes it easy for developers to add speech-to-text capability to their applications.,AWS Tools
+Amazon Translate,"Amazon Translate is a neural machine translation service that delivers fast, high-quality, and affordable language translation.",AWS Tools
+Ambassador,"Expose, secure, and manage traffic to your Kubernetes microservices of any type",Docker Tools
+Anaconda,"Environment by which Python, R, and Jupiter can be scripted and run.  Also contains associated libraries for Tensor Flow and Keras.",AI/ML Tools
+Anchore,"CI/CD, Kubernetes, Container Security",DevSecOps Tools
+Ansible,Ansible is a configuration management tool that automates the configuration of multiple servers by the use of Ansible playbooks. Ansible plays are written in YAML.,Automation/Infrastructure Tools
+Ansible Playbook,Ansible Playbook is an organized unit of scripts that defines work for a server configuration managed by the automation tool Ansible. Ansible is a configuration management tool that automates the configuration of multiple servers by the use of Ansible playbooks. Ansible plays are written in YAML.,Automation/Infrastructure Tools
+Antivirus,"Software used to prevent, detect, and remove malware.",OS Tools
+Apache Cassandra,Data is automatically replicated to multiple nodes for fault-tolerance. Replication across multiple data centers is supported. Failed nodes can be replaced with no downtime.,Database
+Apache Flume,"Flume is a distributed, reliable, and available service for efficiently collecting, aggregating, and moving large amounts of log data. It has a simple and flexible architecture based on streaming data flows. It is robust and fault tolerant with tunable reliability mechanisms and many failover and recovery mechanisms. It uses a simple extensible data model that allows for online analytic application",Data Ingestion/Manipulation
+Apache Kafka,"Stream Processing for Real-Time Data Feeds - Apache Kafka is an open-source stream-processing software platform developed by LinkedIn and donated to the Apache Software Foundation. Kafka provides a unified, high-throughput, low-latency platform for handling real-time data feeds.",Data Ingestion/Manipulation
+ArangoDB,"ArangoDB is a free and open-source native multi-model database system. The database system supports three data models (key/value, documents, graphs) with one database core and a unified query language AQL (ArangoDB Query Language). The query language is declarative and allows the combination of different data access patterns in a single query. ArangoDB is a NoSQL database system but AQL is similar in many ways to SQL.",Database
+ArangoML,ArangoML Pipeline is a powerful yet simple tool to facilitate teamwork between DataOps and Data Science but allows also to provide detailed audit trails for auditors and advanced analytics of the whole machine learning environment.,AI/ML Tools
+Artifactory,Code Artifacts. Enterprise universal binary repository manager as a natural extension to the source code repository to store outcomes of the build process or artifacts.,Repository Tools/Library
+ATAK,UI & Visualization Tool,Data Visualization
+AWS AMI,Amazon Machine Image (AMI) provides the information required to launch an instance. You must specify an AMI when you launch an instance. You can launch multiple instances from a single AMI when you need multiple instances with the same configuration. You can use different AMIs to launch instances when you need instances with different configurations.,AWS Tools
+AWS Cloud Formation,"use programming languages or a simple text file to model and provision, in an automated and secure manner, all the resources needed for your applications across all regions and accounts. This gives you a single source of truth for your AWS and third party resources.",AWS Tools
+AWS CodePipeline,Fully managed continuous delivery service that helps you automate your release pipelines for fast and reliable application and infrastructure updates,AWS Tools
+AWS DeepLens,"AWS DeepLens helps put machine learning in the hands of developers, literally, with a fully programmable video camera, tutorials, code, and pre-trained models.",AWS Tools
+AWS Lambda,"Data Acquisition Tool - Amazon Web Services (AWS) Lambda is an event-driven, serverless computing platform provided by Amazon as a part of the Amazon Web Services. It is a computing service that runs code in response to events and automatically manages the computing resources required by that code.",AWS Tools
+AWS Management Console,"Utility Software (AWS) - AWS Management Console is a browser-based GUI for Amazon Web Services (AWS). The console allows a user to manage their cloud computing, cloud storage, and other resources running on AWS infrastructure.",AWS Tools
+AWS RedShift,Amazon Redshift is a fully-managed petabyte-scale cloud based data warehouse product designed for large scale data set storage and analysis. It is also used to perform large scale database migrations.,AWS Tools
+AWS Shield,AWS Security Suite Tools - Amazon Web Services (AWS) Shield is a security service that protects web applications hosted on the Amazon Web Services public cloud against distributed denial of service (DDoS) attacks.,AWS Tools
+AWS Snowball,Snowball is a petabyte-scale data transport solution that uses devices designed to be secure to transfer large amounts of data into and out of the AWS Cloud.,AWS Tools
+AWS VPC,AWS Security Suite Tools - Amazon Virtual Private Cloud is a commercial cloud computing service that provides users a virtual private cloud by provisioning a logically isolated section of Amazon Web Services Cloud. Enterprise customers can access the Amazon Elastic Compute Cloud over an IPsec based virtual private network.,AWS Tools
+AWS Web Application Firewall (WAF),"AWS Security Suite Tools - AWS WAF is a Web Application Firewall (WAF) that helps protect web applications from common web exploits that could affect application availability, compromise security, or consume excessive resources. ",AWS Tools
+Azure Application Gateway Web Application Firewall,Azure Security Suite Tools - Azure Application Gateway offers a web application firewall (WAF) that provides centralized protection of web application from common exploits and vulnerabilities.,Azure Tools
+Azure Automation,"Data Acquisition Tool - Microsoft Azure Automation delivers a cloud-based automation and configuration service that provides consistent management across Azure and non-Azure environments. Azure Automation consists of process automation, update management, and configuration features.",Azure Tools
+Azure BLOB Storage,"Microsoft Azure Binary Large Object (BLOB) Storage is an object storage service for use cases including cloud applications, content distribution, backup, archiving, disaster recovery, and big data analytics.",Azure Tools
+Azure Cognitive Services,"Computer Vision, Face Recognition, Ink Recognizer, Custom Vision, Video Indexer, Form Recognizer, IDE",Azure Tools
+Azure Cosmos DB,"Microsoft Azure Cosmos DB is a globally distributed, multi-model database that natively supports multiple data models such as key-value, documents, graphs, and columnar data.",Azure Tools
+Azure Data Factory,"Microsoft Azure Data Factory is a fully managed service for composing data storage, processing, and movement services into streamlined, scalable, and reliable data production pipelines. Testing, Evaluation, Validation",Azure Tools
+"Azure Data Lake (BLOBs, Tables, Queues, Files)","Microsoft Azure Data Lake is a highly scalable public cloud service that allows developers, scientists to gain insight from large, complex data sets. The service is composed of two parts, data storage and data analytics. AI Distribution Tool",Azure Tools
+Azure Data Warehouse,SQL Azure Data Warehouse is a cloud-based Enterprise Data Warehouse (EDW) that uses Massively Parallel Processing (MPP) to quickly run complex queries across petabytes of data.,Azure Tools
+Azure DDoS Protection Standard,"Azure Security Suite Tools - Azure distributed denial of service (DDoS) Protection Standard combined with application design best practices, provide defense against DDoS attacks.  Azure DDoS Protection is automatically tuned to protect Azure resources and protection can be enabled on any new or existing Virtual Network and requires no application or resource changes.",Azure Tools
+Azure Event Hubs,"Microsoft Azure Event Hubs is a fully managed, real-time data ingestion service that is simple, trusted, and scalable. Event Hubs is a big data streaming platform and event ingestion service. Event Hubs allows streaming millions of events per second from any source and allows a user to build dynamic data pipelines and immediately respond to challenges. Data sent to an event hub can be transformed and stored by using any real-time analytics provider or batching/storage adapters.",Azure Tools
+Azure Files,"Microsoft Azure Files provides a simple interface to create and configure file systems quickly, and share common files. Azure Files can be used with traditional protocols that access files over a network.",Azure Tools
+Azure Firewall,"Azure Security Suite Tools - Azure Firewall is a managed, cloud-based network security service that protects Azure Virtual Network resources. It is a fully stateful firewall as a service with built-in high availability and unrestricted cloud scalability.",Azure Tools
+Azure Machine Learning Service,"(Note: the ""next generation infrastructure"" for MS)
+Simplify and accelerate the building, training, and deployment of your machine learning models. Use automated machine learning to identify suitable algorithms and tune hyperparameters faster. Improve productivity and reduce costs with autoscaling compute and DevOps for machine learning. Seamlessly deploy to the cloud and the edge with one click. Access all these capabilities from your favorite Python environment using the latest open-source frameworks, such as PyTorch, TensorFlow, and scikit-learn. Microsoft Azure Machine Learning Studio is a browser-based, visual drag-and-drop authoring environment where no coding is necessary. Azure Machine Learning Studio publishes models as web services that can easily be consumed by custom apps or BI tools such as Excel. Users can use Azure Machine Learning Studio to build, test, and deploy predictive analytics solutions on their data. ",Azure Tools
+Azure Machine Learning Studio,"A fully-managed cloud service that enables you to easily build, deploy, and share predictive analytics solutions. Contains AI gallery of services.",Azure Tools
+Azure Portal,"Utility Software (Azure) - Microsoft Azure Portal is a web-based, unified console that provides an alternative to command-line tools. The portal allows a user to manage Azure subscription using a graphical user interface and is designed for resiliency and continuous availability",Azure Tools
+Azure Virtual Machines,"Microsoft Azure Virtual Machines are virtual servers that allow users to deploy, manage, and maintain OS and server software. Instance types provide combinations of CPU/RAM. Users pay for what they use with the flexibility to change sizes.",Azure Tools
+Azure VPC,"Azure Security Suite Tools - Azure Virtual Network provides an isolated and highly-secure environment to run virtual machines and applications. A user can use private IP addresses and define subnets, access control policies…",Azure Tools
+Bidirectional Encoder Representations from Transformers (BERT),"BERT is a method of pre-training language representations, meaning that we train a general-purpose ""language understanding"" model on a large text corpus (like Wikipedia), and then use that model for downstream NLP tasks that we care about (like question answering)",AI/ML Tools
+BWA,"BWA is a software package for mapping low-divergent sequences against a large reference genome, such as the human genome. It consists of three algorithms: BWA-backtrack, BWA-SW and BWA-MEM.",AI/ML Tools
+C,"C is a general-purpose, procedural computer programming language supporting structured programming, lexical variable scope, and recursion, while a static type system prevents unintended operations. By design, C provides constructs that map efficiently to typical machine instructions and has found lasting use in applications previously coded in assembly language.",DevSecOps Tools
+C++,"C++ is a high-level, general-purpose programming language created by Bjarne Stroustrup as an extension of the C programming language, or ""C with Classes"".",DevSecOps Tools
+C3.ai,Tool specializing in predictive maintenance applications,AI/ML Tools
+CentOS 7,"Linux distribution that provides a free, community-supported computing platform functionally compatible with its upstream source, Red Hat Enterprise Linux. https://centos.org",OS
+Chef,Configuration security management.,Automation/Infrastructure Tools
+Cisco Intelligent Automation for Cloud,Comprehensive cloud management platform delivers a wide range of services from underlying infrastructure to anything-as-a-service.,Automation/Infrastructure Tools
+CKAN,"Open source data portal platform and data management system that makes data accessible – by providing tools to streamline publishing, sharing, finding and using data.",Repository Tools/Library
+Clair,"Clair, an open source tool that lets you scan containers and Docker images for potential security problems.",Automation/Infrastructure Tools
+Cleo Cloud Integration Platform,"Create custom integrations for cloud applications, optimizing workflows.",Automation/Infrastructure Tools
+Cmake,CMake is a cross-platform free and open-source software tool for managing the build process of software using a compiler-independent method.,DevSecOps Tools
+Cobalt,"Interfaces to Data Sources & Data Acquisition Tool, Scrubbing/Sanitization Tool Developed by APL",Data Ingestion/Manipulation
+Cobalt UI,UI & Visualization Tool,Data Ingestion/Manipulation
+Colaboratory,"Colaboratory is a free Jupyter notebook environment that requires no setup and runs entirely in the cloud.
+
+With Colaboratory you can write and execute code, save and share your analyses, and access powerful computing resources, all for free from your browser.",DevSecOps Tools
+Confluence,Wiki Documentation. Collaboration software program developed by Atlassian.,Collaboration Tools
+Core3,GEOINT Remotely Sensed Imagery Data,Visualization Tools
+CouchDB,"Open Source and browser based UI tools available for access. NoSQL DB (Highly Distributed with Eventual Consistency) - Apache CouchDB is an open-source document-oriented NoSQL database, implemented in the concurrency-oriented language Erlang. It uses JSON to store data, JavaScript as its query language using MapReduce, and HTTP for an API.",Database
+CPU & GPU (Nvidia CUDA),Computing CPU & GPU Type,Automation/Infrastructure Tools
+CPU & GPU (V100 or RTX8000),Computing CPU & GPU Type,Automation/Infrastructure Tools
+CUDA,https://docs.nvidia.com/cuda/eula/index.html,AI/ML Tools
+cuDNN,"NVIDIA CUDA Deep Neural Network (cuDNN) library is a GPU-accelerated library of primitives for deep neural networks that provides highly tuned implementations for standard routines such as forward and backward convolution, pooling, normalization, and activation layers. Other Neural Network Tools",AI/ML Tools
+D3.js,"D3.js is a JavaScript library for producing dynamic, interactive data visualizations in web browsers. It makes use of Scalable Vector Graphics, HTML5, and Cascading Style Sheets standards. ",Visualization Tools
+DAART,UI & Visualization Tool,Visualization Tools
+Dask.distributed,Python Parallel Processing Library,AI/ML Tools
+Data Science Workbench,Managed desktop with data science tools.,AI/ML Tools
+Databricks,"ML Flow, Includes a GUI for management of clusters and integrates with Jupyter notebooks and python
+ML Runtime
+Unified Analytics Platform: Databricks provides a Unified Analytics Platform that that helps analysts by organizing the data into notebooks and making it easy to visualize data through the use of dashboards.",AI/ML Tools
+DataRobot,"DataRobot is a platform that focuses on automation of the tasks involved in data science, machine learning and AI (such as preprocessing, model selection, model tuning, deployment)
+
+#1 AutoML vendor in the Forrester New Wave 2Q 2019",JCF Requirements
+de.js,#N/A,#N/A
+Debian,"Debian GNU/Linux is a Linux distribution composed o free and open-source software, developed by the community-supported Debian Project.",OS
+Decipher Sidecar Container / Grey Mesh,"The Grey Matter Sidecar Proxy can be deployed multiple ways to support different deployment infrastructure. The preferred approach is to deploy via a Docker container running inside of an OpenShift or Kubernetes Pod, however, the proxy is also packaged as a TAR file containing an executable binary that can be run standalone in your infrastructure.",DevSecOps Tools
+Deep Learning AMIs,"Specialized machine images with GPUs, pre-loaded tools, etc.",Repository Tools/Library
+DeepVariant,DeepVariant is an analysis pipeline that uses a deep neural network to call genetic variants from next-generation DNA sequencing data.,AI/ML Tools
+Dell Boomi,Cloud Integrator and API builder,DevSecOps Tools
+Docker,"Utility Software - Docker is a set of platform-as-a-service products that use OS-level virtualization to deliver software in packages called containers. Containers are isolated from one another and bundle their own software, libraries and configuration files.",Docker Tools
+Docker Compose,"Docker Compose is a tool for defining and running multi-container Docker applications. With Compose, a user uses a YAML file to configure application's services. Then with a single command, the user can create and start all the services from the configuration.",Docker Tools
+Docker Swarm,"Docker Swarm is a clustering and scheduling tool for Docker containers. With Swarm, IT administrators and developers can establish and manage a cluster of Docker nodes as a single virtual system.",Docker Tools
+Domo,Managed desktop with data science tools,AI/ML Tools
+DotData,"The dotData Platform automates the entire data science process, from source data through feature engineering to machine learning, and delivers models ready to scale and deploy into production immediately
+
+""Leader"" category in AutoML - Forrester 5/2019",AI/ML Tools
+EC2 Instances,"Amazon Elastic Compute Cloud, part of Amazon's cloud computing platform, Amazon Web Services, which allows users to rent virtual computers on which to run their own computer applications.",AWS Tools
+Eclipse + PyDev,"Eclipse is a general purpose IDE
+
+PyDev is an IDE specific to Python that works with Eclipse.",DevSecOps Tools
+Elastic File System (EFS),"Amazon Elastic File System (EFS) provides a simple, scalable, fully managed elastic NFS file system for use with AWS Cloud services and on-premises servers. AI Distribution Tool",AWS Tools
+ElasticBeats,Single-purpose data shippers. They send data from hundreds or thousands of machines and systems to Logstash or Elasticsearch.,Data Ingestion/Manipulation
+Elasticsearch,"Elasticsearch:a free, open-source serch engine based on the Lucene library that provides a distributed, multitenant-capable full-text search engine with an HTTP web interface and schema-free JSON documents.",Data Ingestion/Manipulation
+Emacs,"Emacs is the extensible, customizable, self-documenting real-time display editor.",Data Ingestion/Manipulation
+Enterprise Data Hub,"Build, train, and deploy scalable ML and AI applications on Cloudera Enterprise Data Hub",AI/ML Tools
+Express,Express is a minimal and flexible Node.js web application framework that provides a robust set of features to develop web and mobile applications.,Data Visualization
+Fluent,Data Acquisition,Data Ingestion/Manipulation
+FluentBit,"Fluent Bit is an open source and multi-platform Log Processor and Forwarder which allows you to collect data/logs from different sources, unify and send them to multiple destinations. It's fully compatible with Docker and Kubernetes environments.",Log Ingestion/Manipulation
+Foreman,"Lifecycle management tool for physical and virtual servers. We give system administrators the power to easily automate repetitive tasks, quickly deploy applications, and proactively manage servers, on-premise or in the cloud.",Automation/Infrastructure Tools
+Fortify,"Elasticsearch: a free, open-source serch engine based on the Lucene library that provides a distributed, multitenant-capable full-text search engine with an HTTP web interface and chema-free JSON documents.",Data Ingestion/Manipulation
+Galaxy Simulation Builder,"Galaxy Simulation Builder is a framework for multi-site, cross-platform simulation and optimization",Data Ingestion/Manipulation
+Galaxy through AWS Cloudlaunch,"Galaxy is a scientific workflow, data integration, and data and analysis persistence and publishing platform that aims to make computational biology accessible to research scientists that do not have computer programming or systems administration experience.",Data Ingestion/Manipulation
+GAMS,"The General Algebraic Modeling System is a high-level modeling system for mathematical optimization. GAMS is designed for modeling and solving linear, nonlinear, and mixed-integer optimization problems.",AI/ML Tools
+GATK,The GATK is the industry standard for identifying SNPs and indels in germline DNA and RNAseq data.,AI/ML Tools
+GCC,should be included by default,DevSecOps Tools
+GDAL,"Data Transformation/Translation Tool - Geospatial Data Abstraction Library (GDAL) is a computer software library for reading and writing raster and vector geospatial data formats, and is released under the permissive X/MIT style free software license by the Open Source Geospatial Foundation",Data Ingestion/Manipulation
+Gephi,Gephi is a tool for data analysts and scientists keen to explore and understand graphs.,Data Visualization
+Git,Software Versioning & Revision Control,Repository Tools/Library
+GitLab,"Automated Software Build, Test, Integration, & Performance Profiling. Web-Based DevOps lifecycle tool provides a Git-repository manager providing wiki, issue-tracking, and CI/CD Pipeline.",Repository Tools/Library
+GitLab CI,"GitLab Continuous Integration & Delivery: Automated Software Build, Test, Integration, & Performance Profiling. Web-Based DevOps lifecycle tool provides a Git-repository manager providing wiki, issue-tracking, and CI/CD Pipeline. ",Repository Tools/Library
+GlueViz,Glue is a Python library to explore relationships within and among related datasets. ,Data Ingestion/Manipulation
+Google Cloud AutoML,"Train high-quality custom machine learning models with minimum effort and machine learning expertise.
+Try AutoML Translation, Natural Language, and Vision, now in beta.",AI/ML Tools
+Google Cloud Deployment Manager,"Specify all the resources needed for your application in a declarative format using yaml. You can also use Python or Jinja2 templates to parameterize the configuration and allow reuse of common deployment paradigms such as a load balanced, auto-scaled instance group. Treat your configuration as code and perform repeatable deployments.",Automation/Infrastructure Tools
+Google Cloud Machine Learning Engine & AI Platform,"AI Platform makes it easy for machine learning developers, data scientists, and data engineers to take their ML projects from ideation to production and deployment, quickly and cost-effectively. From data engineering to “no lock-in” flexibility, AI Platform’s integrated tool chain helps you build and run your own machine learning applications.",AI/ML Tools
+Google Cloud Natural Language API,Natural Language enables you to analyze text and also integrate it with your document storage on Cloud Storage.,AI/ML Tools
+Google Cloud Speech API,Google Speech-to-Text enables developers to convert audio to text by applying powerful neural network models in an easy-to-use API.,AI/ML Tools
+Google Cloud Talent Solution,These are the products in the FedRamped portion (6/2019) that are available for GSA to pilot and appear to have an AI/ML component.,AI/ML Tools
+Google Cloud Translation API,"Translation Basic API uses Google's pre-trained neural machine translation to deliver fast, dynamic results.",AI/ML Tools
+Google Cloud Video Intelligence API,Google Video Intelligence allows CBS Interactive to plug into our existing video encoding framework to generate video metadata. ,AI/ML Tools
+Google Cloud Vision API,"Video Intelligence API has pre-trained machine learning models that automatically recognize a vast number of objects, places, and actions in stored and streaming video.",AI/ML Tools
+Google DialogFlow,"Dialogflow is an end-to-end, build-once deploy-everywhere development suite for creating conversational interfaces for websites, mobile applications, popular messaging platforms, and IoT devices.",AI/ML Tools
+GridFS,"Data Storage Type MongoDB - GridFS is a specification for storing and retrieving files that exceed the BSON-document size limit of 16 MB. Instead of storing a file in a single document, GridFS divides the file into parts or chunks and stores each chunk as a separate document",Database
+Gurobi,"The Gurobi Optimizer is a commercial optimization solver for linear programming, quadratic programming, quadratically constrained programming, mixed integer linear programming, mixed-integer quadratic programming, and mixed-integer quadratically constrained programming.",AI/ML Tools
+Gym,Gym is a toolkit for developing and comparing reinforcement learning algorithms. It supports teaching agents everything from walking to playing games like Pong or Pinball.,Repository Tools/Library
+H20.AI,"H2O Driverless AI employs the techniques of expert data scientists in an easy to use application that helps scale your data science efforts. Driverless AI empowers data scientists to work on projects faster using automation and state-of-the-art
+computing power from GPUs to accomplish tasks in minutes that used to take months.
+
+""Leader"" category in AutoML - Forrester 5/2019",AI/ML Tools
+Hadoop,Apache Hadoop is a collection of open-source software utilities that facilitate using a network of many computers to solve problems involving massive amounts of data and computation.,AI/ML Tools
+HBase,HBase is an open-source non-relational distributed database modeled after Google's Bigtable and written in Java.,Database
+Hive,Apache Hive is a data warehouse software project built on top of Apache Hadoop for providing data query and analysis.,Database
+HortonWorks,"Hortonworks Data Platform (HDP) includes Apache Hadoop and is used for storing, processing, and analyzing large volumes of data. The platform is designed to deal with data from many sources and formats. Manage Big Data and Associated Processing",Data Ingestion/Manipulation
+HPCMP Launcher,High Performance Computing Modernization Program (HPCMP) Launching Tool,AI/ML Tools
+IBM App Connect,Cloud integrator and API builder,Automation/Infrastructure Tools
+IBM Knowledge Studio,IBM Watson Knowledge Studio is a cloud-based application that enables developers and domain experts to collaborate on the creation of custom annotator components that can be used to identify mentions and relations in unstructured text,AI/ML Tools
+IBM Language translator,"APIs available with pre-trained AP capabilities. IBM Watson Assistant is a cognitive bot that you can customize for your business needs, and deploy across multiple channels to bring help to your customers where and when they need it.",AI/ML Tools
+IBM Natural language classifier,"APIs available with pre-trained AP capabilities. IBM Watson Assistant is a cognitive bot that you can customize for your business needs, and deploy across multiple channels to bring help to your customers where and when they need it.",AI/ML Tools
+IBM Natural language understanding,"APIs available with pre-trained AP capabilities. IBM Watson Assistant is a cognitive bot that you can customize for your business needs, and deploy across multiple channels to bring help to your customers where and when they need it.",AI/ML Tools
+IBM Personality insights,"APIs available with pre-trained AP capabilities. IBM Watson Assistant is a cognitive bot that you can customize for your business needs, and deploy across multiple channels to bring help to your customers where and when they need it.",AI/ML Tools
+IBM PowerVision,"PowerAI Vision makes computer vision with deep learning more accessible to business users. PowerAI Vision includes an intuitive toolset that empowers subject matter experts to label, train, and deploy deep learning vision models, without coding or deep learning expertise. It includes the most popular deep learning frameworks and their dependencies, and it is built for easy and rapid deployment and increased team productivity. By combining PowerAI Vision software with accelerated IBM® Power Systems™, enterprises can rapidly deploy a fully optimized and supported platform with blazing performance.",AI/ML Tools
+IBM Speech to Text,"APIs available with pre-trained AP capabilities. IBM Watson Assistant is a cognitive bot that you can customize for your business needs, and deploy across multiple channels to bring help to your customers where and when they need it.",AI/ML Tools
+IBM Text to Speech,"APIs available with pre-trained AP capabilities. IBM Watson Assistant is a cognitive bot that you can customize for your business needs, and deploy across multiple channels to bring help to your customers where and when they need it.",AI/ML Tools
+IBM Tone analyzer,"APIs available with pre-trained AP capabilities. IBM Watson Assistant is a cognitive bot that you can customize for your business needs, and deploy across multiple channels to bring help to your customers where and when they need it.",AI/ML Tools
+IBM Watson Assistant,"APIs available with pre-trained AP capabilities. IBM Watson Assistant is a cognitive bot that you can customize for your business needs, and deploy across multiple channels to bring help to your customers where and when they need it.",AI/ML Tools
+IBM Watson Discovery,"Watson Discovery Service is a suite of APIs that makes it easier to store, analyze, and understand data at scale.
+The service relies on API calls and is meant to be able to used by all employees, even those who may not have an expertise in data science.
+Watson Discovery Service focuses on natural language understanding, but the company is looking to make other capabilities available in a similar way.",AI/ML Tools
+IBM Watson Studio,"IBM Watson Studio is a collaborative environment with AI tools that you and your team can use to collect and prepare training data, and to design, train, and deploy machine learning models. Includes SPSS modeler as well as Python (Jupyter) environment and Rstudio environment. 
+
+Ranging from graphical tools you can use to build a model in minutes, to tools that automate running thousands of experiment training runs and hyperparameter optimization, Watson Studio AI tools support popular frameworks, including: TensorFlow, Caffe, PyTorch, and Keras.
+
+You can think of Watson Studio AI tools in three categories:
+
+Visual recognition
+Natural language classification
+Watson Machine Learning",AI/ML Tools
+Intel SPMD Program Compiler,"ispc is a compiler for a variant of the C programming language, with extensions for ""single program, multiple data"" (SPMD) programming.",DevSecOps Tools
+IntelliJ IDEA,IDE - IntelliJ IDEA is a Java integrated development environment (IDE) for developing computer software developed by JetBrains (formerly IntelliJ).,DevSecOps Tools
+IRODS,"MetaData Management Tool - IRODS is an Open-Source Data Management Software that provides capabilities for Automated Ingest, Storage Tiering, Compliance, Publishing, Provenance, Integrity, Auditing, and Indexing.",Data Ingestion/Manipulation
+Java,"Java is a general-purpose programming language that is class-based, object-oriented, and designed to have as few implementation dependencies as possible.",DevSecOps Tools
+Jenkins,"Free and open source automation server written in Java that helps to automate the non-human part of the software development process, with continuous integration and facilitating technical aspects of continuous delivery.",DevSecOps Tools
+Jira,Jira is a proprietary issue tracking product developed by Atlassian that allows bug tracking and agile project management.,Collaboration Tools
+Jira,Jira is a proprietary issue tracking product developed by Atlassian that allows bug tracking and agile project management.,Collaboration Tools
+Jitterbit,Cloud integrator and API builder,Automation/Infrastructure Tools
+JupyterLab,"IDE. JupyterLab is a web-based interactive development environment for Jupyter notebooks, code, and data. JupyterLab is flexible and can configure and arrange the user interface to support a wide range of workflows in data science, scientific computing, and machine learning.",DevSecOps Tools
+Keras,"Keras is a high-level neural networks API, written in Python and capable of running on top of TensorFlow, CNTK, or Theano. Deep Learning Tool - Open-Source neural-network library written in Python and designed to enable fast experimentation with deep neural networks. Capable of running on top of TensorFlow, Microsoft Cognitive Toolkit, Theano, or PlacidML.",DevSecOps Tools
+Kibana,Kibana:Open source data visualization plugin for Elasticsearch that provides visualization capabilities on top of the content indexed on an Elasticsearch cluster.,Data Visualization
+Kinesis,"Amazon Kinesis makes it easy to collect, process, and analyze real-time, streaming data so you can get timely insights and react quickly to new information.",Data Ingestion/Manipulation
+Knime Analytics Platform,"One enterprise-grade software platform, two complementary tools. Open source KNIME Analytics Platform for creating data science and commercial KNIME Server for productionizing data science.",Data Visualization
+KubeFlow,Free and open-source platform developed by Google and designed to develop machine learning applications (Using TensorFlow and deploying applications to Kubernetes),Automation/Infrastructure Tools
+Kuber,"Kuber is a Python library for the management of Kubernetes resources. It is ideal for collectively managing groups of resources throughout their lifecycle. Resource definitions can be created and managed entirely in Python code (the pure-Python approach), but kuber is most effective when used in a hybrid fashion that combines configuration files and Python code.",DevSecOps Tools
+Kubernetes,"Kubernetes is an open-source container-orchestration system for automating application deployment, scaling, and management. It was originally designed by Google and is now maintained by the Cloud Native Computing Foundation.",Docker Tools
+LabelMe,Data Labeling Tool - LabelMe is an open annotation tool. The goal of LabelMe is to provide an online annotation tool to build image databases for computer vision research. ,Data Ingestion/Manipulation
+Linux,Family of open source Unix-like operating systems based on the Linux kernel and is typically packaged in a Linux distribution,OS
+LogStash,"Integrates data from any source, in any format with this flexible, open source collection, parsing, and enrichment pipeline.",Log Ingestion/Manipulation
+MapReduce,"MapReduce is a programming model and an associated implementation for processing and generating big data sets with a parallel, distributed algorithm on a cluster.",Data Ingestion/Manipulation
+MariaDB,"MariaDB is a community-developed, commercially supported fork of the MySQL relational database management system, intended to remain free and open-source software.",Database
+MATLAB,MATLAB is a multi-paradigm numerical computing environment and proprietary programming language developed by MathWorks. IDE,Data Ingestion/Manipulation
+Matomo,"Matomo is a free and open source web analytics application developed by a team of international developers, that runs on a PHP/MySQL webserver.",Data Ingestion/Manipulation
+Matplot,"Matplotlib is a plotting library for the Python programming language and its numerical mathematics extension NumPy. It provides an object-oriented API for embedding plots into applications using general-purpose GUI toolkits like Tkinter, wxPython, Qt, or GTK+.",Repository Tools/Library
+Microsoft Azure Bot Service,"Build, connect, deploy, and manage intelligent bots to interact naturally with your users on websites, apps, Cortana, Microsoft Teams, Skype, Slack, Facebook Messenger, and more. Get started quickly with a complete bot-building environment. You’ll pay only for what you use. Bring intelligent search to your apps and harness the ability to comb billions of web pages, images, videos, and news with a single API call.",Azure Tools
+Microsoft Azure Resource Manager (ARM),"Utility Software (Azure) - Microsoft Azure Resource Manager (ARM) is a management framework that allows administrators to deploy, manage and monitor Azure Resources. ARM also allows administrators to apply access controls to all services in a resource group with role-based access control (RBAC) which is integrated into ARM.",Azure Tools
+Microsoft Bing Web Search,"The Microsoft Azure Cognitive Services Bing Web Search API returns a list of relevant results from a search query which may include images, videos, news, related searches, and spell correction.",Azure Tools
+Microsoft Cognitive Services,Cognitive Services are a set of machine learning algorithms that Microsoft has developed to solve problems in the field of Artificial Intelligence (AI).,Azure Tools
+Microsoft SCCM,"Microsoft System Center Configuration Manager (SCCM), a systems management software product for managing large groups of computers running Windows.",Automation/Infrastructure Tools
+Microsoft SQL,Relational database management system,Database
+Miniconda,"Miniconda is a free minimal installer for conda. It is a small, bootstrap version of Anaconda that includes only conda, Python, the packages they depend on, and a small number of other useful packages, including pip, zlib and a few others.",DevSecOps Tools
+MLflow,"MLflow is an open source platform for managing the end-to-end machine learning lifecycle. 
+
+MLflow is library-agnostic. You can use it with any machine learning library, and in any programming language, since all functions are accessible through a REST API and CLI. For convenience, the project also includes a Python API, R API, and Java API.",AI/ML Tools
+MongoDB,"Open Source UI tools available for access (i.e. Mongodb Compass, Robo 3T). MongoDB is a cross-platform document-oriented database program classified as a NoSQL database program. MongoDB uses JSON-like documents with schema. Data Storage Type",Database
+Mulesoft Anypoint Platform,API design and automation tool,Automation/Infrastructure Tools
+MySQL,Open Source UI tools available for access,Database
+Natural Language Toolkit (NLTK),The Natural Language Toolkit is a suite of libraries and programs for symbolic and statistical natural language processing (NLP) for English written in the Python programming language.,Repository Tools/Library
+Neo4j,ACID-compliant transactional database with native graph storage and processing,Database
+Nessus (Tenable),Full stack cyber tool,Automation/Infrastructure Tools
+NIFI,"Integrated Data Logistics to Automate Movement of Data - Apache NiFi is designed to automate the flow of data between software systems and is based on the ""NiagaraFiles"" software previously developed by the NSA.",Automation/Infrastructure Tools
+Numpy,"NumPy is a library for the Python programming language, adding support for large, multi-dimensional arrays and matrices, along with a large collection of high-level mathematical functions to operate on these arrays.",Repository Tools/Library
+Nvidia CUDA Compiler (NVCC),Nvidia CUDA Compiler is a proprietary compiler by Nvidia intended for use with CUDA. CUDA code runs on both the CPU and GPU.,DevSecOps Tools
+Nvidia DASK,"Scalable Statistical Analysis (Multi-GPU) - Dask is a flexible library for parallel computing in Python. Dask is composed of 2 parts, Big Data collections like parallel arrays & dataframes; and lists that extend common interfaces like NumPy, Pandas, or Python iterators to larger-than-memory or distributed environments. The Dask Dataframe library provides parallel algorithms around the Pandas API. The Dask distributed task scheduler provides general-purpose parallel execution given complex task graphs.",Repository Tools/Library
+Nvidia RAPIDS,Statistical Analysis - RAPIDS is an open-source suite of data processing and machine learning libraries developed by NVIDIA that enables GPU-acceleration for data science workflows. RAPIDS relies on NVIDIA's CUDA language allowing users to leverage GPU processing and high-bandwidth GPU memory through user-friendly Python interfaces.,AI/ML Tools
+OpenCV,"OpenCV is a library of programming functions mainly aimed at real-time computer vision. Originally developed by Intel, it was later supported by Willow Garage then Itseez.",Repository Tools/Library
+OpenSuse,Linux distribution sponsored by SUSE Linux GmbH.,OS
+Oracle SQL ,Relational database management system,Database
+Orange,"Orange is an open-source data visualization, machine learning and data mining toolkit. It features a visual programming front-end for explorative data analysis and interactive data visualization.",Data Visualization
+Pandas,Statistical Analysis - Pandas is an open source software library written for the Python programming language for data manipulation and analysis. Panda offers data structures and operations for manipulating numerical tables and time series.,Repository Tools/Library
+Perceptor,"Computer software platforms for monitoring the Internet for indicators of potential network compromise or unsanctioned activities indicative of a breach, and that alerts network users to potential security threats and blocks potential threats online, for use in the field of cyber defense and business intelligence by users of computer networks",Automation/Infrastructure Tools
+pgAdmin,"PostgreSQL Tools for Windows, Mac, Linux and the Web.",DevSecOps Tools
+phpMyAdmin,phpMyAdmin is a free and open source administration tool for MySQL and MariaDB.,DevSecOps Tools
+Piesync,CRM and marketing tool that syncs contact information across applications,Automation/Infrastructure Tools
+pip3,Package installer for Python.,DevSecOps Tools
+PostGre SQL,"PostgreSQL, known as Postgres, is a free and open-source relational database management system emphasizing extensibility and technical standards compliance. It is designed to handle a range of workloads, from single machines to data warehouses or Web services with many concurrent users. ",Database
+Promote,Alteryx Promote helps analytic teams deploy more predictive models faster by eliminating the need to recode models for real-time application consumption. Data scientists can quickly deploy their custom R and Python models as-is while citizen data scientists can deploy advanced analytics code-free from Alteryx Designer – providing the flexibility and reliability needed to advance your analytics to the next level.,Automation/Infrastructure Tools
+Puppet,Multi-cloud management,Automation/Infrastructure Tools
+Pycharm,There are other IDEs/Text Editors people may prefer,DevSecOps Tools
+Python,"Python is an interpreted, high-level general-purpose programming language with a design philosophy that emphasizes code readability with its notable use of significant whitespace. Python can be used for Statistical Analysis & GEOINT data analysis. http://python.org",DevSecOps Tools
+PyTorch,"An open source deep learning platform that provides a seamless path from research prototyping to production deployment. Deep Learning Tool - Open-Source machine learning library based on the Torch library, used for applications such as computer vision and natural language processing.",AI/ML Tools
+Quill,This product works with Tableau and generates English narratives for the dashboards describing the insights. Natural Language Generation.,AI/ML Tools
+R,Automatic install with Anaconda https://www.r-project.org/,AI/ML Tools
+R Shiny,R Shiny is an R package that makes it easy to build interactive web apps directly from R.,AI/ML Tools
+R Studio,"IDE - RStudio is an integrated development environment for R, a programming language for statistical computing and graphics.",AI/ML Tools
+Rancher,"Open-source multi-cluster orchestration platform, lets operations teams deploy, manage and secure enterprise Kubernetes",Automation/Infrastructure Tools
+React,React is a JavaScript library for building user interfaces.,Data Visualization
+Red Hat OpenShift OKD,"Built around a core of OCI container packaging and Kubernetes container cluster management, OKD is also augmented by application lifecycle management functionality and DevOps tooling. OKD provides a complete open source container application platform.",Automation/Infrastructure Tools
+RedHat (RHEL),Red Hat Enterprise Linux is a Linux distribution developed by Red Hat for the commercial market.,OS
+Redis,"Redis is an in-memory data structure project implementing a distributed, in-memory key-value database with optional durability. Redis supports different kinds of abstract data structures, such as strings, lists, maps, sets, sorted sets, HyperLogLogs, bitmaps, streams, and spatial indexes. Data Acquisition Tool",Database
+Redis Queue,Redis Queue (RQ) is a simple Python library for queueing jobs and processing them in the background with workers. It is backed by Redis and can be easily integrated in a web stack. Transport to Staging Area,Repository Tools/Library
+ReSharper,"Resharper is a popular developer productivity extension for Microsoft Visual Studio. It automates most of what can be automated in your coding routines. It finds compile errors, runtime errors, redundancies, and code smells right as you type, suggesting intelligent corrections for them.",Repository Tools/Library
+RetinaNET,RetinaNet is a single unified network composed of a backbone network and two task-specific subnetworks. The backbone is responsible for computing a conv feature map over an entire input image and is an off-the-shelf  network. RetinaNet can be used for Pattern Recognition,AI/ML Tools
+S3 Bucket,"Amazon S3 bucket is a public cloud storage resource available in Amazon Web Services (AWS) Simple Storage Service (S3). Amazon S3 buckets are similar to file folders, store objects, which consist of data and its descriptive metadata. AI Distribution Tool",AWS Tools
+Samtools,"SAMtools is a set of utilities for interacting with and post-processing short DNA sequence read alignments in the SAM, BAM and CRAM formats.",Data Ingestion/Manipulation
+SAS,"SAS Viya extends the SAS Platform to enable everyone – data scientists, business analysts, developers and executives alike – to collaborate and realize innovative results faster.",AI/ML Tools
+SciKit,"SciKit (short for SciPy Toolkits) are add-on packages for SciPy. SciKit Learn is a free software machine learning library for the Python programming language. It features various classification, regression, and clustering algorithms includes support vector machines, random forests, gradient boosting, k-means, and DBSCAN and is designed to interoperate with the Python numerical and scientific libraries, NumPy and SciPy.",Repository Tools/Library
+SciPy,"Open Source software for Scientific Computing in Python.SciPy builds on a small core of packages to include Python, NumPy, SciPy library, and Matplotlib. SciPy ecosystem includes tools for data management and computation, productive experimentation and high-performance computing.",Repository Tools/Library
+Seaborn,Seaborn is a Python data visualization library based on matplotlib. It provides a high-level interface for drawing attractive and informative statistical graphics.,Repository Tools/Library
+Seldon,"Manage, serve and scale models built in any framework on Kubernetes.",Automation/Infrastructure Tools
+Simio,Simio is a unique multi-paradigm modeling tool that combines the simplicity of objects with the flexibility of processes to provide a rapid modeling capability without requiring programming.,DevSecOps Tools
+Solarwinds,"Software to help manage networks, systems, and information technology infrastructure",Automation/Infrastructure Tools
+SonarQube,"SonarQube is an open-source platform developed by SonarSource for continuous inspection of code quality to perform automatic review with static analysis of code to detect bugs, code smells, and security vulnerabilities on over 20 programming languages. Software used to prevent, detect, and remove malware.",DevSecOps Tools
+SpaceNet Utilities,Statistical Analysis - SpaceNet is a corpus of commercial satellite imagery and labeled training data to use for machine learning research.,AI/ML Tools
+Spark,Apache Spark is an open-source distributed general-purpose cluster-computing framework that provides an interface for programming entire clusters with implicit data parallelism and fault tolerance.,Automation/Infrastructure Tools
+Splunk Enterprise,"Software for searching, monitoring, and analyzing machine-generated big data, via a Web-style interface",Log Ingestion/Manipulation
+Spyder,"In Python - designed by and for scientists, engineers and data analysts. It offers a combination of the advanced editing, analysis, debugging, and profiling functionality of a comprehensive development tool with the data exploration, interactive execution, and deep inspection",DevSecOps Tools
+Sqoop,Sqoop is a command-line interface application for transferring data between relational databases and Hadoop.,Data Ingestion/Manipulation
+STATA,Stata is a general-purpose statistical software package.,DevSecOps Tools
+Studio3T,Utility Software: Professional IDE and GUI for MongoDB.,Data Visualization
+SyncApps,Cloud Integrator and API builder,Automation/Infrastructure Tools
+Tableau,Tableau is a powerful and fastest growing data visualization tool used in the Business Intelligence Industry. It helps in simplifying raw data into the very easily understandable format.,Data Visualization
+TensorBoard,"TensorBoard is a suite of web applications for inspecting and understanding your TensorFlow runs and graphs. Deep Learning Tool. Visualization Learning Tools to visualize TensorFlow graph, plot quantitative metrics about the execution of your graph, and show additional data  like images  that pass through it.",AI/ML Tools
+TensorFlow,TensorFlow is a free and open-source software library for dataflow and differentiable programming across a range of tasks.,AI/ML Tools
+TensorFlow Serving,"TensorFlow Serving is a flexible, high-performance serving system for machine learning models, designed for production environments. TensorFlow Serving makes it easy to deploy new algorithms and experiments, while keeping the same server architecture and APIs. TensorFlow Serving provides out-of-the-box integration with TensorFlow models, but can be easily extended to serve other types of models and data.",AI/ML Tools
+TensorRT,A platform for high-performance deep learning inference that includes a deep learning inference optimizer and runtime that delivers low latency and high-throughput for deep learning inference applications. Other Neural Network Tools,AI/ML Tools
+Terraform,"Terraform is an open-source infrastructure as code software tool created by HashiCorp. It enables users to define and provision a datacenter infrastructure using a high-level configuration language known as Hashicorp Configuration Language, or optionally JSON.",Automation/Infrastructure Tools
+Theano,"Theano is a Python library that allows you to define, optimize, and evaluate mathematical expressions involving multi-dimensional arrays efficiently. ",Repository Tools/Library
+"ThoughtSpot, SearchIQ, SpotIQ",Natural language search. Use search to get granular insights from billions of rows of data. Or let AI uncover insights from questions you might not have thought to ask,AI/ML Tools
+Twistlock,Full Stack Security Solution,Automation/Infrastructure Tools
+Ubuntu,Free and open-source Linux distribution based on Debian.,OS
+Unet,u-Net is a convolutional neural network that was designed for biomedical image segmentation and was designed to work with fewer training images and to yield more precise segmentations. U-Net can be used for Pattern Recognition,AI/ML Tools
+Valgrind,C++ Debugging,DevSecOps Tools
+Vim,Vim is a highly configurable text editor for efficiently creating and changing any kind of text.,Data Ingestion/Manipulation
+Virtual Desktop Interface (VDI),"VDI is virtualization technology that hosts a desktop operating system on a centralized server in a data center. With VID, hypervisors work in the same way as they do with server utilization. UI & Visualization Tool",Automation/Infrastructure Tools
+Visual Studio Code,"IDE - Source Code editor developed by Microsoft for Windows, Linux, and macOS and includes support for debugging, embedding Git control and GitHub, syntax highlighting, intelligent code completion, snippets, and code refactoring.",DevSecOps Tools
+Visual Studio Professional 2019+,"IDE. Microsoft Visual Studio is an integrated development environment (IDE) that is used to develop computer programs, as well as websites, web apps, web services, and mobile apps. Visual Studio includes a code editor supporting IntelliSense, the code completion component, as well as code refactoring.",DevSecOps Tools
+VMWare Fusion,VMware Fusion is a software hypervisor developed by VMware for Macintosh computers.,Automation/Infrastructure Tools
+VMware vCenter Configuration Manager (VCM),"Store asset, security, and configuration settings, manage and remediate asset compliance, and automate server provisioning for physical and virtual IT systems and application",Automation/Infrastructure Tools
+Watchfloor (SOC),Security Suite Tools - Security Operation Center (SOC) on the watch floor. The facility that houses an information security team responsible for monitoring and analyzing an organization's security posture. ,Automation/Infrastructure Tools
+Windows Server,Windows Server 2012 or 2016,OS
+XGBoost,"XGBoost is an optimized distributed gradient boosting library designed to be highly efficient, flexible and portable. It implements machine learning algorithms under the Gradient Boosting framework. XGBoost provides a parallel tree boosting (also known as GBDT, GBM) that solve many data science problems in a fast and accurate way. The same code runs on major distributed environment (Hadoop, SGE, MPI) and can solve problems beyond billions of examples.",AI/ML Tools
+Yarn,"IDE - Apache Hadoop Yarn (Yet Another Resource Negotiator) is a large-scale, distributed operating system for big data applications that is capable of decoupling MapReduce's resource management and scheduling capabilities from the data processing component.",OS
+Zapier,Integrate web applications and automate workflows,Automation/Infrastructure Tools
