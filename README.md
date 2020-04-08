@@ -9,5 +9,6 @@ Learning workflow for Jupyter notebooks
 2. Juptyer Rich Display
 3. Math Expression Basics using Latex
 4. Data Wrangling
+5. Plotting Basics
 
 
