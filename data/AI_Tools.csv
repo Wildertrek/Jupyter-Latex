@@ -94,7 +94,7 @@ ML Runtime
 Unified Analytics Platform: Databricks provides a Unified Analytics Platform that that helps analysts by organizing the data into notebooks and making it easy to visualize data through the use of dashboards.",AI/ML Tools
 DataRobot,"DataRobot is a platform that focuses on automation of the tasks involved in data science, machine learning and AI (such as preprocessing, model selection, model tuning, deployment)
 
-#1 AutoML vendor in the Forrester New Wave 2Q 2019",JCF Requirements
+#1 AutoML vendor in the Forrester New Wave 2Q 2019",Requirements
 de.js,#N/A,#N/A
 Debian,"Debian GNU/Linux is a Linux distribution composed o free and open-source software, developed by the community-supported Debian Project.",OS
 Decipher Sidecar Container / Grey Mesh,"The Grey Matter Sidecar Proxy can be deployed multiple ways to support different deployment infrastructure. The preferred approach is to deploy via a Docker container running inside of an OpenShift or Kubernetes Pod, however, the proxy is also packaged as a TAR file containing an executable binary that can be run standalone in your infrastructure.",DevSecOps Tools
