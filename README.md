@@ -10,5 +10,6 @@ Learning workflow for Jupyter notebooks
 3. Math Expression Basics using Latex
 4. Data Wrangling
 5. Plotting Basics
+6. ML Model Analysis
 
 
