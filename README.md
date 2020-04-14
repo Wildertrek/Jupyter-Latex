@@ -12,4 +12,9 @@ Learning workflow for Jupyter notebooks
 5. Plotting Basics
 6. ML Model Analysis
 
+links for talk
+https://www.anaconda.com/distribution/
+https://github.com/Wildertrek/Jupyter-Latex
+https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks
+
 
