@@ -136,3 +136,4 @@
 134,nelu-kernelu,Jupyter,NodeJs 12,NodeJs 12.3+,Examples,An advanced NodeJs Jupyter kernel supporting comms and displays among other things.
 135,IPolyglot,Jupyter,"JavaScript, Ruby, Python, R, and more",GraalVM,Example Polyglot Notebook,Dockerfile
 136,Emu86 Kernel,Jupyter,Intel Assembly Language,,Introduction to Intel Assembly Language Tutorial,
+137,Common Workflow Language (CWL) Kernel,,v1.0,,examples directory,under development

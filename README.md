@@ -17,4 +17,6 @@ https://www.anaconda.com/distribution/
 https://github.com/Wildertrek/Jupyter-Latex
 https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks
 
+[Tech Talk](https://digital.gov/event/2020/04/14/how-utilize-open-source-jupyter-project/)
+
 
