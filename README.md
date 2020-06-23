@@ -13,10 +13,10 @@ Learning workflow for Jupyter notebooks
 6. ML Model Analysis
 
 links for talk
-https://www.anaconda.com/distribution/
-https://github.com/Wildertrek/Jupyter-Latex
-https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks
+- [Anaconda](https://www.anaconda.com/distribution/)
+- [Link to Github for Tech talk](https://github.com/Wildertrek/Jupyter-Latex)
+- [Gallery of Interesting Notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks)
 
-[Tech Talk](https://digital.gov/event/2020/04/14/how-utilize-open-source-jupyter-project/)
+- [Tech Talk](https://digital.gov/event/2020/04/14/how-utilize-open-source-jupyter-project/)
 
 
