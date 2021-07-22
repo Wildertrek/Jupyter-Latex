@@ -54,6 +54,8 @@ brew install --cask slack
 echo "install zoom enter password when asked"
 brew install --cask zoom
 
-
+#install tableau
+echo "installing tableau enter password when asked"
+brew install --cask tableau
 
 
