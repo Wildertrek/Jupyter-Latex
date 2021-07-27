@@ -1,6 +1,7 @@
 #!/bin/bash
 
 #this is script is for mac and can run on latest M1 chip macs :) 
+# chmod 755 script then ./script
 
 #install homebrew
 echo "installing homebrew please enter your password when asked"
