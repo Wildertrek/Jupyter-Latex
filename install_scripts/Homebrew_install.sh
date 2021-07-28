@@ -13,15 +13,19 @@ brew install python3
 
 #install r
 echo "installing R"
-brew install r
+brew install --cask r
 
 #install rstudio
 echo "installing RStudio"
-brew install rstudio
+brew install --cask rstudio
 
 #install jupyter
 echo "installing Jupyter"
 brew install jupyter
+
+#install jupyter-lab
+echo "installing Jupyter-lab"
+brew install jupyterlab
 
 #install mysqlworkbench
 echo "install mysqlworkbench"
