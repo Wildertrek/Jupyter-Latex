@@ -1,0 +1,343 @@
+,hostel.name,City,price.from,Distance,summary.score,rating.band,atmosphere,cleanliness,facilities,location.y,security,staff,valueformoney,lon,lat
+1,"""Bike & Bed"" CharinCo Hostel",Osaka,3300,2.9km from city centre,9.2,Superb,8.9,9.4,9.3,8.9,9,9.4,9.4,135.5137671,34.682678
+2,& And Hostel,Fukuoka-City,2600,0.7km from city centre,9.5,Superb,9.4,9.7,9.5,9.7,9.2,9.7,9.5,NA,NA
+3,&And Hostel Akihabara,Tokyo,3600,7.8km from city centre,8.7,Fabulous,8,7,9,8,10,10,9,139.7774724,35.6974473
+4,&And Hostel Ueno,Tokyo,2600,8.7km from city centre,7.4,Very Good,8,7.5,7.5,7.5,7,8,6.5,139.783667,35.712716
+5,&And Hostel-Asakusa North-,Tokyo,1500,10.5km from city centre,9.4,Superb,9.5,9.5,9,9,9.5,10,9.5,139.7983712,35.7278979
+6,1night1980hostel Tokyo,Tokyo,2100,9.4km from city centre,7,Very Good,5.5,8,6,6,8.5,8.5,6.5,139.7869499,35.724384
+7,328 Hostel & Lounge,Tokyo,3300,16.5km from city centre,9.3,Superb,8.7,9.7,9.3,9.1,9.3,9.7,8.9,139.7454672,35.5480439
+8,36Hostel,Hiroshima,2000,1.6km from city centre,9.5,Superb,8.8,9.9,9.2,9.6,9.8,9.8,9.5,NA,NA
+9,3Q House - Asakusa Smile,Tokyo,2500,10.2km from city centre,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+10,Ace Inn Shinjuku,Tokyo,2200,3km from city centre,7.7,Very Good,6.7,7.2,6.8,8.5,7.8,8.5,8.1,139.7243036,35.6925119
+11,Air Osaka Hostel,Osaka,1600,9.7km from city centre,9.2,Superb,9.5,9.1,8.7,8.8,8.9,9.8,9.5,135.4769556,34.6222596
+12,Aizuya Inn,Tokyo,2000,10.6km from city centre,8.5,Fabulous,8.1,8.3,8.4,7.8,8.9,9.1,8.9,139.800993,35.727547
+13,Akihabara Hotel 3000,Tokyo,2200,8km from city centre,10,Superb,10,10,10,10,10,10,10,139.779382,35.6974904
+14,Almond hostel & cafe Shibuya,Tokyo,2900,2.2km from city centre,9.3,Superb,9.1,9.5,8.8,9.5,9.4,9.7,9,139.6875352,35.6700092
+15,Anne Hostel Asakusabashi,Tokyo,2000,8.9km from city centre,9.1,Superb,8.8,9.2,8.7,9,9.1,9.5,9.2,139.7893595,35.6989448
+16,Anne Hostel Yokozuna,Tokyo,1800,9.5km from city centre,9.1,Superb,8.8,9.1,9,9.2,9.3,9.3,9.2,139.7967977,35.6954897
+17,Ark Hostel,Osaka,2700,1.9km from city centre,9,Superb,8.7,9.2,8.9,8.8,9.1,9.2,9,103.8731349,1.3108203
+18,ARTnSHELTER,Tokyo,2400,10.5km from city centre,8.3,Fabulous,8.2,8.1,7.7,7.9,9.1,9,8.3,139.742108,35.604242
+19,AS House (Asakusa Smile),Tokyo,1600,10km from city centre,7.8,Very Good,7.9,6.2,7,9,8.2,8,8.3,139.800616,35.707363
+20,Asakusa Hostel Toukaisou,Tokyo,1300,9.3km from city centre,8.9,Fabulous,7.9,9.4,8.3,9.5,9.2,8.9,9.2,139.79081,35.713177
+21,Asakusa Ryokan Toukaisou,Tokyo,3600,9.3km from city centre,8.7,Fabulous,8,8.4,8.4,8.8,8.8,9.4,8.8,139.79081,35.713177
+22,Asakusahotel Wasou,Tokyo,2000,9.9km from city centre,9.4,Superb,8.7,9.3,9,9.7,10,10,9.3,139.7966971,35.7118769
+23,Astro Station,Tokyo,3500,3.8km from city centre,8.4,Fabulous,7.1,9.1,8,9.7,7.1,8.6,8.9,139.7036929,35.7143962
+24,B&S Eco Cube Shinsaibashi,Osaka,2600,4km from city centre,8.6,Fabulous,7.5,9,8,8.5,10,8,9,135.4991771,34.6707458
+25,Backpackers Hostel K's House Hiroshima,Hiroshima,2600,1.9km from city centre,9.4,Superb,9,9.5,9.2,9.4,9.5,9.7,9.3,132.473831,34.392506
+26,Backpackers Hostel K's House Kyoto,Kyoto,1800,2.4km from city centre,9.2,Superb,9,9.3,9.2,9.1,9.5,9.4,9.1,135.764916,34.989791
+27,Backpackers Hostel K's House Tokyo,Tokyo,2100,9.2km from city centre,9.2,Superb,9.1,9.3,9,8.6,9.5,9.6,9,139.792253,35.705066
+28,Backpackers Hotel Toyo Osaka,Osaka,1500,6.5km from city centre,8.8,Fabulous,8.1,8.2,8.5,8.9,9.3,9.3,9.3,135.5041024,34.6483651
+29,Backstage Osaka Hostel & Bar,Osaka,2200,4.5km from city centre,8.8,Fabulous,8.8,8.2,8.1,9.5,8.6,9.3,9.2,135.513299,34.6670083
+30,Beagle Tokyo Hostel & Apartments,Tokyo,3800,16.1km from city centre,9,Superb,8,10,9,8,9,9,10,139.7410778,35.5504924
+31,Bed Stock,Fukuoka-City,2500,1.1km from city centre,8.9,Fabulous,8.6,9.9,8.1,9.4,8.9,9,8.6,NA,NA
+32,Beehive Hostel Osaka,Osaka,2900,3.4km from city centre,9.1,Superb,8.8,9.2,8.7,8.8,9.5,9.7,9.2,135.508387,34.676892
+33,Bigtree Guesthouse,Osaka,2900,36.6km from city centre,9.6,Superb,9.3,9.8,9.3,9.1,10,10,9.3,135.3233376,34.4119443
+34,Bird Hostel,Kyoto,2700,1.1km from city centre,9.3,Superb,8.9,9.5,9.5,9.4,9.2,9.5,9.4,135.7587254,35.0175416
+35,bnb+ Ninja Dojo Ueno,Tokyo,2500,8km from city centre,5.2,Rating,4,3.3,4,8.7,5.3,4.7,6.7,NA,NA
+36,bnb+Shinjuku Castle,Tokyo,2500,1.3km from city centre,5,Rating,2.7,4,3.3,7.3,5.3,5.3,6.7,NA,NA
+37,Bonfire Hostel Osaka,Osaka,1800,9.5km from city centre,9.2,Superb,7.6,9.6,10,8,9.6,10,9.6,135.506891,34.621308
+38,Bonsai Guest House,Osaka,1800,5.9km from city centre,8.7,Fabulous,7.5,9.1,8.4,9.5,8.9,8.9,8.8,NA,NA
+39,Book and Bed Tokyo - Kyoto,Kyoto,3800,0.9km from city centre,9.1,Superb,9,10,8.5,9.5,8.5,10,8,135.7727965,35.0041178
+40,Book And Bed Tokyo Asakusa,Tokyo,4100,9.6km from city centre,9.1,Superb,8.7,9.7,8.6,9.4,9.5,9.3,8.6,139.7949806,35.7107965
+41,Book And Bed Tokyo Fukuoka,Fukuoka-City,4300,0.3km from city centre,8.6,Fabulous,8,10,6,10,8,10,8,130.3979662,33.5909933
+42,Book And Bed Tokyo Ikebukuro,Tokyo,4100,4.9km from city centre,8.2,Fabulous,8.9,8,8,9.1,7.7,8.6,7.4,139.7085388,35.7310808
+43,Bunka Hostel Tokyo,Tokyo,2200,9.5km from city centre,9.3,Superb,8.8,9.3,9.3,9.5,9.4,9.8,9.2,139.79322,35.712108
+44,Calendar Hotel,Kyoto,3500,8.8km from city centre,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+45,Capsule Hotel Anshin Oyado Akihabara,Tokyo,6200,0km from city centre,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+46,Capsule Hotel Anshin Oyado Shinbashi,Tokyo,6000,6.6km from city centre,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+47,Capsule Hotel Asahi Plaza Shinsaibashi,Osaka,3000,4km from city centre,9.9,Superb,10,10,10,10,10,10,9,135.497847,34.6707858
+48,Capsule Inn Kinshichou,Tokyo,2600,10.9km from city centre,8.6,Fabulous,6,10,8,8,10,8,10,139.81198,35.6981223
+49,Capsule Resort Kyoto Square,Kyoto,3100,1.3km from city centre,9.6,Superb,9.1,10,9.6,10,9.8,9.8,9.1,135.7535562,35.0112333
+50,Capsule Value Kanda,Tokyo,3000,7.1km from city centre,8.6,Fabulous,8,8.7,7.3,9.3,8.7,9.3,8.7,139.7707637,35.6895954
+51,Casa Macondo,Osaka,3000,5km from city centre,6.9,Good,6.5,6.5,7.5,7,7,6.5,7,NA,NA
+52,Centurion Cabin & Spa Kyoto,Kyoto,2500,1.1km from city centre,8.9,Fabulous,7.9,9.6,9.1,9.6,8.9,8.5,8.6,135.761618,35.003533
+53,Centurion Hotel Residential Akasaka,Tokyo,2600,4.5km from city centre,9,Superb,7.5,9.3,9.3,9.3,9.5,8.9,9,139.7376971,35.6738463
+54,Centurion Ladies Hostel Uenopark (Female only),Tokyo,2500,7.4km from city centre,8.9,Fabulous,7.7,8.9,9.1,9.1,9.3,8.9,9.3,139.770129,35.709199
+55,Chaganjutei,Kyoto,3300,14.1km from city centre,9.6,Superb,10,10,9,9,9,10,10,135.8007905,34.8876476
+56,CITAN Hostel,Tokyo,2500,8.1km from city centre,9.4,Superb,9.3,9.8,9.5,9.1,9.5,9.6,9.3,139.781352,35.691571
+57,Coco Hostel Osaka,Osaka,2100,4.7km from city centre,8.5,Fabulous,7.2,9.2,8,9.8,8.2,8.8,8.2,135.508221,34.6644243
+58,Colours,Kyoto,1600,1.8km from city centre,8.9,Fabulous,4,10,10,8,10,10,10,NA,NA
+59,Comics & CapsuleHotel COMICAP kyotoshinkyogoku,Kyoto,2000,0.7km from city centre,9.6,Superb,9.1,9.8,9.8,9.8,9.4,9.3,9.7,135.7676061,35.0053862
+60,Common de Hostel & Bar,Fukuoka-City,2500,0.8km from city centre,9.9,Superb,10,10,10,9,10,10,10,130.4032209,33.5978245
+61,Daikoku Hostel,Osaka,2800,5.8km from city centre,8,Fabulous,6,8,8,8,9,9,8,135.4971528,34.6550004
+62,Dotombori Base,Osaka,2500,4.3km from city centre,8.7,Fabulous,8.6,8.3,7.7,9.7,8.6,9.4,8.9,135.5052683,34.6678045
+63,Downtown Inn Kyoto,Kyoto,1000,1.4km from city centre,9.3,Superb,8.9,9.7,9.7,9.1,9.1,8.6,9.7,135.755182,35.0052769
+64,Drop Inn Osaka,Osaka,2800,1.4km from city centre,8.8,Fabulous,8.3,9.5,9,8.3,9.1,8.5,8.7,135.4886189,34.7001589
+65,Edo Tokyo Hostel,Tokyo,1800,15.8km from city centre,8.1,Fabulous,8,8.5,8,7.5,7,8.5,9,139.8638707,35.7129526
+66,Emblem Hostel Nishiarai,Tokyo,2000,13.3km from city centre,9.3,Superb,9.5,9.8,9.7,7.4,9.8,9.8,9.5,139.791216,35.7782
+67,ENAKA Asakusa Central Hostel,Tokyo,2600,9.7km from city centre,9.3,Superb,8.9,9.8,9.3,9.6,9.6,9.1,8.9,139.795301,35.7121845
+68,Ezstay Osaka,Osaka,2000,4.6km from city centre,3.1,Rating,2,2,2,4,6,2,4,135.535271,34.6757318
+69,Fairfield House,Kyoto,1700,1.9km from city centre,9.3,Superb,9.1,9.6,9.4,8.7,9.3,9.6,9.7,NA,NA
+70,Family & bAKpAK Tokyo Hostel,Tokyo,1800,9.8km from city centre,7.4,Very Good,6.5,6.5,7.5,7.5,8.5,6.5,9,139.79148,35.72369
+71,Friends Kyo,Kyoto,2200,1.2km from city centre,10,Superb,10,10,10,10,10,10,10,135.7718,35.001371
+72,FUJITAYA Kyoto,Kyoto,3500,2.6km from city centre,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+73,Fukuoka Backpackers Hostel,Fukuoka-City,2300,2.5km from city centre,8.3,Fabulous,7.5,8.6,8,8.2,8.8,8.9,8.1,130.428142,33.584119
+74,Fukuoka Hana Hostel,Fukuoka-City,2500,0.8km from city centre,9,Superb,8.3,9.2,8.8,9.5,9,9.3,9,130.4097719,33.5926482
+75,Funtoco Backpackers Namba,Osaka,2300,5.5km from city centre,9.3,Superb,8.9,9.6,9,9,9.5,10,9.4,135.503623,34.656784
+76,Gion Ryokan Q-beh,Kyoto,2800,1.5km from city centre,9.5,Superb,9,9.8,9.5,9.8,9.3,9.5,9.6,135.7795363,35.0014418
+77,Goen Lounge＆Stay,Osaka,2000,18.2km from city centre,8.9,Fabulous,8,10,10,6,8,10,10,135.6505111,34.815565
+78,Gojo Guest House,Kyoto,2000,1.9km from city centre,9.5,Superb,9.6,9.5,8.8,9.6,9.3,10,9.8,135.7722097,34.9954879
+79,Gojo Guesthouse - Annex,Kyoto,2500,1.7km from city centre,9.6,Superb,8.7,10,9.3,9.3,10,10,10,135.775803,34.998209
+80,Good Diner Inn Copain,Tokyo,3300,5.6km from city centre,9.1,Superb,9.5,9.5,9.5,8,9,10,8.5,139.7182582,35.7346756
+81,Grids Kyoto Shijo Kawaramachi Hotel & Hostel,Kyoto,1800,1km from city centre,9.7,Superb,8.9,10,9.5,10,10,9.8,9.8,135.764823,35.004678
+82,GRIDS TOKYO AKIHABARA HOTEL&HOSTEL,Tokyo,2400,8km from city centre,8.7,Fabulous,7.8,9.4,8.7,8.7,8.8,8.7,8.7,139.780326,35.696562
+83,Grids Tokyo Asakusa-Bashi Hotel&Hostel,Tokyo,2200,8.3km from city centre,9,Superb,7.9,9.6,9,8.7,9.5,9.5,8.9,139.780326,35.696562
+84,GRIDS TOKYO NIHOMBASHI EAST HOTEL&HOSTEL,Tokyo,2400,8.3km from city centre,8.3,Fabulous,6.7,9.3,8.7,9.3,9.3,7.3,7.3,139.783943,35.690286
+85,Guest House Bola-Bola,Kyoto,2700,6.1km from city centre,9.4,Superb,9.3,9.9,9,8.8,9.4,9.9,9.4,135.7015683,35.0147747
+86,Guest House Com Inn Hiroshima,Hiroshima,2900,2.5km from city centre,8.9,Fabulous,7.3,10,8,8,10,10,8.7,132.443757,34.405665
+87,Guest House Denchi,Tokyo,3600,9.2km from city centre,8.9,Fabulous,8,10,6,8,10,10,10,139.7895455,35.7128268
+88,Guest House Ga-Jyun,Kyoto,2000,1.4km from city centre,9.6,Superb,9.6,9.7,9.4,9.4,9.4,9.9,9.9,135.7833531,35.009131
+89,Guest House Hachi,Kyoto,3200,3.2km from city centre,10,Superb,10,10,10,10,10,10,10,135.7435285,34.9915805
+90,Guest House Hitsuji-An,Kyoto,2200,1.3km from city centre,9.8,Superb,9.5,10,9.5,10,10,10,9.5,135.75435,35.009679
+91,Guest House Hokorobi,Fukuoka-City,2400,6km from city centre,8.4,Fabulous,7.7,8.5,8.5,7.5,9.5,8.7,8.7,NA,NA
+92,Guest House Kaine,Fukuoka-City,2500,0.7km from city centre,8.9,Fabulous,10,9,8.5,9,7.5,10,8.5,130.403731,33.596604
+93,Guest House Kyoto Inn,Kyoto,1500,3.3km from city centre,8.9,Fabulous,8.7,9.4,9,8.1,8.6,9.4,8.9,135.743165,34.990043
+94,Guest House La Kongo,Osaka,2500,4.2km from city centre,7.8,Very Good,6,8,7.5,9,8,8.5,7.5,135.5078668,34.6687802
+95,Guest House Matsu,Osaka,1900,7.4km from city centre,9.3,Superb,9,9.7,9.2,8.7,9.3,9.7,9.5,135.495148,34.640747
+96,Guest House ODORI,Osaka,2800,7.9km from city centre,8.6,Fabulous,10,10,8,6,8,8,10,135.5231371,34.6372998
+97,Guest House Onoya,Osaka,2000,3.3km from city centre,9.4,Superb,9.5,10,10,8,9,10,9.5,135.5376482,34.7025957
+98,Guest House Renjishi Kabuki,Kyoto,1500,2.5km from city centre,8.7,Fabulous,8,8.9,7.9,8.7,9,9.8,8.6,135.7505144,34.9949044
+99,Guest House Roku,Hiroshima,2900,2.7km from city centre,9.3,Superb,9.5,9.5,9,9,9.2,9.8,9.4,132.465716,34.4074787
+100,Guest House Shinagawa-shuku Tokyo,Tokyo,3300,8.7km from city centre,9.2,Superb,9,9.3,9.3,8.7,9,10,9,139.7403581,35.6217794
+101,Guest House Shiori Ann,Kyoto,1500,2km from city centre,8.9,Fabulous,6,8,10,9,10,9,10,135.759117,34.994889
+102,Guest House TRACE,Tokyo,2700,8.7km from city centre,7.7,Very Good,6,6,6,8,10,8,10,NA,NA
+103,Guest House Yahata,Kyoto,2500,2km from city centre,8.6,Fabulous,7.5,9.5,8.5,8,9.8,8.5,8.5,135.754772,34.9976055
+104,Guest House YULULU,Kyoto,1500,0.5km from city centre,8.6,Fabulous,8.3,8.6,7.8,9.5,8.5,9.4,8.3,135.7626322,35.0098862
+105,Guesthouse Fete,Tokyo,2300,9.7km from city centre,9.4,Superb,9.8,9.2,8.9,8.8,9.5,9.9,9.4,139.7981,35.701441
+106,Guesthouse Fujitatami,Osaka,2200,26.6km from city centre,9.1,Superb,9.8,9.8,9.3,6.8,9,9.8,9.3,135.4575132,34.4698056
+107,Guesthouse Gloire,Osaka,2800,3.9km from city centre,7.1,Very Good,8,8,8,4,6,8,8,135.511096,34.67197
+108,Guesthouse HetoGep,Osaka,2500,4.5km from city centre,9.1,Superb,9.2,8.4,9.2,10,8.8,9.6,8.8,135.5049204,34.6662004
+109,Guesthouse Hiroshima Mange Tak,Hiroshima,2800,1.4km from city centre,9.5,Superb,8.9,9.8,9.4,9.6,9.6,9.7,9.3,132.445801,34.3952854
+110,Guesthouse Kagaribi,Tokyo,2200,11.8km from city centre,8.3,Fabulous,8,8.8,8,6.8,8,9.6,8.8,139.7957726,35.7539265
+111,Guesthouse Morizou Female only,Osaka,2000,3.7km from city centre,10,Superb,10,10,10,10,10,10,10,135.526955,34.6800923
+112,Guesthouse Origami,Kyoto,1500,1.7km from city centre,8.1,Fabulous,7.7,7.1,7.7,8.6,8.6,8.9,8,NA,NA
+113,Guesthouse SAI,Osaka,1800,7km from city centre,8.9,Fabulous,7.6,10,9.6,7.6,9.2,9.2,9.2,135.5661389,34.7412826
+114,Guesthouse Sensu,Tokyo,3300,15.7km from city centre,9.3,Superb,8,10,9.5,9,9,10,9.5,139.7405231,35.553499
+115,Guesthouse Shitamachi-Kujo,Kyoto,1900,3.9km from city centre,9.1,Superb,10,10,8,8,10,10,8,135.762166,34.977079
+116,Guesthouse Soi,Kyoto,1700,2.4km from city centre,9.5,Superb,9.4,9.6,9.6,8.8,9.4,9.8,9.8,135.7776103,34.9917216
+117,Guesthouse U-En,Osaka,2300,1.9km from city centre,9.5,Superb,9.3,9.6,9.3,9.4,9.4,9.8,9.5,135.4865055,34.6946473
+118,Harborside Guest House MINATO,Fukuoka-City,2500,1.5km from city centre,8.4,Fabulous,7.5,9,8.5,7,9.5,9,8.5,130.406397,33.603186
+119,HARUYA Hostels Aqua,Kyoto,1500,3.1km from city centre,9,Superb,9,9,9,9,9,9,9,135.748695,34.988516
+120,HATAGO tenjin,Fukuoka-City,2300,0.6km from city centre,8.4,Fabulous,8.7,8.7,8.7,10,7.3,7.3,8,130.3976545,33.5946282
+121,Hikari House,Tokyo,4000,1.4km from city centre,7.6,Very Good,6.3,8,6.8,9.4,6.9,8.6,7.6,139.7019965,35.6991367
+122,Hiromas Hostel in Akiba,Tokyo,2700,7.3km from city centre,9.2,Superb,8.7,9.6,9.2,9.1,9.1,9.4,9.6,139.7702062,35.704546
+123,Hiromas Hostel in Kanda,Tokyo,2000,7.6km from city centre,9.3,Superb,8.4,9.8,9.5,9.1,9.2,9.4,9.3,139.7763124,35.6928219
+124,Hiromas Inn  Chitose-Karasuyama,Tokyo,3000,0km from city centre,7.5,Very Good,7.1,9.1,7.4,7.4,6.3,6.9,8.3,139.6033214,35.6711619
+125,Hiroshima Hana Hostel,Hiroshima,2300,2.4km from city centre,9,Superb,8.1,9.3,8.8,9.4,8.9,9.5,9,132.478765,34.395097
+126,Hiroshima Hostel EN,Hiroshima,3000,2.6km from city centre,9.6,Superb,9.8,9.7,9.3,9.3,9.3,9.8,9.7,132.450789,34.408
+127,Hisayo's Inn,Tokyo,3800,15.7km from city centre,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+128,Home Hostel Osaka,Osaka,2700,6.2km from city centre,9.7,Superb,8.7,9.9,10,9.7,9.9,9.7,9.7,NA,NA
+129,Homeikan,Tokyo,3600,6.3km from city centre,9.3,Superb,9.1,9.4,9.1,9.1,9.1,10,9.1,139.75625,35.711231
+130,Hop Step Inn,Tokyo,1500,8.5km from city centre,9.1,Superb,8.5,9.6,9.3,8.3,9.6,9.4,9.2,139.7382791,35.7560182
+131,Hostel & Cafe Bar Backpackers Miyajima,Hiroshima,2900,16.1km from city centre,9.2,Superb,9.2,9.3,9,9.2,9.1,9.6,8.9,132.3046213,34.3101872
+132,Hostel 64 Osaka,Osaka,2700,3.4km from city centre,8.6,Fabulous,8.2,8.6,8.2,8.1,9.1,9,8.6,135.4883418,34.6780282
+133,Hostel bedgasm,Tokyo,2900,9.5km from city centre,9.6,Superb,9.6,9.8,9.6,9.1,9.5,9.9,9.7,139.789033,35.72135
+134,Hostel Bushi,Osaka,1900,3.4km from city centre,8.8,Fabulous,8.5,8.8,8.9,8.6,8.8,9.2,8.9,135.5374497,34.6979324
+135,Hostel Chapter Two Tokyo,Tokyo,2700,9.8km from city centre,10,Superb,10,10,10,10,10,10,10,139.797217,35.709305
+136,Hostel Chillout,Osaka,2300,4.3km from city centre,9.6,Superb,9.4,9.4,9.1,10,9.4,10,9.7,NA,NA
+137,hostel DEN,Tokyo,2400,7.7km from city centre,9.4,Superb,9.1,9.7,9.3,9,9.7,9.7,9.4,139.7766966,35.6910315
+138,Hostel Ebi,Kyoto,2500,1km from city centre,9.7,Superb,9.4,9.9,9.5,9.8,9.7,9.8,9.6,135.760511,35.0050582
+139,Hostel Ebisutei Souzou with Sake Bar,Osaka,2400,5.6km from city centre,9.2,Superb,9.7,9,9,9.5,8.3,9.6,9.4,135.5052993,34.6560531
+140,Hostel Enisia Namba,Osaka,3000,4.3km from city centre,9.3,Superb,8.7,9.2,9.3,10,9.5,9.3,9.2,135.503292,34.6681
+141,Hostel Ginkakuji,Kyoto,1300,2.7km from city centre,4.9,Rating,2,10,6,6,2,2,6,135.791229,35.027017
+142,Hostel HARUYA Book,Kyoto,1500,3.1km from city centre,8.6,Fabulous,7.6,8.4,7.6,8,9.6,10,9.2,NA,NA
+143,Hostel HARUYA Kyoto,Kyoto,1500,1km from city centre,9.6,Superb,8,10,10,10,10,10,9,135.778964,35.008755
+144,HOSTEL HYAKU,Osaka,2700,4.4km from city centre,9.5,Superb,8.9,10,9.4,9.3,9.7,9.7,9.5,135.5109784,34.6676664
+145,Hostel J Culture 168,Osaka,3000,5.3km from city centre,7.5,Very Good,6.7,7.3,8.7,7.3,8,9.3,5.3,138.252924,36.204824
+146,Hostel Jin,Osaka,2500,4.3km from city centre,9.6,Superb,8.8,10,9.8,8.8,9.8,9.8,10,135.4661493,34.6810161
+147,Hostel Kyoto Kizuna,Kyoto,1800,2.1km from city centre,9.4,Superb,8.6,9.9,9.5,9.2,9.6,9.6,9.6,135.7626527,34.9936138
+148,Hostel LnK (Lodging & Kin),Osaka,3300,5.6km from city centre,9.5,Superb,9.2,10,9.3,9.5,9.3,9.5,9.5,135.502521,34.656382
+149,Hostel Mallika,Hiroshima,2500,0.7km from city centre,9.3,Superb,8.5,9.5,9.2,9.7,9.4,9.6,9.3,132.4499424,34.389848
+150,Hostel Mitsuwaya Osaka,Osaka,3200,4.1km from city centre,9.6,Superb,9.4,10,9.7,9.1,9.7,9.9,9.6,135.513379,34.670596
+151,Hostel moku-moku,Osaka,3500,4km from city centre,9.6,Superb,9,10,10,9.5,10,9.5,9.5,135.516458,34.74071
+152,Hostel Mundo,Kyoto,1400,2.1km from city centre,8.4,Fabulous,8,8.6,8,8,8.7,8.9,8.8,135.7479461,35.0204264
+153,Hostel Mundo Chiquito,Kyoto,1400,1.4km from city centre,9.5,Superb,9,9.8,9.3,9,9.8,10,9.8,135.753339,35.015514
+154,Hostel Namba Takumi,Osaka,2000,4.6km from city centre,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+155,Hostel Pumpkey Tokyo,Tokyo,3400,2.3km from city centre,8.7,Fabulous,8.3,9,8.5,9,8.7,9,8.3,139.716957,35.686319
+156,Hostel Q,Osaka,2900,4.2km from city centre,8.7,Fabulous,9,7.3,8,9.7,9,9.3,8.3,135.4986093,34.6692633
+157,Hostel Rakutsuki,Osaka,1900,4.7km from city centre,9.5,Superb,9.3,9.5,8.7,9.8,9.8,9.8,9.8,135.5062517,34.6647159
+158,Hostel Stand By Me,Fukuoka-City,4000,1.6km from city centre,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+159,Hostel Teltel Bouzu,Osaka,2500,3.8km from city centre,9,Superb,9,9,9,8.3,9.3,9.3,9,135.5091721,34.6734621
+160,Hostel TOKI,Fukuoka-City,2800,1.9km from city centre,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+161,Hostel WAQWAQ Tokyo Ueno Asakusa,Tokyo,1600,9km from city centre,8.9,Fabulous,8.9,9.6,9,8.4,8.5,9,8.7,139.785178,35.717633
+162,HOSTEL WASABI Kyoto Machiya Soba,Kyoto,2000,2.3km from city centre,9.1,Superb,8.9,9.8,9.1,7.9,9,9.2,9.4,135.7481084,35.0249099
+163,HOSTEL WASABI Osaka Bed with Library,Osaka,1500,4.5km from city centre,8.8,Fabulous,8.1,9.1,8.7,9.5,8.2,9.2,9,135.503826,34.666552
+164,Hostel＆Café East57 Asakusabashi,Tokyo,2200,8.7km from city centre,8.7,Fabulous,7.8,9.3,7.8,9.1,9,9.1,8.6,139.7876509,35.6967579
+165,Hotel Cargo Shinsaibashi,Osaka,4200,3.2km from city centre,9.3,Superb,8.4,9.6,8.8,8.8,9.6,10,9.6,135.503563,34.678242
+166,Hotel Chuo,Osaka,1500,6.4km from city centre,6.4,Good,6,6,6,8,5,7,7,135.5046082,34.6490104
+167,Hotel Graphy Nezu,Tokyo,1800,7.6km from city centre,8.9,Fabulous,8.5,9.1,9.2,8.5,9.3,9.3,8.8,139.768667,35.717269
+168,Hotel Kawase Tokyo and Capsule,Tokyo,1900,9.8km from city centre,6.4,Good,5.4,5.1,6,8,6.3,7.4,6.6,NA,NA
+169,Hotel Mikado,Osaka,2000,6.5km from city centre,8.7,Fabulous,9.3,7.3,8,9.3,8,9.3,9.3,NA,NA
+170,Hotel Raizan South,Osaka,2000,6.5km from city centre,8.1,Fabulous,7,7,9,9,8,8,9,135.504278,34.648413
+171,Hotel Shin-Imamiya,Osaka,1400,6.3km from city centre,6.6,Good,4.8,7.3,6,7.8,8.3,6.3,5.8,135.5015478,34.6497931
+172,Hotel Sun Plaza,Osaka,1300,6.3km from city centre,6.5,Good,6,7.3,6,6.7,6,7.3,6,NA,NA
+173,Hotel Taiyo,Osaka,1500,6.5km from city centre,8.1,Fabulous,7.3,8,8,8.7,8.7,8,8,135.5047718,34.6483624
+174,Hotel Wako,Osaka,1600,6.8km from city centre,6,Good,4,4,6,6,8,6,8,135.5018819,34.6459573
+175,Hotel&Hostel On the Marks Tokyo Kawasaki,Tokyo,1900,18.1km from city centre,9.6,Superb,9.6,10,9.6,8.7,9.9,9.9,9.6,139.6985808,35.5269926
+176,Idocoro,Osaka,1800,2.2km from city centre,8.2,Fabulous,7.1,8.9,8,7.6,8.8,8.7,8.2,135.5086675,34.6873302
+177,Ikidane House,Tokyo,2000,8.2km from city centre,9.1,Superb,8,9.6,8.8,9.2,9.2,9.6,9.2,139.7604533,35.7373998
+178,Ikidane House Asakusa Hatago,Tokyo,2000,10km from city centre,8.9,Fabulous,10,10,10,4,10,8,10,139.7950489,35.722089
+179,Ikidane House Namba,Osaka,1200,6.5km from city centre,9.3,Superb,8.9,9.6,9.7,8.8,8.9,9.6,9.6,135.5019794,34.6479104
+180,Ikoi-no-Ie Kyoto,Kyoto,2700,2.2km from city centre,8,Fabulous,6,8.8,8,8,9.2,8.4,7.6,135.757046,34.994033
+181,iloha Hostel Namba Shinsaibashi,Osaka,2600,3.7km from city centre,9.2,Superb,8.7,9.6,9.2,9.6,9.2,8.5,9.4,135.503048,34.673766
+182,IM Guest House,Osaka,1900,6.2km from city centre,8.3,Fabulous,7,8,7,8,9,10,9,NA,NA
+183,Imano Kyoto Kiyomizu Hostel,Kyoto,2200,1.9km from city centre,9.2,Superb,8.6,9.8,9.3,9.1,9.4,9.2,9.3,135.776144,34.995592
+184,Imano Tokyo Ginza Hostel,Tokyo,2700,7.6km from city centre,8.9,Fabulous,8.3,9.3,8.9,8.8,9.3,9.2,8.7,139.7729057,35.6723059
+185,Imano Tokyo Hostel,Tokyo,3300,1.5km from city centre,8.6,Fabulous,7.7,8.9,8.1,9.3,8.6,9.2,8.1,139.7077128,35.6935053
+186,IRORI Nihonbashi Hostel and Kitchen,Tokyo,2100,8.3km from city centre,9,Superb,8.9,8.9,8.9,9,9.2,9.3,8.8,139.7836767,35.6926538
+187,Iza Tokyo Asakusa Guesthouse,Tokyo,2500,9.9km from city centre,9.3,Superb,9.3,9.3,9.2,9.4,9.2,9.6,9.2,139.799302,35.706708
+188,J-Hoppers Hiroshima Guesthouse,Hiroshima,2300,1.1km from city centre,9.1,Superb,8.5,9.3,9,9.3,9.3,9.4,9.2,132.4472444,34.3930208
+189,J-Hoppers Kyoto Guest House,Kyoto,1900,3.6km from city centre,9,Superb,8.4,9.1,8.3,8.9,9.4,9.7,9.3,135.761616,34.979439
+190,J-Hoppers Osaka Guesthouse,Osaka,2300,1.9km from city centre,9.5,Superb,9.5,9.6,9.2,9.5,9.6,9.7,9.6,135.484861,34.697435
+191,J-Hoppers Osaka Universal,Osaka,2500,6.4km from city centre,9.4,Superb,9.3,9.7,9.2,8.7,9.7,10,9.5,135.442876,34.675236
+192,J's Backpackers,Tokyo,1600,16.6km from city centre,8.3,Fabulous,8,10,8,4,10,8,10,139.8623809,35.745044
+193,Jam Hostel Kyoto Gion,Kyoto,1500,0.9km from city centre,7.7,Very Good,7,8,7,9.4,8,6.9,7.9,135.772379,35.004919
+194,Japanize Guest House,Tokyo,1900,8.1km from city centre,7.6,Very Good,7,6,7.7,8.7,7.7,8,8.3,139.7816602,35.6925343
+195,JGH Tokyo,Tokyo,1600,13.2km from city centre,8.4,Fabulous,8.1,8,8.1,7.1,8.8,9.8,8.9,139.708425,35.8072664
+196,Jimbocho Sakura Hotel,Tokyo,2200,5.9km from city centre,9.4,Superb,9,9.5,10,9,9,9.5,10,139.756455,35.694959
+197,Jiyujin,Kyoto,2600,2km from city centre,9.7,Superb,9,10,9.8,9.5,10,9.7,9.7,135.76116,34.9949965
+198,Juyoh Hotel,Tokyo,2900,10.7km from city centre,8.3,Fabulous,7.6,8.4,8.4,7.1,8.9,8.9,8.7,139.8007803,35.7267106
+199,Kaisu Hostel,Tokyo,3900,4.4km from city centre,9.4,Superb,9.1,9.7,9.3,9.3,9.6,9.5,9.2,139.734537,35.669916
+200,"Kaneyoshi Ryokan, Namba Dotombori",Osaka,6500,4.2km from city centre,9.4,Superb,10,9,9,10,9,10,9,135.505474,34.66926
+201,Ken's House,Osaka,2000,4.7km from city centre,8.7,Fabulous,7.5,9,9,9.5,8,9,9,NA,NA
+202,Khaosan Kyoto Guest House,Kyoto,2000,1.1km from city centre,8.9,Fabulous,8.2,8.8,8.5,9.6,9.1,9,8.9,NA,NA
+203,Khaosan Tokyo Kabuki,Tokyo,3000,9.7km from city centre,9.2,Superb,8.8,8.8,8.8,9.8,9.5,9.5,9,139.795251,35.711436
+204,Khaosan Tokyo Laboratory,Tokyo,2600,9.3km from city centre,9.1,Superb,7.9,9.3,8.8,9.3,9.4,9.7,9.3,139.791328,35.711861
+205,Khaosan Tokyo Origami,Tokyo,2500,10km from city centre,9.5,Superb,8.9,9.7,9.6,9.4,9.7,9.7,9.4,139.797381,35.71634
+206,Khaosan Tokyo Samurai,Tokyo,2500,9.5km from city centre,9.2,Superb,8,9.3,9.3,9.4,9.5,9.4,9.4,139.792325,35.714887
+207,Khaosan World Asakusa RYOKAN & HOSTEL,Tokyo,2500,9.5km from city centre,8.8,Fabulous,8.5,8.7,8.5,8.9,9,9.2,8.6,139.791771,35.714595
+208,Khaosan World Namba,Osaka,2100,4.5km from city centre,8.5,Fabulous,7.4,8.4,8.4,9.1,8.9,9,8.4,135.49717,34.666165
+209,Khaosan World Ryogoku Hostel,Tokyo,2300,9.5km from city centre,9,Superb,8.2,9.1,8.9,9.6,9.1,9.3,8.4,139.7967617,35.6943259
+210,Khaosan World Tennoji Hostel,Osaka,2300,6.6km from city centre,9,Superb,8.3,9.7,9.7,9.3,8.7,9.3,8,135.5183093,34.64884
+211,Kia Ora Budgetstay,Fukuoka-City,2600,2km from city centre,9,Superb,8,8.8,8.8,9.2,9.3,9.8,8.8,130.4225942,33.5951129
+212,Kintetsu Friendly Hostel -Osaka Tennoji Park-,Osaka,2000,6.5km from city centre,9,Superb,7.8,9.5,9.1,9.4,9.3,9.1,9,135.5122677,34.6485086
+213,Koenji Junjo Hotel,Tokyo,3300,3.9km from city centre,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+214,Kyo To,Kyoto,2000,1.9km from city centre,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+215,Kyoto Be Open Hostel,Kyoto,3400,3.8km from city centre,9,Superb,8.7,9.3,8.7,9.3,8.7,9.3,9.3,135.764191,34.977498
+216,Kyoto Guesthouse Roujiya,Kyoto,3500,2.1km from city centre,8.1,Fabulous,7.8,9,7.4,8,8.6,8.8,7.4,135.74531,35.009207
+217,Kyoto Hana Hostel,Kyoto,1800,2.5km from city centre,8.9,Fabulous,8.1,9.1,8.3,9.8,8.7,9.2,8.8,135.760508,34.9897078
+218,Kyoto Hostel ZEN,Kyoto,2500,0.7km from city centre,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+219,Kyoto Morris Hostel,Kyoto,2800,0.5km from city centre,9.7,Superb,9.4,9.9,9.9,9.3,9.8,9.8,9.8,135.7678365,35.0156844
+220,Kyoto Station Base,Kyoto,2500,3.7km from city centre,8.9,Fabulous,8.7,9.3,8.7,8,8.7,10,8.7,135.761469,34.9788089
+221,Kyoto Tsukiusagi,Kyoto,3000,8.7km from city centre,7.9,Very Good,6.5,9.5,8,7,9,8,7.5,135.805378,34.940169
+222,Kyoto UTANO Youth Hostel,Kyoto,3400,6.4km from city centre,9.3,Superb,9,10,9.5,7,10,10,9.5,135.699365,35.0269847
+223,Kyoubashi Ryokan,Hiroshima,3400,1.8km from city centre,8.6,Fabulous,6,10,6,10,10,8,10,132.4718215,34.3938412
+224,Len Kyoto,Kyoto,2500,1.4km from city centre,9.6,Superb,9.6,9.6,9.7,9.7,9.6,9.8,9.5,135.7673713,34.998732
+225,Little Japan,Tokyo,2100,8.5km from city centre,9.2,Superb,8.7,9.3,9.3,8.7,9.2,9.5,9.5,NA,NA
+226,Lore Hostel Dontonbori,Osaka,2000,4.3km from city centre,8.5,Fabulous,7.1,7.7,8.6,9.7,9.1,8.6,8.9,135.503853,34.667931
+227,Lucky's,Osaka,2500,3.2km from city centre,7.7,Very Good,2,10,8,8,10,10,6,NA,NA
+228,Lyuro Tokyo Kiyosumi -The Share Hotels-,Tokyo,3200,9.1km from city centre,9.4,Superb,9.3,10,10,7.3,10,9.3,10,139.7920658,35.6812172
+229,montan HAKATA,Fukuoka-City,3000,2.4km from city centre,9.4,Superb,9.3,9.8,9.7,8.8,9.5,9.5,9.5,130.427977,33.588725
+230,Mosaic Hostel Kyoto,Kyoto,2500,3.7km from city centre,9.6,Superb,9.5,9.7,9.7,9.3,9.7,9.7,9.5,135.7552361,34.9803659
+231,Mosaic Machiya KSK,Kyoto,4000,3.5km from city centre,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+232,Music Uni Street Backpackers Hostel,Osaka,3000,6km from city centre,8.9,Fabulous,9,9,9,8,8,10,9,135.4673702,34.7519746
+233,MyCUBE by MYSTAYS Asakusa-Kuramae,Tokyo,3200,9.2km from city centre,8.8,Fabulous,8,9.5,9,8,9,9,9,139.7920033,35.7037857
+234,Nadeshiko Hotel Shibuya (Female Only),Tokyo,5500,3.8km from city centre,9.2,Superb,8.7,9.7,9.7,8.7,9.7,9.3,8.7,139.692988,35.6550972
+235,Nagomi-Ryokan Yuu,Kyoto,3100,2.2km from city centre,5.1,Rating,6,6,2,8,6,2,6,135.755793,34.99419
+236,Nihonbashi Muromachi BAY HOTEL,Tokyo,4000,7.6km from city centre,9.2,Superb,9,9.7,8.7,8.3,10,9.3,9.3,139.7756795,35.6872974
+237,Norishico Auto Guesthouse,Fukuoka-City,2800,16.1km from city centre,10,Superb,10,10,10,10,10,10,10,130.528032,33.49096
+238,Nui. Hostel & Bar Lounge,Tokyo,2500,9.3km from city centre,9.3,Superb,9.5,9.6,9.4,8.6,9.3,9.6,9.4,139.7933951,35.7038859
+239,O-yado Sato,Kyoto,3900,2.3km from city centre,9.1,Superb,9,10,9,8,10,9,9,135.75571,34.994214
+240,Oak Hostel Zen,Tokyo,2200,8.8km from city centre,9,Superb,8.2,8.9,8.9,9.1,9.6,9.3,8.9,139.7809311,35.7219034
+241,Oak Hotel Edo,Tokyo,2200,9.7km from city centre,7.6,Very Good,4,10,8,8,8,8,7,139.798931,35.6879156
+242,Oakhostel Cabin,Tokyo,2100,8.6km from city centre,9,Superb,8.1,9.5,9.1,8.4,9.4,9.2,9.2,139.7859882,35.678055
+243,Oakhostel Fuji,Tokyo,2000,10km from city centre,9,Superb,8.2,9.2,8.9,8.9,9.4,9.1,9.2,139.8009084,35.7069254
+244,Oakhostel Sakura,Tokyo,1800,11.3km from city centre,9.2,Superb,8,10,9.3,9.3,9.7,9,9,139.8152216,35.70739
+245,Obi Hostel,Tokyo,2000,8.2km from city centre,9.1,Superb,8.4,9.2,9,9,9.3,9.4,9.1,139.7819046,35.6920482
+246,Okara Guesthouse,Kyoto,1900,2.4km from city centre,9.4,Superb,9.2,9.8,9.4,9.2,9.4,9.4,9.4,135.7550308,34.9925923
+247,OKI's Inn,Kyoto,2500,1.1km from city centre,9.4,Superb,8.8,9.6,9.2,10,8.8,10,9.2,135.7789591,35.0086338
+248,Omotenashi Hostel Miyajima,Hiroshima,2500,13.5km from city centre,9.1,Superb,8.8,9.7,9.5,7.9,9.2,9.5,9.3,132.319971,34.3369812
+249,Osaka Fuku Hostel Nagomi,Osaka,3000,4.4km from city centre,9.3,Superb,8.7,9.6,9,9.8,8.9,9.6,9.2,135.50642,34.667318
+250,Osaka Fuku Hostel Namba,Osaka,3000,4.5km from city centre,8.9,Fabulous,8.5,9,8.3,9.7,8.8,9.6,8.4,135.5041027,34.6665276
+251,Osaka Guest House Midoriya,Osaka,2800,5.1km from city centre,9.7,Superb,9.7,10,9.6,9.4,9.7,10,9.7,135.5485836,34.6817305
+252,Osaka Guesthouse Hive,Osaka,2300,1.3km from city centre,8.3,Fabulous,7.6,8.6,8,8.5,8.6,8.5,8,135.489407,34.7021661
+253,Osaka GuestHouse KOMA,Osaka,1500,4.4km from city centre,8.3,Fabulous,8,7.5,7.8,9.1,7.9,9.1,8.8,135.4895197,34.6687377
+254,Osaka Guesthouse Nest,Osaka,1500,6.7km from city centre,8.5,Fabulous,7.8,9,8.2,8.7,8.3,9.2,8,135.52325,34.6494472
+255,Osaka Guesthouse Sakura,Osaka,2500,0.9km from city centre,8.8,Fabulous,8.9,8.9,8.4,8.3,8.5,9.4,9.2,135.505511,34.69898
+256,Osaka Guesthouse SUN,Osaka,2300,4.3km from city centre,9.1,Superb,8.8,9,8.5,9.5,8.8,9.5,9.4,135.4918195,34.6693182
+257,Osaka Hana Hostel,Osaka,2600,3.7km from city centre,9.5,Superb,8.5,9.6,9.6,9.8,9.5,9.8,9.6,135.498216,34.6731483
+258,Osaka Hostel Kai,Osaka,2600,2.8km from city centre,9.1,Superb,8.9,9.1,8.9,8.6,8.9,9.7,9.7,135.4764591,34.6931733
+259,Osaka International Youth Hostel,Osaka,2900,20.3km from city centre,9.4,Superb,10,10,10,6,10,10,10,135.433003,34.532974
+260,Osaka Namba Hostel MIYABI,Osaka,2000,5km from city centre,8.9,Fabulous,7.6,9.1,8.8,9.3,9,9.2,9.4,135.4967377,34.6620588
+261,Oshiteruya,Osaka,2800,6.5km from city centre,7.3,Very Good,6.7,8,6.7,7.3,6.7,8,8,135.549222,34.663197
+262,Peace House Abeno,Osaka,1200,6.9km from city centre,9,Superb,9,9.1,9.1,8.2,9.1,9.1,9.3,135.5072578,34.6447906
+263,Peace House Sachi,Osaka,1200,6.5km from city centre,8.6,Fabulous,8.8,8.2,7.9,8.9,8.4,9.2,8.8,135.5042885,34.6484984
+264,Peace House Sakura,Kyoto,1300,1.8km from city centre,6.3,Good,6.8,5.8,5.3,6.5,6.3,6.8,7,135.773323,34.995831
+265,Peace House Showa,Osaka,1200,6.8km from city centre,7.5,Very Good,8,6.4,5.6,8,6.4,9.6,8.4,135.5065439,34.6457488
+266,Peace House Suzunami,Osaka,1200,6.4km from city centre,8.2,Fabulous,8.4,7.1,7.9,8.7,8,8.9,8.2,135.5122777,34.6493107
+267,Picnic Hostel Osaka,Osaka,2000,4.4km from city centre,9.4,Superb,8.6,9.8,9.4,9.5,9.5,9.5,9.6,135.487358,34.6692926
+268,Piece Hostel Kyoto,Kyoto,2700,3.2km from city centre,9.7,Superb,9.2,9.9,9.8,9.8,9.9,9.9,9.6,135.7621209,34.9836157
+269,Piece Hostel Sanjo,Kyoto,2900,0.5km from city centre,9.6,Superb,9.1,9.8,9.7,9.6,9.8,9.9,9.6,135.764655,35.008028
+270,Planetyze Hostel,Tokyo,2400,8.5km from city centre,9.3,Superb,8.6,9.5,9,9.3,9.6,9.6,9.3,139.786004,35.694492
+271,Poly Hostel Osaka,Osaka,3800,5.9km from city centre,9.4,Superb,8,10,10,8,10,10,10,NA,NA
+272,Prime Inn Shinsaibashi,Osaka,2600,3.3km from city centre,9.2,Superb,8.7,9.3,8.7,9.3,10,9.3,9.3,135.5074622,34.677238
+273,Qoo Ebisucho,Osaka,2000,5.5km from city centre,5.7,Rating,6,8,6,6,2,8,4,135.5053576,34.657003
+274,Quality Hostel K's House Tokyo Oasis,Tokyo,3000,9.6km from city centre,9,Superb,8.2,9.6,8.4,9.1,9.5,9.3,8.7,139.7935305,35.715796
+275,R.Star Hostel Kyoto,Kyoto,2400,1.8km from city centre,9.6,Superb,8.7,10,9.7,9.3,9.8,9.9,9.8,135.758374,34.997989
+276,Retrometro Backpackers,Tokyo,3000,9.2km from city centre,9.4,Superb,9.4,9.4,9,9.4,9.5,9.8,9.6,139.7893615,35.7131573
+277,RokuRoku,Kyoto,2500,2.4km from city centre,9.7,Superb,10,10,10,9,10,9,10,NA,NA
+278,Roots Hostel,Osaka,3000,3.1km from city centre,8,Fabulous,7.8,7.9,7.6,7.5,8,9.1,8.1,NA,NA
+279,RYOKAN＆HOSTEL WASABI Nippori,Tokyo,2000,9.1km from city centre,8.7,Fabulous,8.2,8.6,8.9,8.5,8.8,8.9,8.9,139.777723,35.732782
+280,Sakai Guest House,Osaka,2000,14.7km from city centre,6.6,Good,7,6,6,6,7,8,6,NA,NA
+281,Sakura Guest House,Osaka,2700,4.3km from city centre,4.9,Rating,4,4,4,8,4,6,4,137.2414859,36.135716
+282,Sakura Hostel Asakusa,Tokyo,2400,9.8km from city centre,8.6,Fabulous,7.7,8.6,8.4,8.9,9,9,8.7,139.7948263,35.7160224
+283,Sakura Hotel Ikebukuro,Tokyo,2300,5.1km from city centre,8.3,Fabulous,7.3,8.2,7.9,9,7.8,9.1,8.8,139.7088026,35.7336139
+284,Sakura Hotel Nippori,Tokyo,1900,7.8km from city centre,9.1,Superb,8.6,9.4,8.9,9.1,9.7,9.4,8.6,139.764175,35.7281692
+285,Sakura La An,Osaka,2900,1.2km from city centre,9.6,Superb,9.3,9.8,9.5,9.2,9.6,9.8,9.7,135.5123668,34.6997902
+286,Santiago Guesthouse Hiroshima,Hiroshima,2000,0.7km from city centre,8.9,Fabulous,8.5,8.9,8.7,9.6,9,8.6,8.8,132.4594088,34.3903664
+287,Santiago Guesthouse Kyoto,Kyoto,1300,2km from city centre,8.8,Fabulous,8.4,9.3,8.7,8.5,8.7,9.2,8.8,135.775802,34.994416
+288,Senba Hostel,Osaka,3500,3.2km from city centre,9.1,Superb,9,9.5,9,9,9.5,9,8.5,135.506513,34.678133
+289,Sheena and Ippei,Tokyo,3700,4.2km from city centre,9.1,Superb,10,10,8,8,8,10,10,139.6930044,35.7273553
+290,Shell Nell namba,Osaka,1003200,4.8km from city centre,8.3,Fabulous,6,8,9,9,9,9,8,135.506291,34.663375
+291,Shibamata FU-TEN Bed and Local,Tokyo,3000,18.5km from city centre,4.9,Rating,2,4,2,2,10,10,4,139.8778804,35.7597827
+292,Shin-Osaka Tomato Guest House,Osaka,1500,1.9km from city centre,9,Superb,7.4,9.6,9.1,8.4,9.3,9.6,9.4,135.495927,34.722974
+293,Shin-Osaka Youth Hostel,Osaka,3200,2.8km from city centre,8.9,Fabulous,7,10,9,9,10,8,9,135.5037061,34.7321448
+294,Small World Guesthouse in Kyoto,Kyoto,1600,3.9km from city centre,8.1,Fabulous,8.5,8.9,8,7.8,6.9,7.1,9.1,135.7512884,35.0435832
+295,Space Hostel Tokyo,Tokyo,2200,9.1km from city centre,9.1,Superb,8.6,9.6,9,8.7,9.2,9.4,9.2,139.785652,35.718662
+296,Sparkling Dolphins Inn Kyoto,Kyoto,3000,3.6km from city centre,6.2,Good,5.3,6.7,5.7,7,5.7,7,6,135.7628498,34.9797912
+297,Stayto (former: Oak Hotel),Tokyo,2500,8.7km from city centre,9,Superb,8.3,9.1,8.5,9.2,9.4,9.5,8.8,139.78462,35.711382
+298,Suzuki Guesthouse,Kyoto,1600,2.2km from city centre,9.1,Superb,8.6,9.6,8.7,8.4,9.8,9.6,8.9,135.7451539,35.0176229
+299,Tabetoma Nijo Castle,Kyoto,1500,1.3km from city centre,8.8,Fabulous,8.5,9.3,8.6,8.9,9,9,8.7,135.748218,35.0142299
+300,Tabicolle Backpackers,Fukuoka-City,2500,2.3km from city centre,10,Superb,10,10,10,10,10,10,10,130.4248084,33.5821253
+301,Tadaima Japan Shinjuku Ryokan,Tokyo,7600,2.8km from city centre,8.4,Fabulous,8,9,9,8,8,9,8,139.7229976,35.6897213
+302,Talbot,Kyoto,2000,29.5km from city centre,10,Superb,10,10,10,10,10,10,10,NA,NA
+303,Tanaka Gokurakudo Guest House,Kyoto,2000,2.7km from city centre,8.7,Fabulous,8.2,9.1,8,9.3,8.7,8.9,8.4,135.7583091,34.98891
+304,Tani9 Backpackers Osaka,Osaka,2000,4.5km from city centre,9,Superb,8.8,8.9,8.6,9.5,9.2,9.5,8.7,135.513636,34.6670278
+305,The Blend Inn,Osaka,2300,4.5km from city centre,9.6,Superb,9.8,9.9,9.5,8.5,10,9.9,9.6,135.460685,34.684522
+306,The Dorm Hostel Osaka,Osaka,3800,3.6km from city centre,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+307,The Evergreen Hostel,Hiroshima,2000,1.5km from city centre,9,Superb,8.6,9.1,8.7,9.2,8.9,9.3,9,132.449763,34.3978868
+308,THE LIFE hostel & bar lounge,Fukuoka-City,2400,0.9km from city centre,9.1,Superb,8.9,9.4,9.2,9.3,8.8,9.2,8.9,130.4113419,33.5912939
+309,The Lower East Nine Hostel,Kyoto,3000,3.7km from city centre,9.4,Superb,8.8,9.8,9.6,8.9,9.7,9.6,9.2,135.7600257,34.9793866
+310,The Millennials Kyoto,Kyoto,2700,0.5km from city centre,9.6,Superb,9.3,9.8,9.8,9.9,9.6,9.4,9.5,135.7688947,35.0075126
+311,The Millennials Shibuya,Tokyo,6300,3.1km from city centre,9.3,Superb,8.9,10,9.3,9.8,9.5,8.9,8.7,139.6996954,35.6621966
+312,THE NEXT DOOR lower east nine hostel,Kyoto,3000,4km from city centre,9.5,Superb,8.6,9.7,9.9,9,9.6,9.8,9.7,135.7500613,34.9791577
+313,The Pax Hostel/Records/More,Osaka,2300,6km from city centre,9.5,Superb,9.5,9.4,9.3,9.4,9.4,9.9,9.5,135.5054521,34.6527146
+314,The Prime Pod Ginza Tokyo,Tokyo,3700,7.2km from city centre,9,Superb,7.9,9.2,9.2,9.5,9.6,9,8.4,139.7670874,35.6692691
+315,The Prime Pod Kyoto,Kyoto,2500,0.4km from city centre,9.8,Superb,9.4,10,10,9.6,9.9,9.9,9.6,135.7702541,35.0090836
+316,Toco Tokyo Heritage Hostel,Tokyo,3000,9.1km from city centre,9.2,Superb,10,10,7.3,8.7,8.7,10,10,139.7839281,35.7220369
+317,Tokyo Central Youth Hostel,Tokyo,1003200,4.8km from city centre,8,Fabulous,6,10,10,8,8,8,6,139.743522,35.700821
+318,Tokyo Hostel ENISHI,Tokyo,3300,4.7km from city centre,8.6,Fabulous,7.5,9,9,8.5,9,9,8.5,139.6794363,35.6482038
+319,Tokyo Hostel Fuji,Tokyo,2000,1.6km from city centre,9.2,Superb,8.8,9.3,9,9,9.4,9.8,9.2,139.674336,35.692835
+320,Tokyo House Inn,Tokyo,3800,1.5km from city centre,6.8,Good,6,6.7,6.7,8,6,7.3,6.7,139.7038187,35.6990062
+321,Tokyo Hutte,Tokyo,3000,11.3km from city centre,7.1,Very Good,8,6,4,8,10,8,6,139.8150041,35.7088828
+322,Tokyo Sumidagawa Youth Hostel,Tokyo,2500,8.9km from city centre,7.7,Very Good,6.5,6,8,8,9,9,7.5,139.7892234,35.6991309
+323,TOKYO-W-INN Asakusa,Tokyo,2500,9.3km from city centre,8.9,Fabulous,8.2,9.2,8.9,8.9,8.8,9.4,9.2,139.7923088,35.7083161
+324,Tomato Kyoto Station,Kyoto,1500,3.1km from city centre,8.3,Fabulous,8.3,8.3,8,7.3,8.3,9.3,8.7,135.751832,34.986881
+325,Tonagi Hostel × Cafe,Fukuoka-City,2500,2km from city centre,8.9,Fabulous,9,9,9.3,7.3,9.3,9,9.3,130.41452,33.604248
+326,Train Hostel HOKUTOSEI,Tokyo,2100,8.3km from city centre,8.7,Fabulous,7.4,9.3,9,8.7,8.8,9.2,8.8,139.7828434,35.694048
+327,Turn Table Hostel,Tokyo,5400,3.8km from city centre,9.6,Superb,9.4,9.9,9.7,9.7,9.6,9.6,9.3,139.6929157,35.6553861
+328,Umbrella House Osaka,Osaka,2300,8.5km from city centre,6.8,Good,6,8,6.6,5.4,7.4,7.4,6.9,135.546582,34.639764
+329,Uno Ueno,Tokyo,1500,8.2km from city centre,8.8,Fabulous,7.8,9.3,8.5,8.9,9.2,9.3,8.6,139.7791708,35.7087463
+330,Unplan Kagurazaka,Tokyo,3200,4km from city centre,9.5,Superb,9.2,9.9,9.6,8.8,9.6,9.8,9.6,139.7313228,35.7050654
+331,Very Hostel Namba,Osaka,2500,4.9km from city centre,9,Superb,8.8,9.2,9.2,8.8,8.4,9.2,9.2,135.4888061,34.6636522
+332,WeBase HAKATA,Fukuoka-City,3000,0.9km from city centre,9.5,Superb,9,9.8,9.7,9.4,9.7,9.7,9.3,130.408271,33.595674
+333,WIRED HOTEL Asakusa,Tokyo,5200,9.7km from city centre,9.5,Superb,8.9,10,9.9,9.1,9.7,9.6,9.5,139.793905,35.7158533
+334,Wise Owl Hostels Shibuya,Tokyo,2500,4km from city centre,9.1,Superb,8.9,9.6,9.1,8.4,9.6,9.5,8.8,139.6897743,35.6537001
+335,Wise Owl Hostels Tokyo,Tokyo,2000,7.9km from city centre,9.1,Superb,8.4,9.5,9.1,9.1,9.4,9.3,9.1,139.7772748,35.6747807
+336,With B,Tokyo,4000,8.6km from city centre,9.1,Superb,8.5,9.5,9,8,9,9.5,10,NA,NA
+337,YADOKARI Namba Hostel,Osaka,2500,4.7km from city centre,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+338,YADOYA Guesthouse Green,Tokyo,2300,2.6km from city centre,8.2,Fabulous,7.9,7.7,6.9,8.9,8.9,8.8,8.3,139.6681253,35.7029083
+339,YADOYA Guesthouse Orange,Tokyo,2000,2.9km from city centre,8.9,Fabulous,8.6,9,7.8,9.4,9,9.2,9.4,139.6676947,35.7065126
+340,YAWP! backpackers,Tokyo,2500,17.5km from city centre,9.3,Superb,9.5,9.3,9.4,8.5,9.5,9.2,9.6,139.8691966,35.7528846
+341,You En Me House,Kyoto,2800,2.4km from city centre,8,Fabulous,7.3,8,6.7,8,8.7,10,7.3,135.749063,34.997376
+342,Zabutton Hostel,Tokyo,2900,5.9km from city centre,8.6,Fabulous,8.1,8.5,7.8,9,8.9,9.5,8.5,139.742116,35.65547

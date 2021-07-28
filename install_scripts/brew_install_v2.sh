@@ -1,7 +1,7 @@
 #!/bin/bash
 
-#this is script is for mac and can run on latest M1 chip macs :) 
-# chmod 755 script then ./script
+# this script is for mac and runs in a terminal and can run on latest M1 chip macs :) 
+# chmod 755 bash_install_v2.sh then ./bash_install_v2.sh
 
 #install homebrew
 echo "installing homebrew please enter your password when asked"
@@ -38,6 +38,11 @@ brew services start mysql
 #install mongosh
 echo "installing mongosh"
 brew install mongosh
+
+#todo: install mongo
+# brew tap mongodb/brew
+# brew install mongodb-community@4.2
+# brew services start mongodb-community@4.2
 
 #install vscode
 echo "installing vscode"

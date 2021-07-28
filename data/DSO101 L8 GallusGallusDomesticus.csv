@@ -1,0 +1,1001 @@
+GallusID,GallusBreed,Day,Age,GallusWeight,GallusEggColor,GallusEggWeight,AmountOfFeed,EggsPerDay,GallusCombType,SunLightExposure,GallusClass,GallusLegShanksColor,GallusBeakColor,GallusEarLobesColor,GallusPlumage
+Marans1,Marans,1,883,3000,Brown,41.19,114,1,Single,7,Continental,White,White,NULL,Blue Copper
+Marans1,Marans,2,883,3000,Brown,41.19,114,1,Single,7,Continental,White,White,NULL,Blue Copper
+Marans1,Marans,3,883,3000,Brown,41.19,114,1,Single,7,Continental,White,White,NULL,Blue Copper
+Marans1,Marans,4,883,3000,Brown,41.19,114,1,Single,7,Continental,White,White,NULL,Blue Copper
+Marans1,Marans,5,883,3000,Brown,41.19,114,1,Single,7,Continental,White,White,NULL,Blue Copper
+Marans2,Marans,1,684,1750,Brown,52.91,111,1,Single,9,Continental,White,White,NULL,Blue
+Marans2,Marans,2,684,1750,Brown,52.91,111,1,Single,9,Continental,White,White,NULL,Blue
+Marans2,Marans,3,684,1750,Brown,52.91,111,1,Single,9,Continental,White,White,NULL,Blue
+Marans2,Marans,4,684,1750,Brown,52.91,111,1,Single,9,Continental,White,White,NULL,Blue
+Marans2,Marans,5,684,1750,Brown,52.91,111,1,Single,9,Continental,White,White,NULL,Blue
+Marans3,Marans,1,132,2370,Brown,49.72,125,1,Single,7,Continental,White,White,NULL,Splash
+Marans3,Marans,2,132,2370,Brown,49.72,125,1,Single,7,Continental,White,White,NULL,Splash
+Marans3,Marans,3,132,2370,Brown,49.72,125,1,Single,7,Continental,White,White,NULL,Splash
+Marans3,Marans,4,132,2370,Brown,49.72,125,1,Single,7,Continental,White,White,NULL,Splash
+Marans3,Marans,5,132,2370,Brown,49.72,125,1,Single,7,Continental,White,White,NULL,Splash
+Marans4,Marans,1,226,2790,Brown,30.52,122,1,Single,8,Continental,White,White,NULL,Splash Copper
+Marans4,Marans,2,226,2790,Brown,30.52,122,1,Single,8,Continental,White,White,NULL,Splash Copper
+Marans4,Marans,3,226,2790,Brown,30.52,122,1,Single,8,Continental,White,White,NULL,Splash Copper
+Marans4,Marans,4,226,2790,Brown,30.52,122,1,Single,8,Continental,White,White,NULL,Splash Copper
+Marans4,Marans,5,226,2790,Brown,30.52,122,1,Single,8,Continental,White,White,NULL,Splash Copper
+Marans5,Marans,1,288,2370,Brown,54.03,128,1,Single,9,Continental,White,White,NULL,Splash Copper
+Marans5,Marans,2,288,2370,Brown,54.03,128,1,Single,9,Continental,White,White,NULL,Splash Copper
+Marans5,Marans,3,288,2370,Brown,54.03,128,1,Single,9,Continental,White,White,NULL,Splash Copper
+Marans5,Marans,4,288,2370,Brown,54.03,128,1,Single,9,Continental,White,White,NULL,Splash Copper
+Marans5,Marans,5,288,2370,Brown,54.03,128,1,Single,9,Continental,White,White,NULL,Splash Copper
+Marans6,Marans,1,125,2490,Brown,31.89,125,1,Single,8,Continental,White,White,NULL,Splash Copper
+Marans6,Marans,2,125,2490,Brown,31.89,125,1,Single,8,Continental,White,White,NULL,Splash Copper
+Marans6,Marans,3,125,2490,Brown,31.89,125,1,Single,8,Continental,White,White,NULL,Splash Copper
+Marans6,Marans,4,125,2490,Brown,31.89,125,1,Single,8,Continental,White,White,NULL,Splash Copper
+Marans6,Marans,5,125,2490,Brown,31.89,125,1,Single,8,Continental,White,White,NULL,Splash Copper
+Marans7,Marans,1,494,2750,Brown,36.82,111,1,Single,8,Continental,White,White,NULL,Blue Copper
+Marans7,Marans,2,494,2750,Brown,36.82,111,1,Single,8,Continental,White,White,NULL,Blue Copper
+Marans7,Marans,3,494,2750,Brown,36.82,111,1,Single,8,Continental,White,White,NULL,Blue Copper
+Marans7,Marans,4,494,2750,Brown,36.82,111,1,Single,8,Continental,White,White,NULL,Blue Copper
+Marans7,Marans,5,494,2750,Brown,36.82,111,1,Single,8,Continental,White,White,NULL,Blue Copper
+Marans8,Marans,1,984,2180,Brown,48.04,107,0,Single,9,Continental,White,White,NULL,Blue
+Marans8,Marans,2,984,2180,Brown,48.04,107,0,Single,9,Continental,White,White,NULL,Blue
+Marans8,Marans,3,984,2180,Brown,48.04,107,0,Single,9,Continental,White,White,NULL,Blue
+Marans8,Marans,4,984,2180,Brown,48.04,107,0,Single,9,Continental,White,White,NULL,Blue
+Marans8,Marans,5,984,2180,Brown,48.04,107,0,Single,9,Continental,White,White,NULL,Blue
+Marans9,Marans,1,908,1730,Brown,38.66,110,1,Single,10,Continental,White,White,NULL,Blue
+Marans9,Marans,2,908,1730,Brown,38.66,110,1,Single,10,Continental,White,White,NULL,Blue
+Marans9,Marans,3,908,1730,Brown,38.66,110,1,Single,10,Continental,White,White,NULL,Blue
+Marans9,Marans,4,908,1730,Brown,38.66,110,1,Single,10,Continental,White,White,NULL,Blue
+Marans9,Marans,5,908,1730,Brown,38.66,110,1,Single,10,Continental,White,White,NULL,Blue
+Marans10,Marans,1,619,2580,Brown,46.16,116,1,Single,7,Continental,White,White,NULL,Splash
+Marans10,Marans,2,619,2580,Brown,46.16,116,1,Single,7,Continental,White,White,NULL,Splash
+Marans10,Marans,3,619,2580,Brown,46.16,116,1,Single,7,Continental,White,White,NULL,Splash
+Marans10,Marans,4,619,2580,Brown,46.16,116,1,Single,7,Continental,White,White,NULL,Splash
+Marans10,Marans,5,619,2580,Brown,46.16,116,1,Single,7,Continental,White,White,NULL,Splash
+Marans11,Marans,1,802,2450,Brown,49.22,126,1,Single,10,Continental,White,White,NULL,Splash
+Marans11,Marans,2,802,2450,Brown,49.22,126,1,Single,10,Continental,White,White,NULL,Splash
+Marans11,Marans,3,802,2450,Brown,49.22,126,1,Single,10,Continental,White,White,NULL,Splash
+Marans11,Marans,4,802,2450,Brown,49.22,126,1,Single,10,Continental,White,White,NULL,Splash
+Marans11,Marans,5,802,2450,Brown,49.22,126,1,Single,10,Continental,White,White,NULL,Splash
+Marans12,Marans,1,725,2400,Brown,30.34,105,1,Single,8,Continental,White,White,NULL,Blue
+Marans12,Marans,2,725,2400,Brown,30.34,105,1,Single,8,Continental,White,White,NULL,Blue
+Marans12,Marans,3,725,2400,Brown,30.34,105,1,Single,8,Continental,White,White,NULL,Blue
+Marans12,Marans,4,725,2400,Brown,30.34,105,1,Single,8,Continental,White,White,NULL,Blue
+Marans12,Marans,5,725,2400,Brown,30.34,105,1,Single,8,Continental,White,White,NULL,Blue
+Marans13,Marans,1,491,2250,Brown,41.2,120,1,Single,8,Continental,White,White,NULL,Blue
+Marans13,Marans,2,491,2250,Brown,41.2,120,1,Single,8,Continental,White,White,NULL,Blue
+Marans13,Marans,3,491,2250,Brown,41.2,120,1,Single,8,Continental,White,White,NULL,Blue
+Marans13,Marans,4,491,2250,Brown,41.2,120,1,Single,8,Continental,White,White,NULL,Blue
+Marans13,Marans,5,491,2250,Brown,41.2,120,1,Single,8,Continental,White,White,NULL,Blue
+Marans14,Marans,1,342,2020,Brown,42.94,118,1,Single,8,Continental,White,White,NULL,Splash Copper
+Marans14,Marans,2,342,2020,Brown,42.94,118,1,Single,8,Continental,White,White,NULL,Splash Copper
+Marans14,Marans,3,342,2020,Brown,42.94,118,1,Single,8,Continental,White,White,NULL,Splash Copper
+Marans14,Marans,4,342,2020,Brown,42.94,118,1,Single,8,Continental,White,White,NULL,Splash Copper
+Marans14,Marans,5,342,2020,Brown,42.94,118,1,Single,8,Continental,White,White,NULL,Splash Copper
+Marans15,Marans,1,134,1550,Brown,50.7,118,1,Single,8,Continental,White,White,NULL,Splash
+Marans15,Marans,2,134,1550,Brown,50.7,118,1,Single,8,Continental,White,White,NULL,Splash
+Marans15,Marans,3,134,1550,Brown,50.7,118,1,Single,8,Continental,White,White,NULL,Splash
+Marans15,Marans,4,134,1550,Brown,50.7,118,1,Single,8,Continental,White,White,NULL,Splash
+Marans15,Marans,5,134,1550,Brown,50.7,118,1,Single,8,Continental,White,White,NULL,Splash
+Marans16,Marans,1,833,1520,Brown,34.99,122,1,Single,8,Continental,White,White,NULL,Blue Copper
+Marans16,Marans,2,833,1520,Brown,34.99,122,1,Single,8,Continental,White,White,NULL,Blue Copper
+Marans16,Marans,3,833,1520,Brown,34.99,122,1,Single,8,Continental,White,White,NULL,Blue Copper
+Marans16,Marans,4,833,1520,Brown,34.99,122,1,Single,8,Continental,White,White,NULL,Blue Copper
+Marans16,Marans,5,833,1520,Brown,34.99,122,1,Single,8,Continental,White,White,NULL,Blue Copper
+Marans17,Marans,1,474,1790,Brown,42.89,111,1,Single,7,Continental,White,White,NULL,Blue Copper
+Marans17,Marans,2,474,1790,Brown,42.89,111,1,Single,7,Continental,White,White,NULL,Blue Copper
+Marans17,Marans,3,474,1790,Brown,42.89,111,1,Single,7,Continental,White,White,NULL,Blue Copper
+Marans17,Marans,4,474,1790,Brown,42.89,111,1,Single,7,Continental,White,White,NULL,Blue Copper
+Marans17,Marans,5,474,1790,Brown,42.89,111,1,Single,7,Continental,White,White,NULL,Blue Copper
+Marans18,Marans,1,906,2220,Brown,44.15,109,1,Single,10,Continental,White,White,NULL,Splash
+Marans18,Marans,2,906,2220,Brown,44.15,109,1,Single,10,Continental,White,White,NULL,Splash
+Marans18,Marans,3,906,2220,Brown,44.15,109,1,Single,10,Continental,White,White,NULL,Splash
+Marans18,Marans,4,906,2220,Brown,44.15,109,1,Single,10,Continental,White,White,NULL,Splash
+Marans18,Marans,5,906,2220,Brown,44.15,109,1,Single,10,Continental,White,White,NULL,Splash
+Marans19,Marans,1,442,1740,Brown,48.75,118,1,Single,7,Continental,White,White,NULL,Splash Copper
+Marans19,Marans,2,442,1740,Brown,48.75,118,1,Single,7,Continental,White,White,NULL,Splash Copper
+Marans19,Marans,3,442,1740,Brown,48.75,118,1,Single,7,Continental,White,White,NULL,Splash Copper
+Marans19,Marans,4,442,1740,Brown,48.75,118,1,Single,7,Continental,White,White,NULL,Splash Copper
+Marans19,Marans,5,442,1740,Brown,48.75,118,1,Single,7,Continental,White,White,NULL,Splash Copper
+Marans20,Marans,1,233,2040,Brown,31.52,115,1,Single,7,Continental,White,White,NULL,Splash Copper
+Marans20,Marans,2,233,2040,Brown,31.52,115,1,Single,7,Continental,White,White,NULL,Splash Copper
+Marans20,Marans,3,233,2040,Brown,31.52,115,1,Single,7,Continental,White,White,NULL,Splash Copper
+Marans20,Marans,4,233,2040,Brown,31.52,115,1,Single,7,Continental,White,White,NULL,Splash Copper
+Marans20,Marans,5,233,2040,Brown,31.52,115,1,Single,7,Continental,White,White,NULL,Splash Copper
+Marans21,Marans,1,118,2010,Brown,50.95,129,1,Single,10,Continental,White,White,NULL,Splash
+Marans21,Marans,2,118,2010,Brown,50.95,129,1,Single,10,Continental,White,White,NULL,Splash
+Marans21,Marans,3,118,2010,Brown,50.95,129,1,Single,10,Continental,White,White,NULL,Splash
+Marans21,Marans,4,118,2010,Brown,50.95,129,1,Single,10,Continental,White,White,NULL,Splash
+Marans21,Marans,5,118,2010,Brown,50.95,129,1,Single,10,Continental,White,White,NULL,Splash
+Marans22,Marans,1,899,2190,Brown,49.75,106,1,Single,9,Continental,White,White,NULL,Blue
+Marans22,Marans,2,899,2190,Brown,49.75,106,1,Single,9,Continental,White,White,NULL,Blue
+Marans22,Marans,3,899,2190,Brown,49.75,106,1,Single,9,Continental,White,White,NULL,Blue
+Marans22,Marans,4,899,2190,Brown,49.75,106,1,Single,9,Continental,White,White,NULL,Blue
+Marans22,Marans,5,899,2190,Brown,49.75,106,1,Single,9,Continental,White,White,NULL,Blue
+Marans23,Marans,1,866,2170,Brown,39.63,123,1,Single,9,Continental,White,White,NULL,Blue
+Marans23,Marans,2,866,2170,Brown,39.63,123,1,Single,9,Continental,White,White,NULL,Blue
+Marans23,Marans,3,866,2170,Brown,39.63,123,1,Single,9,Continental,White,White,NULL,Blue
+Marans23,Marans,4,866,2170,Brown,39.63,123,1,Single,9,Continental,White,White,NULL,Blue
+Marans23,Marans,5,866,2170,Brown,39.63,123,1,Single,9,Continental,White,White,NULL,Blue
+Marans24,Marans,1,444,2230,Brown,31.63,118,1,Single,7,Continental,White,White,NULL,Blue
+Marans24,Marans,2,444,2230,Brown,31.63,118,1,Single,7,Continental,White,White,NULL,Blue
+Marans24,Marans,3,444,2230,Brown,31.63,118,1,Single,7,Continental,White,White,NULL,Blue
+Marans24,Marans,4,444,2230,Brown,31.63,118,1,Single,7,Continental,White,White,NULL,Blue
+Marans24,Marans,5,444,2230,Brown,31.63,118,1,Single,7,Continental,White,White,NULL,Blue
+Marans25,Marans,1,425,2410,Brown,45.24,129,1,Single,9,Continental,White,White,NULL,Splash
+Marans25,Marans,2,425,2410,Brown,45.24,129,1,Single,9,Continental,White,White,NULL,Splash
+Marans25,Marans,3,425,2410,Brown,45.24,129,1,Single,9,Continental,White,White,NULL,Splash
+Marans25,Marans,4,425,2410,Brown,45.24,129,1,Single,9,Continental,White,White,NULL,Splash
+Marans25,Marans,5,425,2410,Brown,45.24,129,1,Single,9,Continental,White,White,NULL,Splash
+Marans26,Marans,1,859,1890,Brown,53.83,121,1,Single,7,Continental,White,White,NULL,Blue
+Marans26,Marans,2,859,1890,Brown,53.83,121,1,Single,7,Continental,White,White,NULL,Blue
+Marans26,Marans,3,859,1890,Brown,53.83,121,1,Single,7,Continental,White,White,NULL,Blue
+Marans26,Marans,4,859,1890,Brown,53.83,121,1,Single,7,Continental,White,White,NULL,Blue
+Marans26,Marans,5,859,1890,Brown,53.83,121,1,Single,7,Continental,White,White,NULL,Blue
+Marans27,Marans,1,179,1580,Brown,36.31,126,1,Single,9,Continental,White,White,NULL,Blue Copper
+Marans27,Marans,2,179,1580,Brown,36.31,126,1,Single,9,Continental,White,White,NULL,Blue Copper
+Marans27,Marans,3,179,1580,Brown,36.31,126,1,Single,9,Continental,White,White,NULL,Blue Copper
+Marans27,Marans,4,179,1580,Brown,36.31,126,1,Single,9,Continental,White,White,NULL,Blue Copper
+Marans27,Marans,5,179,1580,Brown,36.31,126,1,Single,9,Continental,White,White,NULL,Blue Copper
+Marans28,Marans,1,469,1980,Brown,32.32,114,1,Single,10,Continental,White,White,NULL,Blue
+Marans28,Marans,2,469,1980,Brown,32.32,114,1,Single,10,Continental,White,White,NULL,Blue
+Marans28,Marans,3,469,1980,Brown,32.32,114,1,Single,10,Continental,White,White,NULL,Blue
+Marans28,Marans,4,469,1980,Brown,32.32,114,1,Single,10,Continental,White,White,NULL,Blue
+Marans28,Marans,5,469,1980,Brown,32.32,114,1,Single,10,Continental,White,White,NULL,Blue
+Marans29,Marans,1,265,2370,Brown,40.41,117,1,Single,7,Continental,White,White,NULL,Blue Copper
+Marans29,Marans,2,265,2370,Brown,40.41,117,1,Single,7,Continental,White,White,NULL,Blue Copper
+Marans29,Marans,3,265,2370,Brown,40.41,117,1,Single,7,Continental,White,White,NULL,Blue Copper
+Marans29,Marans,4,265,2370,Brown,40.41,117,1,Single,7,Continental,White,White,NULL,Blue Copper
+Marans29,Marans,5,265,2370,Brown,40.41,117,1,Single,7,Continental,White,White,NULL,Blue Copper
+Marans30,Marans,1,567,2550,Brown,40.19,121,1,Single,9,Continental,White,White,NULL,Splash Copper
+Marans30,Marans,2,567,2550,Brown,40.19,121,1,Single,9,Continental,White,White,NULL,Splash Copper
+Marans30,Marans,3,567,2550,Brown,40.19,121,1,Single,9,Continental,White,White,NULL,Splash Copper
+Marans30,Marans,4,567,2550,Brown,40.19,121,1,Single,9,Continental,White,White,NULL,Splash Copper
+Marans30,Marans,5,567,2550,Brown,40.19,121,1,Single,9,Continental,White,White,NULL,Splash Copper
+Marans31,Marans,1,832,2050,Brown,54.24,110,1,Single,9,Continental,White,White,NULL,Blue
+Marans31,Marans,2,832,2050,Brown,54.24,110,1,Single,9,Continental,White,White,NULL,Blue
+Marans31,Marans,3,832,2050,Brown,54.24,110,1,Single,9,Continental,White,White,NULL,Blue
+Marans31,Marans,4,832,2050,Brown,54.24,110,1,Single,9,Continental,White,White,NULL,Blue
+Marans31,Marans,5,832,2050,Brown,54.24,110,1,Single,9,Continental,White,White,NULL,Blue
+Marans32,Marans,1,460,2680,Brown,53.42,107,1,Single,8,Continental,White,White,NULL,Blue
+Marans32,Marans,2,460,2680,Brown,53.42,107,1,Single,8,Continental,White,White,NULL,Blue
+Marans32,Marans,3,460,2680,Brown,53.42,107,1,Single,8,Continental,White,White,NULL,Blue
+Marans32,Marans,4,460,2680,Brown,53.42,107,1,Single,8,Continental,White,White,NULL,Blue
+Marans32,Marans,5,460,2680,Brown,53.42,107,1,Single,8,Continental,White,White,NULL,Blue
+Marans33,Marans,1,902,2210,Brown,32.66,120,1,Single,8,Continental,White,White,NULL,Splash Copper
+Marans33,Marans,2,902,2210,Brown,32.66,120,1,Single,8,Continental,White,White,NULL,Splash Copper
+Marans33,Marans,3,902,2210,Brown,32.66,120,1,Single,8,Continental,White,White,NULL,Splash Copper
+Marans33,Marans,4,902,2210,Brown,32.66,120,1,Single,8,Continental,White,White,NULL,Splash Copper
+Marans33,Marans,5,902,2210,Brown,32.66,120,1,Single,8,Continental,White,White,NULL,Splash Copper
+Marans34,Marans,1,124,2670,Brown,47.32,106,1,Single,8,Continental,White,White,NULL,Splash
+Marans34,Marans,2,124,2670,Brown,47.32,106,1,Single,8,Continental,White,White,NULL,Splash
+Marans34,Marans,3,124,2670,Brown,47.32,106,1,Single,8,Continental,White,White,NULL,Splash
+Marans34,Marans,4,124,2670,Brown,47.32,106,1,Single,8,Continental,White,White,NULL,Splash
+Marans34,Marans,5,124,2670,Brown,47.32,106,1,Single,8,Continental,White,White,NULL,Splash
+Marans35,Marans,1,626,2600,Brown,45.31,118,1,Single,7,Continental,White,White,NULL,Blue
+Marans35,Marans,2,626,2600,Brown,45.31,118,1,Single,7,Continental,White,White,NULL,Blue
+Marans35,Marans,3,626,2600,Brown,45.31,118,1,Single,7,Continental,White,White,NULL,Blue
+Marans35,Marans,4,626,2600,Brown,45.31,118,1,Single,7,Continental,White,White,NULL,Blue
+Marans35,Marans,5,626,2600,Brown,45.31,118,1,Single,7,Continental,White,White,NULL,Blue
+Marans36,Marans,1,825,2650,Brown,41.74,108,1,Single,8,Continental,White,White,NULL,Blue
+Marans36,Marans,2,825,2650,Brown,41.74,108,1,Single,8,Continental,White,White,NULL,Blue
+Marans36,Marans,3,825,2650,Brown,41.74,108,1,Single,8,Continental,White,White,NULL,Blue
+Marans36,Marans,4,825,2650,Brown,41.74,108,1,Single,8,Continental,White,White,NULL,Blue
+Marans36,Marans,5,825,2650,Brown,41.74,108,1,Single,8,Continental,White,White,NULL,Blue
+Marans37,Marans,1,182,2640,Brown,39.74,120,1,Single,10,Continental,White,White,NULL,Blue Copper
+Marans37,Marans,2,182,2640,Brown,39.74,120,1,Single,10,Continental,White,White,NULL,Blue Copper
+Marans37,Marans,3,182,2640,Brown,39.74,120,1,Single,10,Continental,White,White,NULL,Blue Copper
+Marans37,Marans,4,182,2640,Brown,39.74,120,1,Single,10,Continental,White,White,NULL,Blue Copper
+Marans37,Marans,5,182,2640,Brown,39.74,120,1,Single,10,Continental,White,White,NULL,Blue Copper
+Marans38,Marans,1,635,2670,Brown,54.49,129,1,Single,9,Continental,White,White,NULL,Splash
+Marans38,Marans,2,635,2670,Brown,54.49,129,1,Single,9,Continental,White,White,NULL,Splash
+Marans38,Marans,3,635,2670,Brown,54.49,129,1,Single,9,Continental,White,White,NULL,Splash
+Marans38,Marans,4,635,2670,Brown,54.49,129,1,Single,9,Continental,White,White,NULL,Splash
+Marans38,Marans,5,635,2670,Brown,54.49,129,1,Single,9,Continental,White,White,NULL,Splash
+Marans39,Marans,1,236,2940,Brown,50.31,117,1,Single,8,Continental,White,White,NULL,Blue
+Marans39,Marans,2,236,2940,Brown,50.31,117,1,Single,8,Continental,White,White,NULL,Blue
+Marans39,Marans,3,236,2940,Brown,50.31,117,1,Single,8,Continental,White,White,NULL,Blue
+Marans39,Marans,4,236,2940,Brown,50.31,117,1,Single,8,Continental,White,White,NULL,Blue
+Marans39,Marans,5,236,2940,Brown,50.31,117,1,Single,8,Continental,White,White,NULL,Blue
+Marans40,Marans,1,904,1820,Brown,52.92,123,1,Single,10,Continental,White,White,NULL,Blue
+Marans40,Marans,2,904,1820,Brown,52.92,123,1,Single,10,Continental,White,White,NULL,Blue
+Marans40,Marans,3,904,1820,Brown,52.92,123,1,Single,10,Continental,White,White,NULL,Blue
+Marans40,Marans,4,904,1820,Brown,52.92,123,1,Single,10,Continental,White,White,NULL,Blue
+Marans40,Marans,5,904,1820,Brown,52.92,123,1,Single,10,Continental,White,White,NULL,Blue
+Marans41,Marans,1,648,2240,Brown,31.68,128,1,Single,8,Continental,White,White,NULL,Blue
+Marans41,Marans,2,648,2240,Brown,31.68,128,1,Single,8,Continental,White,White,NULL,Blue
+Marans41,Marans,3,648,2240,Brown,31.68,128,1,Single,8,Continental,White,White,NULL,Blue
+Marans41,Marans,4,648,2240,Brown,31.68,128,1,Single,8,Continental,White,White,NULL,Blue
+Marans41,Marans,5,648,2240,Brown,31.68,128,1,Single,8,Continental,White,White,NULL,Blue
+Marans42,Marans,1,936,1530,Brown,39.71,113,1,Single,7,Continental,White,White,NULL,Blue Copper
+Marans42,Marans,2,936,1530,Brown,39.71,113,1,Single,7,Continental,White,White,NULL,Blue Copper
+Marans42,Marans,3,936,1530,Brown,39.71,113,1,Single,7,Continental,White,White,NULL,Blue Copper
+Marans42,Marans,4,936,1530,Brown,39.71,113,1,Single,7,Continental,White,White,NULL,Blue Copper
+Marans42,Marans,5,936,1530,Brown,39.71,113,1,Single,7,Continental,White,White,NULL,Blue Copper
+Marans43,Marans,1,979,2520,Brown,52.67,128,0,Single,9,Continental,White,White,NULL,Blue
+Marans43,Marans,2,979,2520,Brown,52.67,128,0,Single,9,Continental,White,White,NULL,Blue
+Marans43,Marans,3,979,2520,Brown,52.67,128,0,Single,9,Continental,White,White,NULL,Blue
+Marans43,Marans,4,979,2520,Brown,52.67,128,0,Single,9,Continental,White,White,NULL,Blue
+Marans43,Marans,5,979,2520,Brown,52.67,128,0,Single,9,Continental,White,White,NULL,Blue
+Marans44,Marans,1,233,1990,Brown,37.33,125,1,Single,7,Continental,White,White,NULL,Blue Copper
+Marans44,Marans,2,233,1990,Brown,37.33,125,1,Single,7,Continental,White,White,NULL,Blue Copper
+Marans44,Marans,3,233,1990,Brown,37.33,125,1,Single,7,Continental,White,White,NULL,Blue Copper
+Marans44,Marans,4,233,1990,Brown,37.33,125,1,Single,7,Continental,White,White,NULL,Blue Copper
+Marans44,Marans,5,233,1990,Brown,37.33,125,1,Single,7,Continental,White,White,NULL,Blue Copper
+Marans45,Marans,1,863,2930,Brown,42.53,117,1,Single,10,Continental,White,White,NULL,Splash
+Marans45,Marans,2,863,2930,Brown,42.53,117,1,Single,10,Continental,White,White,NULL,Splash
+Marans45,Marans,3,863,2930,Brown,42.53,117,1,Single,10,Continental,White,White,NULL,Splash
+Marans45,Marans,4,863,2930,Brown,42.53,117,1,Single,10,Continental,White,White,NULL,Splash
+Marans45,Marans,5,863,2930,Brown,42.53,117,1,Single,10,Continental,White,White,NULL,Splash
+Marans46,Marans,1,866,2160,Brown,54.93,126,1,Single,7,Continental,White,White,NULL,Blue Copper
+Marans46,Marans,2,866,2160,Brown,54.93,126,1,Single,7,Continental,White,White,NULL,Blue Copper
+Marans46,Marans,3,866,2160,Brown,54.93,126,1,Single,7,Continental,White,White,NULL,Blue Copper
+Marans46,Marans,4,866,2160,Brown,54.93,126,1,Single,7,Continental,White,White,NULL,Blue Copper
+Marans46,Marans,5,866,2160,Brown,54.93,126,1,Single,7,Continental,White,White,NULL,Blue Copper
+Marans47,Marans,1,809,1500,Brown,39.66,108,1,Single,8,Continental,White,White,NULL,Blue Copper
+Marans47,Marans,2,809,1500,Brown,39.66,108,1,Single,8,Continental,White,White,NULL,Blue Copper
+Marans47,Marans,3,809,1500,Brown,39.66,108,1,Single,8,Continental,White,White,NULL,Blue Copper
+Marans47,Marans,4,809,1500,Brown,39.66,108,1,Single,8,Continental,White,White,NULL,Blue Copper
+Marans47,Marans,5,809,1500,Brown,39.66,108,1,Single,8,Continental,White,White,NULL,Blue Copper
+Marans48,Marans,1,193,2320,Brown,38.72,106,1,Single,10,Continental,White,White,NULL,Splash
+Marans48,Marans,2,193,2320,Brown,38.72,106,1,Single,10,Continental,White,White,NULL,Splash
+Marans48,Marans,3,193,2320,Brown,38.72,106,1,Single,10,Continental,White,White,NULL,Splash
+Marans48,Marans,4,193,2320,Brown,38.72,106,1,Single,10,Continental,White,White,NULL,Splash
+Marans48,Marans,5,193,2320,Brown,38.72,106,1,Single,10,Continental,White,White,NULL,Splash
+Marans49,Marans,1,896,2240,Brown,43.01,114,1,Single,8,Continental,White,White,NULL,Blue
+Marans49,Marans,2,896,2240,Brown,43.01,114,1,Single,8,Continental,White,White,NULL,Blue
+Marans49,Marans,3,896,2240,Brown,43.01,114,1,Single,8,Continental,White,White,NULL,Blue
+Marans49,Marans,4,896,2240,Brown,43.01,114,1,Single,8,Continental,White,White,NULL,Blue
+Marans49,Marans,5,896,2240,Brown,43.01,114,1,Single,8,Continental,White,White,NULL,Blue
+Marans50,Marans,1,769,2690,Brown,42.61,110,1,Single,9,Continental,White,White,NULL,Blue
+Marans50,Marans,2,769,2690,Brown,42.61,110,1,Single,9,Continental,White,White,NULL,Blue
+Marans50,Marans,3,769,2690,Brown,42.61,110,1,Single,9,Continental,White,White,NULL,Blue
+Marans50,Marans,4,769,2690,Brown,42.61,110,1,Single,9,Continental,White,White,NULL,Blue
+Marans50,Marans,5,769,2690,Brown,42.61,110,1,Single,9,Continental,White,White,NULL,Blue
+Marans51,Marans,1,913,2330,Brown,40.57,113,1,Single,10,Continental,White,White,NULL,Blue
+Marans51,Marans,2,913,2330,Brown,40.57,113,1,Single,10,Continental,White,White,NULL,Blue
+Marans51,Marans,3,913,2330,Brown,40.57,113,1,Single,10,Continental,White,White,NULL,Blue
+Marans51,Marans,4,913,2330,Brown,40.57,113,1,Single,10,Continental,White,White,NULL,Blue
+Marans51,Marans,5,913,2330,Brown,40.57,113,1,Single,10,Continental,White,White,NULL,Blue
+Marans52,Marans,1,84,2280,Brown,31.8,115,1,Single,7,Continental,White,White,NULL,Blue Copper
+Marans52,Marans,2,84,2280,Brown,31.8,115,1,Single,7,Continental,White,White,NULL,Blue Copper
+Marans52,Marans,3,84,2280,Brown,31.8,115,1,Single,7,Continental,White,White,NULL,Blue Copper
+Marans52,Marans,4,84,2280,Brown,31.8,115,1,Single,7,Continental,White,White,NULL,Blue Copper
+Marans52,Marans,5,84,2280,Brown,31.8,115,1,Single,7,Continental,White,White,NULL,Blue Copper
+Marans53,Marans,1,660,2640,Brown,39.02,124,1,Single,8,Continental,White,White,NULL,Blue Copper
+Marans53,Marans,2,660,2640,Brown,39.02,124,1,Single,8,Continental,White,White,NULL,Blue Copper
+Marans53,Marans,3,660,2640,Brown,39.02,124,1,Single,8,Continental,White,White,NULL,Blue Copper
+Marans53,Marans,4,660,2640,Brown,39.02,124,1,Single,8,Continental,White,White,NULL,Blue Copper
+Marans53,Marans,5,660,2640,Brown,39.02,124,1,Single,8,Continental,White,White,NULL,Blue Copper
+Marans54,Marans,1,491,2170,Brown,40.74,116,1,Single,9,Continental,White,White,NULL,Splash Copper
+Marans54,Marans,2,491,2170,Brown,40.74,116,1,Single,9,Continental,White,White,NULL,Splash Copper
+Marans54,Marans,3,491,2170,Brown,40.74,116,1,Single,9,Continental,White,White,NULL,Splash Copper
+Marans54,Marans,4,491,2170,Brown,40.74,116,1,Single,9,Continental,White,White,NULL,Splash Copper
+Marans54,Marans,5,491,2170,Brown,40.74,116,1,Single,9,Continental,White,White,NULL,Splash Copper
+Marans55,Marans,1,699,2790,Brown,47,126,1,Single,10,Continental,White,White,NULL,Blue
+Marans55,Marans,2,699,2790,Brown,47,126,1,Single,10,Continental,White,White,NULL,Blue
+Marans55,Marans,3,699,2790,Brown,47,126,1,Single,10,Continental,White,White,NULL,Blue
+Marans55,Marans,4,699,2790,Brown,47,126,1,Single,10,Continental,White,White,NULL,Blue
+Marans55,Marans,5,699,2790,Brown,47,126,1,Single,10,Continental,White,White,NULL,Blue
+Marans56,Marans,1,228,1530,Brown,46.59,107,1,Single,9,Continental,White,White,NULL,Splash Copper
+Marans56,Marans,2,228,1530,Brown,46.59,107,1,Single,9,Continental,White,White,NULL,Splash Copper
+Marans56,Marans,3,228,1530,Brown,46.59,107,1,Single,9,Continental,White,White,NULL,Splash Copper
+Marans56,Marans,4,228,1530,Brown,46.59,107,1,Single,9,Continental,White,White,NULL,Splash Copper
+Marans56,Marans,5,228,1530,Brown,46.59,107,1,Single,9,Continental,White,White,NULL,Splash Copper
+Marans57,Marans,1,102,2030,Brown,41.08,112,1,Single,8,Continental,White,White,NULL,Splash Copper
+Marans57,Marans,2,102,2030,Brown,41.08,112,1,Single,8,Continental,White,White,NULL,Splash Copper
+Marans57,Marans,3,102,2030,Brown,41.08,112,1,Single,8,Continental,White,White,NULL,Splash Copper
+Marans57,Marans,4,102,2030,Brown,41.08,112,1,Single,8,Continental,White,White,NULL,Splash Copper
+Marans57,Marans,5,102,2030,Brown,41.08,112,1,Single,8,Continental,White,White,NULL,Splash Copper
+Marans58,Marans,1,350,2330,Brown,43.45,115,1,Single,9,Continental,White,White,NULL,Splash
+Marans58,Marans,2,350,2330,Brown,43.45,115,1,Single,9,Continental,White,White,NULL,Splash
+Marans58,Marans,3,350,2330,Brown,43.45,115,1,Single,9,Continental,White,White,NULL,Splash
+Marans58,Marans,4,350,2330,Brown,43.45,115,1,Single,9,Continental,White,White,NULL,Splash
+Marans58,Marans,5,350,2330,Brown,43.45,115,1,Single,9,Continental,White,White,NULL,Splash
+Marans59,Marans,1,407,2360,Brown,45.21,123,1,Single,9,Continental,White,White,NULL,Blue Copper
+Marans59,Marans,2,407,2360,Brown,45.21,123,1,Single,9,Continental,White,White,NULL,Blue Copper
+Marans59,Marans,3,407,2360,Brown,45.21,123,1,Single,9,Continental,White,White,NULL,Blue Copper
+Marans59,Marans,4,407,2360,Brown,45.21,123,1,Single,9,Continental,White,White,NULL,Blue Copper
+Marans59,Marans,5,407,2360,Brown,45.21,123,1,Single,9,Continental,White,White,NULL,Blue Copper
+Marans60,Marans,1,124,2200,Brown,50.86,119,1,Single,7,Continental,White,White,NULL,Splash
+Marans60,Marans,2,124,2200,Brown,50.86,119,1,Single,7,Continental,White,White,NULL,Splash
+Marans60,Marans,3,124,2200,Brown,50.86,119,1,Single,7,Continental,White,White,NULL,Splash
+Marans60,Marans,4,124,2200,Brown,50.86,119,1,Single,7,Continental,White,White,NULL,Splash
+Marans60,Marans,5,124,2200,Brown,50.86,119,1,Single,7,Continental,White,White,NULL,Splash
+Marans61,Marans,1,48,1880,Brown,46.4,124,1,Single,9,Continental,White,White,NULL,Blue
+Marans61,Marans,2,48,1880,Brown,46.4,124,1,Single,9,Continental,White,White,NULL,Blue
+Marans61,Marans,3,48,1880,Brown,46.4,124,1,Single,9,Continental,White,White,NULL,Blue
+Marans61,Marans,4,48,1880,Brown,46.4,124,1,Single,9,Continental,White,White,NULL,Blue
+Marans61,Marans,5,48,1880,Brown,46.4,124,1,Single,9,Continental,White,White,NULL,Blue
+Marans62,Marans,1,866,1730,Brown,38.37,107,1,Single,10,Continental,White,White,NULL,Blue Copper
+Marans62,Marans,2,866,1730,Brown,38.37,107,1,Single,10,Continental,White,White,NULL,Blue Copper
+Marans62,Marans,3,866,1730,Brown,38.37,107,1,Single,10,Continental,White,White,NULL,Blue Copper
+Marans62,Marans,4,866,1730,Brown,38.37,107,1,Single,10,Continental,White,White,NULL,Blue Copper
+Marans62,Marans,5,866,1730,Brown,38.37,107,1,Single,10,Continental,White,White,NULL,Blue Copper
+Marans63,Marans,1,990,1630,Brown,42.42,124,0,Single,9,Continental,White,White,NULL,Splash Copper
+Marans63,Marans,2,990,1630,Brown,42.42,124,0,Single,9,Continental,White,White,NULL,Splash Copper
+Marans63,Marans,3,990,1630,Brown,42.42,124,0,Single,9,Continental,White,White,NULL,Splash Copper
+Marans63,Marans,4,990,1630,Brown,42.42,124,0,Single,9,Continental,White,White,NULL,Splash Copper
+Marans63,Marans,5,990,1630,Brown,42.42,124,0,Single,9,Continental,White,White,NULL,Splash Copper
+Marans64,Marans,1,461,2960,Brown,50.16,106,1,Single,9,Continental,White,White,NULL,Splash Copper
+Marans64,Marans,2,461,2960,Brown,50.16,106,1,Single,9,Continental,White,White,NULL,Splash Copper
+Marans64,Marans,3,461,2960,Brown,50.16,106,1,Single,9,Continental,White,White,NULL,Splash Copper
+Marans64,Marans,4,461,2960,Brown,50.16,106,1,Single,9,Continental,White,White,NULL,Splash Copper
+Marans64,Marans,5,461,2960,Brown,50.16,106,1,Single,9,Continental,White,White,NULL,Splash Copper
+Marans65,Marans,1,664,1610,Brown,50.16,126,1,Single,7,Continental,White,White,NULL,Splash Copper
+Marans65,Marans,2,664,1610,Brown,50.16,126,1,Single,7,Continental,White,White,NULL,Splash Copper
+Marans65,Marans,3,664,1610,Brown,50.16,126,1,Single,7,Continental,White,White,NULL,Splash Copper
+Marans65,Marans,4,664,1610,Brown,50.16,126,1,Single,7,Continental,White,White,NULL,Splash Copper
+Marans65,Marans,5,664,1610,Brown,50.16,126,1,Single,7,Continental,White,White,NULL,Splash Copper
+Marans66,Marans,1,555,2060,Brown,45.08,107,1,Single,8,Continental,White,White,NULL,Blue
+Marans66,Marans,2,555,2060,Brown,45.08,107,1,Single,8,Continental,White,White,NULL,Blue
+Marans66,Marans,3,555,2060,Brown,45.08,107,1,Single,8,Continental,White,White,NULL,Blue
+Marans66,Marans,4,555,2060,Brown,45.08,107,1,Single,8,Continental,White,White,NULL,Blue
+Marans66,Marans,5,555,2060,Brown,45.08,107,1,Single,8,Continental,White,White,NULL,Blue
+Marans67,Marans,1,929,2510,Brown,38.66,114,1,Single,10,Continental,White,White,NULL,Blue Copper
+Marans67,Marans,2,929,2510,Brown,38.66,114,1,Single,10,Continental,White,White,NULL,Blue Copper
+Marans67,Marans,3,929,2510,Brown,38.66,114,1,Single,10,Continental,White,White,NULL,Blue Copper
+Marans67,Marans,4,929,2510,Brown,38.66,114,1,Single,10,Continental,White,White,NULL,Blue Copper
+Marans67,Marans,5,929,2510,Brown,38.66,114,1,Single,10,Continental,White,White,NULL,Blue Copper
+Marans68,Marans,1,361,2680,Brown,31.09,128,1,Single,9,Continental,White,White,NULL,Blue
+Marans68,Marans,2,361,2680,Brown,31.09,128,1,Single,9,Continental,White,White,NULL,Blue
+Marans68,Marans,3,361,2680,Brown,31.09,128,1,Single,9,Continental,White,White,NULL,Blue
+Marans68,Marans,4,361,2680,Brown,31.09,128,1,Single,9,Continental,White,White,NULL,Blue
+Marans68,Marans,5,361,2680,Brown,31.09,128,1,Single,9,Continental,White,White,NULL,Blue
+Marans69,Marans,1,802,1920,Brown,30.47,125,1,Single,8,Continental,White,White,NULL,Splash Copper
+Marans69,Marans,2,802,1920,Brown,30.47,125,1,Single,8,Continental,White,White,NULL,Splash Copper
+Marans69,Marans,3,802,1920,Brown,30.47,125,1,Single,8,Continental,White,White,NULL,Splash Copper
+Marans69,Marans,4,802,1920,Brown,30.47,125,1,Single,8,Continental,White,White,NULL,Splash Copper
+Marans69,Marans,5,802,1920,Brown,30.47,125,1,Single,8,Continental,White,White,NULL,Splash Copper
+Marans70,Marans,1,761,1800,Brown,37.33,127,1,Single,8,Continental,White,White,NULL,Blue Copper
+Marans70,Marans,2,761,1800,Brown,37.33,127,1,Single,8,Continental,White,White,NULL,Blue Copper
+Marans70,Marans,3,761,1800,Brown,37.33,127,1,Single,8,Continental,White,White,NULL,Blue Copper
+Marans70,Marans,4,761,1800,Brown,37.33,127,1,Single,8,Continental,White,White,NULL,Blue Copper
+Marans70,Marans,5,761,1800,Brown,37.33,127,1,Single,8,Continental,White,White,NULL,Blue Copper
+Marans71,Marans,1,825,2690,Brown,54.3,123,1,Single,10,Continental,White,White,NULL,Blue
+Marans71,Marans,2,825,2690,Brown,54.3,123,1,Single,10,Continental,White,White,NULL,Blue
+Marans71,Marans,3,825,2690,Brown,54.3,123,1,Single,10,Continental,White,White,NULL,Blue
+Marans71,Marans,4,825,2690,Brown,54.3,123,1,Single,10,Continental,White,White,NULL,Blue
+Marans71,Marans,5,825,2690,Brown,54.3,123,1,Single,10,Continental,White,White,NULL,Blue
+Marans72,Marans,1,694,2230,Brown,49.18,117,1,Single,10,Continental,White,White,NULL,Blue
+Marans72,Marans,2,694,2230,Brown,49.18,117,1,Single,10,Continental,White,White,NULL,Blue
+Marans72,Marans,3,694,2230,Brown,49.18,117,1,Single,10,Continental,White,White,NULL,Blue
+Marans72,Marans,4,694,2230,Brown,49.18,117,1,Single,10,Continental,White,White,NULL,Blue
+Marans72,Marans,5,694,2230,Brown,49.18,117,1,Single,10,Continental,White,White,NULL,Blue
+Marans73,Marans,1,933,2850,Brown,33.56,127,1,Single,10,Continental,White,White,NULL,Blue Copper
+Marans73,Marans,2,933,2850,Brown,33.56,127,1,Single,10,Continental,White,White,NULL,Blue Copper
+Marans73,Marans,3,933,2850,Brown,33.56,127,1,Single,10,Continental,White,White,NULL,Blue Copper
+Marans73,Marans,4,933,2850,Brown,33.56,127,1,Single,10,Continental,White,White,NULL,Blue Copper
+Marans73,Marans,5,933,2850,Brown,33.56,127,1,Single,10,Continental,White,White,NULL,Blue Copper
+Marans74,Marans,1,400,1890,Brown,47.43,105,1,Single,7,Continental,White,White,NULL,Splash
+Marans74,Marans,2,400,1890,Brown,47.43,105,1,Single,7,Continental,White,White,NULL,Splash
+Marans74,Marans,3,400,1890,Brown,47.43,105,1,Single,7,Continental,White,White,NULL,Splash
+Marans74,Marans,4,400,1890,Brown,47.43,105,1,Single,7,Continental,White,White,NULL,Splash
+Marans74,Marans,5,400,1890,Brown,47.43,105,1,Single,7,Continental,White,White,NULL,Splash
+Marans75,Marans,1,76,2080,Brown,36.64,112,1,Single,9,Continental,White,White,NULL,Splash
+Marans75,Marans,2,76,2080,Brown,36.64,112,1,Single,9,Continental,White,White,NULL,Splash
+Marans75,Marans,3,76,2080,Brown,36.64,112,1,Single,9,Continental,White,White,NULL,Splash
+Marans75,Marans,4,76,2080,Brown,36.64,112,1,Single,9,Continental,White,White,NULL,Splash
+Marans75,Marans,5,76,2080,Brown,36.64,112,1,Single,9,Continental,White,White,NULL,Splash
+Marans76,Marans,1,332,2140,Brown,52.85,120,1,Single,8,Continental,White,White,NULL,Splash
+Marans76,Marans,2,332,2140,Brown,52.85,120,1,Single,8,Continental,White,White,NULL,Splash
+Marans76,Marans,3,332,2140,Brown,52.85,120,1,Single,8,Continental,White,White,NULL,Splash
+Marans76,Marans,4,332,2140,Brown,52.85,120,1,Single,8,Continental,White,White,NULL,Splash
+Marans76,Marans,5,332,2140,Brown,52.85,120,1,Single,8,Continental,White,White,NULL,Splash
+Marans77,Marans,1,681,2060,Brown,34.6,129,1,Single,8,Continental,White,White,NULL,Blue Copper
+Marans77,Marans,2,681,2060,Brown,34.6,129,1,Single,8,Continental,White,White,NULL,Blue Copper
+Marans77,Marans,3,681,2060,Brown,34.6,129,1,Single,8,Continental,White,White,NULL,Blue Copper
+Marans77,Marans,4,681,2060,Brown,34.6,129,1,Single,8,Continental,White,White,NULL,Blue Copper
+Marans77,Marans,5,681,2060,Brown,34.6,129,1,Single,8,Continental,White,White,NULL,Blue Copper
+Marans78,Marans,1,344,2790,Brown,31.87,108,1,Single,9,Continental,White,White,NULL,Splash Copper
+Marans78,Marans,2,344,2790,Brown,31.87,108,1,Single,9,Continental,White,White,NULL,Splash Copper
+Marans78,Marans,3,344,2790,Brown,31.87,108,1,Single,9,Continental,White,White,NULL,Splash Copper
+Marans78,Marans,4,344,2790,Brown,31.87,108,1,Single,9,Continental,White,White,NULL,Splash Copper
+Marans78,Marans,5,344,2790,Brown,31.87,108,1,Single,9,Continental,White,White,NULL,Splash Copper
+Marans79,Marans,1,617,1700,Brown,32.34,113,1,Single,7,Continental,White,White,NULL,Splash Copper
+Marans79,Marans,2,617,1700,Brown,32.34,113,1,Single,7,Continental,White,White,NULL,Splash Copper
+Marans79,Marans,3,617,1700,Brown,32.34,113,1,Single,7,Continental,White,White,NULL,Splash Copper
+Marans79,Marans,4,617,1700,Brown,32.34,113,1,Single,7,Continental,White,White,NULL,Splash Copper
+Marans79,Marans,5,617,1700,Brown,32.34,113,1,Single,7,Continental,White,White,NULL,Splash Copper
+Marans80,Marans,1,91,1820,Brown,45.25,108,1,Single,9,Continental,White,White,NULL,Blue Copper
+Marans80,Marans,2,91,1820,Brown,45.25,108,1,Single,9,Continental,White,White,NULL,Blue Copper
+Marans80,Marans,3,91,1820,Brown,45.25,108,1,Single,9,Continental,White,White,NULL,Blue Copper
+Marans80,Marans,4,91,1820,Brown,45.25,108,1,Single,9,Continental,White,White,NULL,Blue Copper
+Marans80,Marans,5,91,1820,Brown,45.25,108,1,Single,9,Continental,White,White,NULL,Blue Copper
+Marans81,Marans,1,568,1520,Brown,52.35,119,1,Single,9,Continental,White,White,NULL,Splash Copper
+Marans81,Marans,2,568,1520,Brown,52.35,119,1,Single,9,Continental,White,White,NULL,Splash Copper
+Marans81,Marans,3,568,1520,Brown,52.35,119,1,Single,9,Continental,White,White,NULL,Splash Copper
+Marans81,Marans,4,568,1520,Brown,52.35,119,1,Single,9,Continental,White,White,NULL,Splash Copper
+Marans81,Marans,5,568,1520,Brown,52.35,119,1,Single,9,Continental,White,White,NULL,Splash Copper
+Marans82,Marans,1,187,1650,Brown,45.24,107,1,Single,9,Continental,White,White,NULL,Splash Copper
+Marans82,Marans,2,187,1650,Brown,45.24,107,1,Single,9,Continental,White,White,NULL,Splash Copper
+Marans82,Marans,3,187,1650,Brown,45.24,107,1,Single,9,Continental,White,White,NULL,Splash Copper
+Marans82,Marans,4,187,1650,Brown,45.24,107,1,Single,9,Continental,White,White,NULL,Splash Copper
+Marans82,Marans,5,187,1650,Brown,45.24,107,1,Single,9,Continental,White,White,NULL,Splash Copper
+Marans83,Marans,1,840,2300,Brown,40.4,128,1,Single,7,Continental,White,White,NULL,Splash
+Marans83,Marans,2,840,2300,Brown,40.4,128,1,Single,7,Continental,White,White,NULL,Splash
+Marans83,Marans,3,840,2300,Brown,40.4,128,1,Single,7,Continental,White,White,NULL,Splash
+Marans83,Marans,4,840,2300,Brown,40.4,128,1,Single,7,Continental,White,White,NULL,Splash
+Marans83,Marans,5,840,2300,Brown,40.4,128,1,Single,7,Continental,White,White,NULL,Splash
+Marans84,Marans,1,224,2540,Brown,38.82,129,1,Single,9,Continental,White,White,NULL,Splash Copper
+Marans84,Marans,2,224,2540,Brown,38.82,129,1,Single,9,Continental,White,White,NULL,Splash Copper
+Marans84,Marans,3,224,2540,Brown,38.82,129,1,Single,9,Continental,White,White,NULL,Splash Copper
+Marans84,Marans,4,224,2540,Brown,38.82,129,1,Single,9,Continental,White,White,NULL,Splash Copper
+Marans84,Marans,5,224,2540,Brown,38.82,129,1,Single,9,Continental,White,White,NULL,Splash Copper
+Marans85,Marans,1,201,2540,Brown,40.95,112,1,Single,9,Continental,White,White,NULL,Blue Copper
+Marans85,Marans,2,201,2540,Brown,40.95,112,1,Single,9,Continental,White,White,NULL,Blue Copper
+Marans85,Marans,3,201,2540,Brown,40.95,112,1,Single,9,Continental,White,White,NULL,Blue Copper
+Marans85,Marans,4,201,2540,Brown,40.95,112,1,Single,9,Continental,White,White,NULL,Blue Copper
+Marans85,Marans,5,201,2540,Brown,40.95,112,1,Single,9,Continental,White,White,NULL,Blue Copper
+Marans86,Marans,1,612,1630,Brown,50.91,117,1,Single,8,Continental,White,White,NULL,Splash
+Marans86,Marans,2,612,1630,Brown,50.91,117,1,Single,8,Continental,White,White,NULL,Splash
+Marans86,Marans,3,612,1630,Brown,50.91,117,1,Single,8,Continental,White,White,NULL,Splash
+Marans86,Marans,4,612,1630,Brown,50.91,117,1,Single,8,Continental,White,White,NULL,Splash
+Marans86,Marans,5,612,1630,Brown,50.91,117,1,Single,8,Continental,White,White,NULL,Splash
+Marans87,Marans,1,102,2320,Brown,54.47,107,1,Single,8,Continental,White,White,NULL,Splash Copper
+Marans87,Marans,2,102,2320,Brown,54.47,107,1,Single,8,Continental,White,White,NULL,Splash Copper
+Marans87,Marans,3,102,2320,Brown,54.47,107,1,Single,8,Continental,White,White,NULL,Splash Copper
+Marans87,Marans,4,102,2320,Brown,54.47,107,1,Single,8,Continental,White,White,NULL,Splash Copper
+Marans87,Marans,5,102,2320,Brown,54.47,107,1,Single,8,Continental,White,White,NULL,Splash Copper
+Marans88,Marans,1,594,2250,Brown,47.18,106,1,Single,8,Continental,White,White,NULL,Blue Copper
+Marans88,Marans,2,594,2250,Brown,47.18,106,1,Single,8,Continental,White,White,NULL,Blue Copper
+Marans88,Marans,3,594,2250,Brown,47.18,106,1,Single,8,Continental,White,White,NULL,Blue Copper
+Marans88,Marans,4,594,2250,Brown,47.18,106,1,Single,8,Continental,White,White,NULL,Blue Copper
+Marans88,Marans,5,594,2250,Brown,47.18,106,1,Single,8,Continental,White,White,NULL,Blue Copper
+Marans89,Marans,1,801,2100,Brown,46.74,123,1,Single,10,Continental,White,White,NULL,Splash Copper
+Marans89,Marans,2,801,2100,Brown,46.74,123,1,Single,10,Continental,White,White,NULL,Splash Copper
+Marans89,Marans,3,801,2100,Brown,46.74,123,1,Single,10,Continental,White,White,NULL,Splash Copper
+Marans89,Marans,4,801,2100,Brown,46.74,123,1,Single,10,Continental,White,White,NULL,Splash Copper
+Marans89,Marans,5,801,2100,Brown,46.74,123,1,Single,10,Continental,White,White,NULL,Splash Copper
+Marans90,Marans,1,447,2880,Brown,48.56,120,1,Single,7,Continental,White,White,NULL,Splash
+Marans90,Marans,2,447,2880,Brown,48.56,120,1,Single,7,Continental,White,White,NULL,Splash
+Marans90,Marans,3,447,2880,Brown,48.56,120,1,Single,7,Continental,White,White,NULL,Splash
+Marans90,Marans,4,447,2880,Brown,48.56,120,1,Single,7,Continental,White,White,NULL,Splash
+Marans90,Marans,5,447,2880,Brown,48.56,120,1,Single,7,Continental,White,White,NULL,Splash
+Marans91,Marans,1,358,2150,Brown,50.75,117,1,Single,10,Continental,White,White,NULL,Splash Copper
+Marans91,Marans,2,358,2150,Brown,50.75,117,1,Single,10,Continental,White,White,NULL,Splash Copper
+Marans91,Marans,3,358,2150,Brown,50.75,117,1,Single,10,Continental,White,White,NULL,Splash Copper
+Marans91,Marans,4,358,2150,Brown,50.75,117,1,Single,10,Continental,White,White,NULL,Splash Copper
+Marans91,Marans,5,358,2150,Brown,50.75,117,1,Single,10,Continental,White,White,NULL,Splash Copper
+Marans92,Marans,1,692,2810,Brown,45.84,127,1,Single,9,Continental,White,White,NULL,Blue
+Marans92,Marans,2,692,2810,Brown,45.84,127,1,Single,9,Continental,White,White,NULL,Blue
+Marans92,Marans,3,692,2810,Brown,45.84,127,1,Single,9,Continental,White,White,NULL,Blue
+Marans92,Marans,4,692,2810,Brown,45.84,127,1,Single,9,Continental,White,White,NULL,Blue
+Marans92,Marans,5,692,2810,Brown,45.84,127,1,Single,9,Continental,White,White,NULL,Blue
+Marans93,Marans,1,939,1600,Brown,40.03,117,1,Single,8,Continental,White,White,NULL,Splash
+Marans93,Marans,2,939,1600,Brown,40.03,117,1,Single,8,Continental,White,White,NULL,Splash
+Marans93,Marans,3,939,1600,Brown,40.03,117,1,Single,8,Continental,White,White,NULL,Splash
+Marans93,Marans,4,939,1600,Brown,40.03,117,1,Single,8,Continental,White,White,NULL,Splash
+Marans93,Marans,5,939,1600,Brown,40.03,117,1,Single,8,Continental,White,White,NULL,Splash
+Marans94,Marans,1,732,2910,Brown,47.74,114,1,Single,8,Continental,White,White,NULL,Splash Copper
+Marans94,Marans,2,732,2910,Brown,47.74,114,1,Single,8,Continental,White,White,NULL,Splash Copper
+Marans94,Marans,3,732,2910,Brown,47.74,114,1,Single,8,Continental,White,White,NULL,Splash Copper
+Marans94,Marans,4,732,2910,Brown,47.74,114,1,Single,8,Continental,White,White,NULL,Splash Copper
+Marans94,Marans,5,732,2910,Brown,47.74,114,1,Single,8,Continental,White,White,NULL,Splash Copper
+Marans95,Marans,1,591,2980,Brown,34.3,116,1,Single,7,Continental,White,White,NULL,Blue
+Marans95,Marans,2,591,2980,Brown,34.3,116,1,Single,7,Continental,White,White,NULL,Blue
+Marans95,Marans,3,591,2980,Brown,34.3,116,1,Single,7,Continental,White,White,NULL,Blue
+Marans95,Marans,4,591,2980,Brown,34.3,116,1,Single,7,Continental,White,White,NULL,Blue
+Marans95,Marans,5,591,2980,Brown,34.3,116,1,Single,7,Continental,White,White,NULL,Blue
+Marans96,Marans,1,589,1890,Brown,37.9,115,1,Single,8,Continental,White,White,NULL,Splash
+Marans96,Marans,2,589,1890,Brown,37.9,115,1,Single,8,Continental,White,White,NULL,Splash
+Marans96,Marans,3,589,1890,Brown,37.9,115,1,Single,8,Continental,White,White,NULL,Splash
+Marans96,Marans,4,589,1890,Brown,37.9,115,1,Single,8,Continental,White,White,NULL,Splash
+Marans96,Marans,5,589,1890,Brown,37.9,115,1,Single,8,Continental,White,White,NULL,Splash
+Marans97,Marans,1,72,2040,Brown,46.32,110,1,Single,7,Continental,White,White,NULL,Blue Copper
+Marans97,Marans,2,72,2040,Brown,46.32,110,1,Single,7,Continental,White,White,NULL,Blue Copper
+Marans97,Marans,3,72,2040,Brown,46.32,110,1,Single,7,Continental,White,White,NULL,Blue Copper
+Marans97,Marans,4,72,2040,Brown,46.32,110,1,Single,7,Continental,White,White,NULL,Blue Copper
+Marans97,Marans,5,72,2040,Brown,46.32,110,1,Single,7,Continental,White,White,NULL,Blue Copper
+Marans98,Marans,1,393,1940,Brown,43.21,107,1,Single,10,Continental,White,White,NULL,Blue Copper
+Marans98,Marans,2,393,1940,Brown,43.21,107,1,Single,10,Continental,White,White,NULL,Blue Copper
+Marans98,Marans,3,393,1940,Brown,43.21,107,1,Single,10,Continental,White,White,NULL,Blue Copper
+Marans98,Marans,4,393,1940,Brown,43.21,107,1,Single,10,Continental,White,White,NULL,Blue Copper
+Marans98,Marans,5,393,1940,Brown,43.21,107,1,Single,10,Continental,White,White,NULL,Blue Copper
+Marans99,Marans,1,94,2110,Brown,34.58,113,1,Single,9,Continental,White,White,NULL,Splash
+Marans99,Marans,2,94,2110,Brown,34.58,113,1,Single,9,Continental,White,White,NULL,Splash
+Marans99,Marans,3,94,2110,Brown,34.58,113,1,Single,9,Continental,White,White,NULL,Splash
+Marans99,Marans,4,94,2110,Brown,34.58,113,1,Single,9,Continental,White,White,NULL,Splash
+Marans99,Marans,5,94,2110,Brown,34.58,113,1,Single,9,Continental,White,White,NULL,Splash
+Marans100,Marans,1,699,2690,Brown,44.34,107,1,Single,7,Continental,White,White,NULL,Splash
+Marans100,Marans,2,699,2690,Brown,44.34,107,1,Single,7,Continental,White,White,NULL,Splash
+Marans100,Marans,3,699,2690,Brown,44.34,107,1,Single,7,Continental,White,White,NULL,Splash
+Marans100,Marans,4,699,2690,Brown,44.34,107,1,Single,7,Continental,White,White,NULL,Splash
+Marans100,Marans,5,699,2690,Brown,44.34,107,1,Single,7,Continental,White,White,NULL,Splash
+Marans101,Marans,1,294,2350,Brown,31.37,108,1,Single,9,Continental,White,White,NULL,Blue Copper
+Marans101,Marans,2,294,2350,Brown,31.37,108,1,Single,9,Continental,White,White,NULL,Blue Copper
+Marans101,Marans,3,294,2350,Brown,31.37,108,1,Single,9,Continental,White,White,NULL,Blue Copper
+Marans101,Marans,4,294,2350,Brown,31.37,108,1,Single,9,Continental,White,White,NULL,Blue Copper
+Marans101,Marans,5,294,2350,Brown,31.37,108,1,Single,9,Continental,White,White,NULL,Blue Copper
+Marans102,Marans,1,466,1840,Brown,49.79,122,1,Single,10,Continental,White,White,NULL,Splash Copper
+Marans102,Marans,2,466,1840,Brown,49.79,122,1,Single,10,Continental,White,White,NULL,Splash Copper
+Marans102,Marans,3,466,1840,Brown,49.79,122,1,Single,10,Continental,White,White,NULL,Splash Copper
+Marans102,Marans,4,466,1840,Brown,49.79,122,1,Single,10,Continental,White,White,NULL,Splash Copper
+Marans102,Marans,5,466,1840,Brown,49.79,122,1,Single,10,Continental,White,White,NULL,Splash Copper
+Marans103,Marans,1,526,2820,Brown,41.07,120,1,Single,9,Continental,White,White,NULL,Blue
+Marans103,Marans,2,526,2820,Brown,41.07,120,1,Single,9,Continental,White,White,NULL,Blue
+Marans103,Marans,3,526,2820,Brown,41.07,120,1,Single,9,Continental,White,White,NULL,Blue
+Marans103,Marans,4,526,2820,Brown,41.07,120,1,Single,9,Continental,White,White,NULL,Blue
+Marans103,Marans,5,526,2820,Brown,41.07,120,1,Single,9,Continental,White,White,NULL,Blue
+Marans104,Marans,1,615,2210,Brown,34.07,127,1,Single,9,Continental,White,White,NULL,Splash
+Marans104,Marans,2,615,2210,Brown,34.07,127,1,Single,9,Continental,White,White,NULL,Splash
+Marans104,Marans,3,615,2210,Brown,34.07,127,1,Single,9,Continental,White,White,NULL,Splash
+Marans104,Marans,4,615,2210,Brown,34.07,127,1,Single,9,Continental,White,White,NULL,Splash
+Marans104,Marans,5,615,2210,Brown,34.07,127,1,Single,9,Continental,White,White,NULL,Splash
+Marans105,Marans,1,55,2190,Brown,38.28,123,1,Single,9,Continental,White,White,NULL,Blue Copper
+Marans105,Marans,2,55,2190,Brown,38.28,123,1,Single,9,Continental,White,White,NULL,Blue Copper
+Marans105,Marans,3,55,2190,Brown,38.28,123,1,Single,9,Continental,White,White,NULL,Blue Copper
+Marans105,Marans,4,55,2190,Brown,38.28,123,1,Single,9,Continental,White,White,NULL,Blue Copper
+Marans105,Marans,5,55,2190,Brown,38.28,123,1,Single,9,Continental,White,White,NULL,Blue Copper
+Marans106,Marans,1,395,1700,Brown,43.19,113,1,Single,8,Continental,White,White,NULL,Splash Copper
+Marans106,Marans,2,395,1700,Brown,43.19,113,1,Single,8,Continental,White,White,NULL,Splash Copper
+Marans106,Marans,3,395,1700,Brown,43.19,113,1,Single,8,Continental,White,White,NULL,Splash Copper
+Marans106,Marans,4,395,1700,Brown,43.19,113,1,Single,8,Continental,White,White,NULL,Splash Copper
+Marans106,Marans,5,395,1700,Brown,43.19,113,1,Single,8,Continental,White,White,NULL,Splash Copper
+Marans107,Marans,1,405,2210,Brown,35.58,121,1,Single,7,Continental,White,White,NULL,Splash Copper
+Marans107,Marans,2,405,2210,Brown,35.58,121,1,Single,7,Continental,White,White,NULL,Splash Copper
+Marans107,Marans,3,405,2210,Brown,35.58,121,1,Single,7,Continental,White,White,NULL,Splash Copper
+Marans107,Marans,4,405,2210,Brown,35.58,121,1,Single,7,Continental,White,White,NULL,Splash Copper
+Marans107,Marans,5,405,2210,Brown,35.58,121,1,Single,7,Continental,White,White,NULL,Splash Copper
+Marans108,Marans,1,350,2810,Brown,44.02,121,1,Single,7,Continental,White,White,NULL,Blue
+Marans108,Marans,2,350,2810,Brown,44.02,121,1,Single,7,Continental,White,White,NULL,Blue
+Marans108,Marans,3,350,2810,Brown,44.02,121,1,Single,7,Continental,White,White,NULL,Blue
+Marans108,Marans,4,350,2810,Brown,44.02,121,1,Single,7,Continental,White,White,NULL,Blue
+Marans108,Marans,5,350,2810,Brown,44.02,121,1,Single,7,Continental,White,White,NULL,Blue
+Marans109,Marans,1,717,2650,Brown,35.25,128,1,Single,8,Continental,White,White,NULL,Splash Copper
+Marans109,Marans,2,717,2650,Brown,35.25,128,1,Single,8,Continental,White,White,NULL,Splash Copper
+Marans109,Marans,3,717,2650,Brown,35.25,128,1,Single,8,Continental,White,White,NULL,Splash Copper
+Marans109,Marans,4,717,2650,Brown,35.25,128,1,Single,8,Continental,White,White,NULL,Splash Copper
+Marans109,Marans,5,717,2650,Brown,35.25,128,1,Single,8,Continental,White,White,NULL,Splash Copper
+Marans110,Marans,1,24,1880,Brown,33.49,112,1,Single,8,Continental,White,White,NULL,Splash Copper
+Marans110,Marans,2,24,1880,Brown,33.49,112,1,Single,8,Continental,White,White,NULL,Splash Copper
+Marans110,Marans,3,24,1880,Brown,33.49,112,1,Single,8,Continental,White,White,NULL,Splash Copper
+Marans110,Marans,4,24,1880,Brown,33.49,112,1,Single,8,Continental,White,White,NULL,Splash Copper
+Marans110,Marans,5,24,1880,Brown,33.49,112,1,Single,8,Continental,White,White,NULL,Splash Copper
+Marans111,Marans,1,559,2900,Brown,50.94,107,1,Single,9,Continental,White,White,NULL,Splash
+Marans111,Marans,2,559,2900,Brown,50.94,107,1,Single,9,Continental,White,White,NULL,Splash
+Marans111,Marans,3,559,2900,Brown,50.94,107,1,Single,9,Continental,White,White,NULL,Splash
+Marans111,Marans,4,559,2900,Brown,50.94,107,1,Single,9,Continental,White,White,NULL,Splash
+Marans111,Marans,5,559,2900,Brown,50.94,107,1,Single,9,Continental,White,White,NULL,Splash
+Marans112,Marans,1,961,1780,Brown,34.32,127,0,Single,7,Continental,White,White,NULL,Splash Copper
+Marans112,Marans,2,961,1780,Brown,34.32,127,0,Single,7,Continental,White,White,NULL,Splash Copper
+Marans112,Marans,3,961,1780,Brown,34.32,127,0,Single,7,Continental,White,White,NULL,Splash Copper
+Marans112,Marans,4,961,1780,Brown,34.32,127,0,Single,7,Continental,White,White,NULL,Splash Copper
+Marans112,Marans,5,961,1780,Brown,34.32,127,0,Single,7,Continental,White,White,NULL,Splash Copper
+Marans113,Marans,1,95,2630,Brown,33.47,105,1,Single,8,Continental,White,White,NULL,Blue
+Marans113,Marans,2,95,2630,Brown,33.47,105,1,Single,8,Continental,White,White,NULL,Blue
+Marans113,Marans,3,95,2630,Brown,33.47,105,1,Single,8,Continental,White,White,NULL,Blue
+Marans113,Marans,4,95,2630,Brown,33.47,105,1,Single,8,Continental,White,White,NULL,Blue
+Marans113,Marans,5,95,2630,Brown,33.47,105,1,Single,8,Continental,White,White,NULL,Blue
+Marans114,Marans,1,206,2360,Brown,34.53,111,1,Single,8,Continental,White,White,NULL,Blue
+Marans114,Marans,2,206,2360,Brown,34.53,111,1,Single,8,Continental,White,White,NULL,Blue
+Marans114,Marans,3,206,2360,Brown,34.53,111,1,Single,8,Continental,White,White,NULL,Blue
+Marans114,Marans,4,206,2360,Brown,34.53,111,1,Single,8,Continental,White,White,NULL,Blue
+Marans114,Marans,5,206,2360,Brown,34.53,111,1,Single,8,Continental,White,White,NULL,Blue
+Marans115,Marans,1,76,1600,Brown,41.81,110,1,Single,7,Continental,White,White,NULL,Blue
+Marans115,Marans,2,76,1600,Brown,41.81,110,1,Single,7,Continental,White,White,NULL,Blue
+Marans115,Marans,3,76,1600,Brown,41.81,110,1,Single,7,Continental,White,White,NULL,Blue
+Marans115,Marans,4,76,1600,Brown,41.81,110,1,Single,7,Continental,White,White,NULL,Blue
+Marans115,Marans,5,76,1600,Brown,41.81,110,1,Single,7,Continental,White,White,NULL,Blue
+Marans116,Marans,1,418,2100,Brown,35.14,127,1,Single,7,Continental,White,White,NULL,Blue
+Marans116,Marans,2,418,2100,Brown,35.14,127,1,Single,7,Continental,White,White,NULL,Blue
+Marans116,Marans,3,418,2100,Brown,35.14,127,1,Single,7,Continental,White,White,NULL,Blue
+Marans116,Marans,4,418,2100,Brown,35.14,127,1,Single,7,Continental,White,White,NULL,Blue
+Marans116,Marans,5,418,2100,Brown,35.14,127,1,Single,7,Continental,White,White,NULL,Blue
+Marans117,Marans,1,461,2940,Brown,39.34,122,1,Single,9,Continental,White,White,NULL,Splash Copper
+Marans117,Marans,2,461,2940,Brown,39.34,122,1,Single,9,Continental,White,White,NULL,Splash Copper
+Marans117,Marans,3,461,2940,Brown,39.34,122,1,Single,9,Continental,White,White,NULL,Splash Copper
+Marans117,Marans,4,461,2940,Brown,39.34,122,1,Single,9,Continental,White,White,NULL,Splash Copper
+Marans117,Marans,5,461,2940,Brown,39.34,122,1,Single,9,Continental,White,White,NULL,Splash Copper
+Marans118,Marans,1,186,1780,Brown,33.87,123,1,Single,7,Continental,White,White,NULL,Blue
+Marans118,Marans,2,186,1780,Brown,33.87,123,1,Single,7,Continental,White,White,NULL,Blue
+Marans118,Marans,3,186,1780,Brown,33.87,123,1,Single,7,Continental,White,White,NULL,Blue
+Marans118,Marans,4,186,1780,Brown,33.87,123,1,Single,7,Continental,White,White,NULL,Blue
+Marans118,Marans,5,186,1780,Brown,33.87,123,1,Single,7,Continental,White,White,NULL,Blue
+Marans119,Marans,1,383,2390,Brown,50.31,122,1,Single,10,Continental,White,White,NULL,Blue
+Marans119,Marans,2,383,2390,Brown,50.31,122,1,Single,10,Continental,White,White,NULL,Blue
+Marans119,Marans,3,383,2390,Brown,50.31,122,1,Single,10,Continental,White,White,NULL,Blue
+Marans119,Marans,4,383,2390,Brown,50.31,122,1,Single,10,Continental,White,White,NULL,Blue
+Marans119,Marans,5,383,2390,Brown,50.31,122,1,Single,10,Continental,White,White,NULL,Blue
+Marans120,Marans,1,200,1710,Brown,30.46,105,1,Single,9,Continental,White,White,NULL,Blue Copper
+Marans120,Marans,2,200,1710,Brown,30.46,105,1,Single,9,Continental,White,White,NULL,Blue Copper
+Marans120,Marans,3,200,1710,Brown,30.46,105,1,Single,9,Continental,White,White,NULL,Blue Copper
+Marans120,Marans,4,200,1710,Brown,30.46,105,1,Single,9,Continental,White,White,NULL,Blue Copper
+Marans120,Marans,5,200,1710,Brown,30.46,105,1,Single,9,Continental,White,White,NULL,Blue Copper
+Marans121,Marans,1,146,1650,Brown,33.33,112,1,Single,10,Continental,White,White,NULL,Splash
+Marans121,Marans,2,146,1650,Brown,33.33,112,1,Single,10,Continental,White,White,NULL,Splash
+Marans121,Marans,3,146,1650,Brown,33.33,112,1,Single,10,Continental,White,White,NULL,Splash
+Marans121,Marans,4,146,1650,Brown,33.33,112,1,Single,10,Continental,White,White,NULL,Splash
+Marans121,Marans,5,146,1650,Brown,33.33,112,1,Single,10,Continental,White,White,NULL,Splash
+Marans122,Marans,1,262,2060,Brown,48.09,112,1,Single,10,Continental,White,White,NULL,Splash
+Marans122,Marans,2,262,2060,Brown,48.09,112,1,Single,10,Continental,White,White,NULL,Splash
+Marans122,Marans,3,262,2060,Brown,48.09,112,1,Single,10,Continental,White,White,NULL,Splash
+Marans122,Marans,4,262,2060,Brown,48.09,112,1,Single,10,Continental,White,White,NULL,Splash
+Marans122,Marans,5,262,2060,Brown,48.09,112,1,Single,10,Continental,White,White,NULL,Splash
+Marans123,Marans,1,35,2170,Brown,53.58,107,1,Single,7,Continental,White,White,NULL,Splash Copper
+Marans123,Marans,2,35,2170,Brown,53.58,107,1,Single,7,Continental,White,White,NULL,Splash Copper
+Marans123,Marans,3,35,2170,Brown,53.58,107,1,Single,7,Continental,White,White,NULL,Splash Copper
+Marans123,Marans,4,35,2170,Brown,53.58,107,1,Single,7,Continental,White,White,NULL,Splash Copper
+Marans123,Marans,5,35,2170,Brown,53.58,107,1,Single,7,Continental,White,White,NULL,Splash Copper
+Marans124,Marans,1,147,2730,Brown,37.64,129,1,Single,8,Continental,White,White,NULL,Splash
+Marans124,Marans,2,147,2730,Brown,37.64,129,1,Single,8,Continental,White,White,NULL,Splash
+Marans124,Marans,3,147,2730,Brown,37.64,129,1,Single,8,Continental,White,White,NULL,Splash
+Marans124,Marans,4,147,2730,Brown,37.64,129,1,Single,8,Continental,White,White,NULL,Splash
+Marans124,Marans,5,147,2730,Brown,37.64,129,1,Single,8,Continental,White,White,NULL,Splash
+Marans125,Marans,1,639,1590,Brown,40.49,105,1,Single,7,Continental,White,White,NULL,Splash
+Marans125,Marans,2,639,1590,Brown,40.49,105,1,Single,7,Continental,White,White,NULL,Splash
+Marans125,Marans,3,639,1590,Brown,40.49,105,1,Single,7,Continental,White,White,NULL,Splash
+Marans125,Marans,4,639,1590,Brown,40.49,105,1,Single,7,Continental,White,White,NULL,Splash
+Marans125,Marans,5,639,1590,Brown,40.49,105,1,Single,7,Continental,White,White,NULL,Splash
+Marans126,Marans,1,266,1700,Brown,53.94,129,1,Single,7,Continental,White,White,NULL,Splash Copper
+Marans126,Marans,2,266,1700,Brown,53.94,129,1,Single,7,Continental,White,White,NULL,Splash Copper
+Marans126,Marans,3,266,1700,Brown,53.94,129,1,Single,7,Continental,White,White,NULL,Splash Copper
+Marans126,Marans,4,266,1700,Brown,53.94,129,1,Single,7,Continental,White,White,NULL,Splash Copper
+Marans126,Marans,5,266,1700,Brown,53.94,129,1,Single,7,Continental,White,White,NULL,Splash Copper
+Marans127,Marans,1,160,2970,Brown,30.8,108,1,Single,9,Continental,White,White,NULL,Splash Copper
+Marans127,Marans,2,160,2970,Brown,30.8,108,1,Single,9,Continental,White,White,NULL,Splash Copper
+Marans127,Marans,3,160,2970,Brown,30.8,108,1,Single,9,Continental,White,White,NULL,Splash Copper
+Marans127,Marans,4,160,2970,Brown,30.8,108,1,Single,9,Continental,White,White,NULL,Splash Copper
+Marans127,Marans,5,160,2970,Brown,30.8,108,1,Single,9,Continental,White,White,NULL,Splash Copper
+Marans128,Marans,1,707,1920,Brown,52.32,128,1,Single,9,Continental,White,White,NULL,Splash Copper
+Marans128,Marans,2,707,1920,Brown,52.32,128,1,Single,9,Continental,White,White,NULL,Splash Copper
+Marans128,Marans,3,707,1920,Brown,52.32,128,1,Single,9,Continental,White,White,NULL,Splash Copper
+Marans128,Marans,4,707,1920,Brown,52.32,128,1,Single,9,Continental,White,White,NULL,Splash Copper
+Marans128,Marans,5,707,1920,Brown,52.32,128,1,Single,9,Continental,White,White,NULL,Splash Copper
+Marans129,Marans,1,475,2490,Brown,53.9,116,1,Single,9,Continental,White,White,NULL,Blue
+Marans129,Marans,2,475,2490,Brown,53.9,116,1,Single,9,Continental,White,White,NULL,Blue
+Marans129,Marans,3,475,2490,Brown,53.9,116,1,Single,9,Continental,White,White,NULL,Blue
+Marans129,Marans,4,475,2490,Brown,53.9,116,1,Single,9,Continental,White,White,NULL,Blue
+Marans129,Marans,5,475,2490,Brown,53.9,116,1,Single,9,Continental,White,White,NULL,Blue
+Marans130,Marans,1,567,2030,Brown,45.05,124,1,Single,7,Continental,White,White,NULL,Blue
+Marans130,Marans,2,567,2030,Brown,45.05,124,1,Single,7,Continental,White,White,NULL,Blue
+Marans130,Marans,3,567,2030,Brown,45.05,124,1,Single,7,Continental,White,White,NULL,Blue
+Marans130,Marans,4,567,2030,Brown,45.05,124,1,Single,7,Continental,White,White,NULL,Blue
+Marans130,Marans,5,567,2030,Brown,45.05,124,1,Single,7,Continental,White,White,NULL,Blue
+Marans131,Marans,1,661,2940,Brown,52.02,125,1,Single,7,Continental,White,White,NULL,Splash
+Marans131,Marans,2,661,2940,Brown,52.02,125,1,Single,7,Continental,White,White,NULL,Splash
+Marans131,Marans,3,661,2940,Brown,52.02,125,1,Single,7,Continental,White,White,NULL,Splash
+Marans131,Marans,4,661,2940,Brown,52.02,125,1,Single,7,Continental,White,White,NULL,Splash
+Marans131,Marans,5,661,2940,Brown,52.02,125,1,Single,7,Continental,White,White,NULL,Splash
+Marans132,Marans,1,288,2990,Brown,54.23,125,1,Single,10,Continental,White,White,NULL,Splash
+Marans132,Marans,2,288,2990,Brown,54.23,125,1,Single,10,Continental,White,White,NULL,Splash
+Marans132,Marans,3,288,2990,Brown,54.23,125,1,Single,10,Continental,White,White,NULL,Splash
+Marans132,Marans,4,288,2990,Brown,54.23,125,1,Single,10,Continental,White,White,NULL,Splash
+Marans132,Marans,5,288,2990,Brown,54.23,125,1,Single,10,Continental,White,White,NULL,Splash
+Marans133,Marans,1,753,2810,Brown,33.72,112,1,Single,8,Continental,White,White,NULL,Splash
+Marans133,Marans,2,753,2810,Brown,33.72,112,1,Single,8,Continental,White,White,NULL,Splash
+Marans133,Marans,3,753,2810,Brown,33.72,112,1,Single,8,Continental,White,White,NULL,Splash
+Marans133,Marans,4,753,2810,Brown,33.72,112,1,Single,8,Continental,White,White,NULL,Splash
+Marans133,Marans,5,753,2810,Brown,33.72,112,1,Single,8,Continental,White,White,NULL,Splash
+Marans134,Marans,1,853,2840,Brown,45.95,127,1,Single,8,Continental,White,White,NULL,Blue
+Marans134,Marans,2,853,2840,Brown,45.95,127,1,Single,8,Continental,White,White,NULL,Blue
+Marans134,Marans,3,853,2840,Brown,45.95,127,1,Single,8,Continental,White,White,NULL,Blue
+Marans134,Marans,4,853,2840,Brown,45.95,127,1,Single,8,Continental,White,White,NULL,Blue
+Marans134,Marans,5,853,2840,Brown,45.95,127,1,Single,8,Continental,White,White,NULL,Blue
+Marans135,Marans,1,71,1870,Brown,36.41,105,1,Single,7,Continental,White,White,NULL,Blue
+Marans135,Marans,2,71,1870,Brown,36.41,105,1,Single,7,Continental,White,White,NULL,Blue
+Marans135,Marans,3,71,1870,Brown,36.41,105,1,Single,7,Continental,White,White,NULL,Blue
+Marans135,Marans,4,71,1870,Brown,36.41,105,1,Single,7,Continental,White,White,NULL,Blue
+Marans135,Marans,5,71,1870,Brown,36.41,105,1,Single,7,Continental,White,White,NULL,Blue
+Marans136,Marans,1,863,1970,Brown,48.22,106,1,Single,8,Continental,White,White,NULL,Blue Copper
+Marans136,Marans,2,863,1970,Brown,48.22,106,1,Single,8,Continental,White,White,NULL,Blue Copper
+Marans136,Marans,3,863,1970,Brown,48.22,106,1,Single,8,Continental,White,White,NULL,Blue Copper
+Marans136,Marans,4,863,1970,Brown,48.22,106,1,Single,8,Continental,White,White,NULL,Blue Copper
+Marans136,Marans,5,863,1970,Brown,48.22,106,1,Single,8,Continental,White,White,NULL,Blue Copper
+Marans137,Marans,1,521,1930,Brown,31.14,106,1,Single,8,Continental,White,White,NULL,Blue Copper
+Marans137,Marans,2,521,1930,Brown,31.14,106,1,Single,8,Continental,White,White,NULL,Blue Copper
+Marans137,Marans,3,521,1930,Brown,31.14,106,1,Single,8,Continental,White,White,NULL,Blue Copper
+Marans137,Marans,4,521,1930,Brown,31.14,106,1,Single,8,Continental,White,White,NULL,Blue Copper
+Marans137,Marans,5,521,1930,Brown,31.14,106,1,Single,8,Continental,White,White,NULL,Blue Copper
+Marans138,Marans,1,61,2540,Brown,36.49,112,1,Single,7,Continental,White,White,NULL,Blue
+Marans138,Marans,2,61,2540,Brown,36.49,112,1,Single,7,Continental,White,White,NULL,Blue
+Marans138,Marans,3,61,2540,Brown,36.49,112,1,Single,7,Continental,White,White,NULL,Blue
+Marans138,Marans,4,61,2540,Brown,36.49,112,1,Single,7,Continental,White,White,NULL,Blue
+Marans138,Marans,5,61,2540,Brown,36.49,112,1,Single,7,Continental,White,White,NULL,Blue
+Marans139,Marans,1,117,1650,Brown,32.33,119,1,Single,8,Continental,White,White,NULL,Blue
+Marans139,Marans,2,117,1650,Brown,32.33,119,1,Single,8,Continental,White,White,NULL,Blue
+Marans139,Marans,3,117,1650,Brown,32.33,119,1,Single,8,Continental,White,White,NULL,Blue
+Marans139,Marans,4,117,1650,Brown,32.33,119,1,Single,8,Continental,White,White,NULL,Blue
+Marans139,Marans,5,117,1650,Brown,32.33,119,1,Single,8,Continental,White,White,NULL,Blue
+Marans140,Marans,1,907,1700,Brown,36.28,115,1,Single,8,Continental,White,White,NULL,Blue Copper
+Marans140,Marans,2,907,1700,Brown,36.28,115,1,Single,8,Continental,White,White,NULL,Blue Copper
+Marans140,Marans,3,907,1700,Brown,36.28,115,1,Single,8,Continental,White,White,NULL,Blue Copper
+Marans140,Marans,4,907,1700,Brown,36.28,115,1,Single,8,Continental,White,White,NULL,Blue Copper
+Marans140,Marans,5,907,1700,Brown,36.28,115,1,Single,8,Continental,White,White,NULL,Blue Copper
+Marans141,Marans,1,964,1680,Brown,37.15,128,0,Single,7,Continental,White,White,NULL,Splash
+Marans141,Marans,2,964,1680,Brown,37.15,128,0,Single,7,Continental,White,White,NULL,Splash
+Marans141,Marans,3,964,1680,Brown,37.15,128,0,Single,7,Continental,White,White,NULL,Splash
+Marans141,Marans,4,964,1680,Brown,37.15,128,0,Single,7,Continental,White,White,NULL,Splash
+Marans141,Marans,5,964,1680,Brown,37.15,128,0,Single,7,Continental,White,White,NULL,Splash
+Marans142,Marans,1,769,2160,Brown,36.78,120,1,Single,9,Continental,White,White,NULL,Splash Copper
+Marans142,Marans,2,769,2160,Brown,36.78,120,1,Single,9,Continental,White,White,NULL,Splash Copper
+Marans142,Marans,3,769,2160,Brown,36.78,120,1,Single,9,Continental,White,White,NULL,Splash Copper
+Marans142,Marans,4,769,2160,Brown,36.78,120,1,Single,9,Continental,White,White,NULL,Splash Copper
+Marans142,Marans,5,769,2160,Brown,36.78,120,1,Single,9,Continental,White,White,NULL,Splash Copper
+Marans143,Marans,1,361,1930,Brown,49.42,123,1,Single,10,Continental,White,White,NULL,Blue Copper
+Marans143,Marans,2,361,1930,Brown,49.42,123,1,Single,10,Continental,White,White,NULL,Blue Copper
+Marans143,Marans,3,361,1930,Brown,49.42,123,1,Single,10,Continental,White,White,NULL,Blue Copper
+Marans143,Marans,4,361,1930,Brown,49.42,123,1,Single,10,Continental,White,White,NULL,Blue Copper
+Marans143,Marans,5,361,1930,Brown,49.42,123,1,Single,10,Continental,White,White,NULL,Blue Copper
+Marans144,Marans,1,421,1750,Brown,49.74,109,1,Single,7,Continental,White,White,NULL,Splash
+Marans144,Marans,2,421,1750,Brown,49.74,109,1,Single,7,Continental,White,White,NULL,Splash
+Marans144,Marans,3,421,1750,Brown,49.74,109,1,Single,7,Continental,White,White,NULL,Splash
+Marans144,Marans,4,421,1750,Brown,49.74,109,1,Single,7,Continental,White,White,NULL,Splash
+Marans144,Marans,5,421,1750,Brown,49.74,109,1,Single,7,Continental,White,White,NULL,Splash
+Marans145,Marans,1,845,2880,Brown,46.91,109,1,Single,8,Continental,White,White,NULL,Splash Copper
+Marans145,Marans,2,845,2880,Brown,46.91,109,1,Single,8,Continental,White,White,NULL,Splash Copper
+Marans145,Marans,3,845,2880,Brown,46.91,109,1,Single,8,Continental,White,White,NULL,Splash Copper
+Marans145,Marans,4,845,2880,Brown,46.91,109,1,Single,8,Continental,White,White,NULL,Splash Copper
+Marans145,Marans,5,845,2880,Brown,46.91,109,1,Single,8,Continental,White,White,NULL,Splash Copper
+Marans146,Marans,1,814,1520,Brown,48.93,113,1,Single,7,Continental,White,White,NULL,Splash Copper
+Marans146,Marans,2,814,1520,Brown,48.93,113,1,Single,7,Continental,White,White,NULL,Splash Copper
+Marans146,Marans,3,814,1520,Brown,48.93,113,1,Single,7,Continental,White,White,NULL,Splash Copper
+Marans146,Marans,4,814,1520,Brown,48.93,113,1,Single,7,Continental,White,White,NULL,Splash Copper
+Marans146,Marans,5,814,1520,Brown,48.93,113,1,Single,7,Continental,White,White,NULL,Splash Copper
+Marans147,Marans,1,702,2930,Brown,35.25,128,1,Single,9,Continental,White,White,NULL,Blue Copper
+Marans147,Marans,2,702,2930,Brown,35.25,128,1,Single,9,Continental,White,White,NULL,Blue Copper
+Marans147,Marans,3,702,2930,Brown,35.25,128,1,Single,9,Continental,White,White,NULL,Blue Copper
+Marans147,Marans,4,702,2930,Brown,35.25,128,1,Single,9,Continental,White,White,NULL,Blue Copper
+Marans147,Marans,5,702,2930,Brown,35.25,128,1,Single,9,Continental,White,White,NULL,Blue Copper
+Marans148,Marans,1,882,2220,Brown,30.86,129,1,Single,8,Continental,White,White,NULL,Blue Copper
+Marans148,Marans,2,882,2220,Brown,30.86,129,1,Single,8,Continental,White,White,NULL,Blue Copper
+Marans148,Marans,3,882,2220,Brown,30.86,129,1,Single,8,Continental,White,White,NULL,Blue Copper
+Marans148,Marans,4,882,2220,Brown,30.86,129,1,Single,8,Continental,White,White,NULL,Blue Copper
+Marans148,Marans,5,882,2220,Brown,30.86,129,1,Single,8,Continental,White,White,NULL,Blue Copper
+Marans149,Marans,1,92,2010,Brown,33.14,114,1,Single,8,Continental,White,White,NULL,Splash Copper
+Marans149,Marans,2,92,2010,Brown,33.14,114,1,Single,8,Continental,White,White,NULL,Splash Copper
+Marans149,Marans,3,92,2010,Brown,33.14,114,1,Single,8,Continental,White,White,NULL,Splash Copper
+Marans149,Marans,4,92,2010,Brown,33.14,114,1,Single,8,Continental,White,White,NULL,Splash Copper
+Marans149,Marans,5,92,2010,Brown,33.14,114,1,Single,8,Continental,White,White,NULL,Splash Copper
+Marans150,Marans,1,976,1510,Brown,46.58,111,0,Single,8,Continental,White,White,NULL,Splash
+Marans150,Marans,2,976,1510,Brown,46.58,111,0,Single,8,Continental,White,White,NULL,Splash
+Marans150,Marans,3,976,1510,Brown,46.58,111,0,Single,8,Continental,White,White,NULL,Splash
+Marans150,Marans,4,976,1510,Brown,46.58,111,0,Single,8,Continental,White,White,NULL,Splash
+Marans150,Marans,5,976,1510,Brown,46.58,111,0,Single,8,Continental,White,White,NULL,Splash
+Marans151,Marans,1,529,2960,Brown,43.86,117,1,Single,9,Continental,White,White,NULL,Splash
+Marans151,Marans,2,529,2960,Brown,43.86,117,1,Single,9,Continental,White,White,NULL,Splash
+Marans151,Marans,3,529,2960,Brown,43.86,117,1,Single,9,Continental,White,White,NULL,Splash
+Marans151,Marans,4,529,2960,Brown,43.86,117,1,Single,9,Continental,White,White,NULL,Splash
+Marans151,Marans,5,529,2960,Brown,43.86,117,1,Single,9,Continental,White,White,NULL,Splash
+Marans152,Marans,1,800,2290,Brown,35.44,120,1,Single,8,Continental,White,White,NULL,Splash
+Marans152,Marans,2,800,2290,Brown,35.44,120,1,Single,8,Continental,White,White,NULL,Splash
+Marans152,Marans,3,800,2290,Brown,35.44,120,1,Single,8,Continental,White,White,NULL,Splash
+Marans152,Marans,4,800,2290,Brown,35.44,120,1,Single,8,Continental,White,White,NULL,Splash
+Marans152,Marans,5,800,2290,Brown,35.44,120,1,Single,8,Continental,White,White,NULL,Splash
+Marans153,Marans,1,250,2980,Brown,44.2,110,1,Single,7,Continental,White,White,NULL,Splash Copper
+Marans153,Marans,2,250,2980,Brown,44.2,110,1,Single,7,Continental,White,White,NULL,Splash Copper
+Marans153,Marans,3,250,2980,Brown,44.2,110,1,Single,7,Continental,White,White,NULL,Splash Copper
+Marans153,Marans,4,250,2980,Brown,44.2,110,1,Single,7,Continental,White,White,NULL,Splash Copper
+Marans153,Marans,5,250,2980,Brown,44.2,110,1,Single,7,Continental,White,White,NULL,Splash Copper
+Marans154,Marans,1,659,2980,Brown,32.06,112,1,Single,9,Continental,White,White,NULL,Blue
+Marans154,Marans,2,659,2980,Brown,32.06,112,1,Single,9,Continental,White,White,NULL,Blue
+Marans154,Marans,3,659,2980,Brown,32.06,112,1,Single,9,Continental,White,White,NULL,Blue
+Marans154,Marans,4,659,2980,Brown,32.06,112,1,Single,9,Continental,White,White,NULL,Blue
+Marans154,Marans,5,659,2980,Brown,32.06,112,1,Single,9,Continental,White,White,NULL,Blue
+Marans155,Marans,1,867,2790,Brown,30.08,108,1,Single,7,Continental,White,White,NULL,Blue
+Marans155,Marans,2,867,2790,Brown,30.08,108,1,Single,7,Continental,White,White,NULL,Blue
+Marans155,Marans,3,867,2790,Brown,30.08,108,1,Single,7,Continental,White,White,NULL,Blue
+Marans155,Marans,4,867,2790,Brown,30.08,108,1,Single,7,Continental,White,White,NULL,Blue
+Marans155,Marans,5,867,2790,Brown,30.08,108,1,Single,7,Continental,White,White,NULL,Blue
+Marans156,Marans,1,687,2890,Brown,45.01,122,1,Single,10,Continental,White,White,NULL,Blue Copper
+Marans156,Marans,2,687,2890,Brown,45.01,122,1,Single,10,Continental,White,White,NULL,Blue Copper
+Marans156,Marans,3,687,2890,Brown,45.01,122,1,Single,10,Continental,White,White,NULL,Blue Copper
+Marans156,Marans,4,687,2890,Brown,45.01,122,1,Single,10,Continental,White,White,NULL,Blue Copper
+Marans156,Marans,5,687,2890,Brown,45.01,122,1,Single,10,Continental,White,White,NULL,Blue Copper
+Marans157,Marans,1,488,1880,Brown,46.43,128,1,Single,7,Continental,White,White,NULL,Splash Copper
+Marans157,Marans,2,488,1880,Brown,46.43,128,1,Single,7,Continental,White,White,NULL,Splash Copper
+Marans157,Marans,3,488,1880,Brown,46.43,128,1,Single,7,Continental,White,White,NULL,Splash Copper
+Marans157,Marans,4,488,1880,Brown,46.43,128,1,Single,7,Continental,White,White,NULL,Splash Copper
+Marans157,Marans,5,488,1880,Brown,46.43,128,1,Single,7,Continental,White,White,NULL,Splash Copper
+Marans158,Marans,1,547,2650,Brown,53.24,113,1,Single,10,Continental,White,White,NULL,Blue Copper
+Marans158,Marans,2,547,2650,Brown,53.24,113,1,Single,10,Continental,White,White,NULL,Blue Copper
+Marans158,Marans,3,547,2650,Brown,53.24,113,1,Single,10,Continental,White,White,NULL,Blue Copper
+Marans158,Marans,4,547,2650,Brown,53.24,113,1,Single,10,Continental,White,White,NULL,Blue Copper
+Marans158,Marans,5,547,2650,Brown,53.24,113,1,Single,10,Continental,White,White,NULL,Blue Copper
+Marans159,Marans,1,576,2820,Brown,51.83,107,1,Single,10,Continental,White,White,NULL,Blue Copper
+Marans159,Marans,2,576,2820,Brown,51.83,107,1,Single,10,Continental,White,White,NULL,Blue Copper
+Marans159,Marans,3,576,2820,Brown,51.83,107,1,Single,10,Continental,White,White,NULL,Blue Copper
+Marans159,Marans,4,576,2820,Brown,51.83,107,1,Single,10,Continental,White,White,NULL,Blue Copper
+Marans159,Marans,5,576,2820,Brown,51.83,107,1,Single,10,Continental,White,White,NULL,Blue Copper
+Marans160,Marans,1,799,2960,Brown,50,124,1,Single,7,Continental,White,White,NULL,Splash
+Marans160,Marans,2,799,2960,Brown,50,124,1,Single,7,Continental,White,White,NULL,Splash
+Marans160,Marans,3,799,2960,Brown,50,124,1,Single,7,Continental,White,White,NULL,Splash
+Marans160,Marans,4,799,2960,Brown,50,124,1,Single,7,Continental,White,White,NULL,Splash
+Marans160,Marans,5,799,2960,Brown,50,124,1,Single,7,Continental,White,White,NULL,Splash
+Marans161,Marans,1,161,1840,Brown,50.72,117,1,Single,7,Continental,White,White,NULL,Blue Copper
+Marans161,Marans,2,161,1840,Brown,50.72,117,1,Single,7,Continental,White,White,NULL,Blue Copper
+Marans161,Marans,3,161,1840,Brown,50.72,117,1,Single,7,Continental,White,White,NULL,Blue Copper
+Marans161,Marans,4,161,1840,Brown,50.72,117,1,Single,7,Continental,White,White,NULL,Blue Copper
+Marans161,Marans,5,161,1840,Brown,50.72,117,1,Single,7,Continental,White,White,NULL,Blue Copper
+Marans162,Marans,1,854,2920,Brown,36.92,127,1,Single,10,Continental,White,White,NULL,Splash
+Marans162,Marans,2,854,2920,Brown,36.92,127,1,Single,10,Continental,White,White,NULL,Splash
+Marans162,Marans,3,854,2920,Brown,36.92,127,1,Single,10,Continental,White,White,NULL,Splash
+Marans162,Marans,4,854,2920,Brown,36.92,127,1,Single,10,Continental,White,White,NULL,Splash
+Marans162,Marans,5,854,2920,Brown,36.92,127,1,Single,10,Continental,White,White,NULL,Splash
+Marans163,Marans,1,135,2690,Brown,40.29,108,1,Single,10,Continental,White,White,NULL,Blue
+Marans163,Marans,2,135,2690,Brown,40.29,108,1,Single,10,Continental,White,White,NULL,Blue
+Marans163,Marans,3,135,2690,Brown,40.29,108,1,Single,10,Continental,White,White,NULL,Blue
+Marans163,Marans,4,135,2690,Brown,40.29,108,1,Single,10,Continental,White,White,NULL,Blue
+Marans163,Marans,5,135,2690,Brown,40.29,108,1,Single,10,Continental,White,White,NULL,Blue
+Marans164,Marans,1,893,2070,Brown,54.09,125,1,Single,8,Continental,White,White,NULL,Splash
+Marans164,Marans,2,893,2070,Brown,54.09,125,1,Single,8,Continental,White,White,NULL,Splash
+Marans164,Marans,3,893,2070,Brown,54.09,125,1,Single,8,Continental,White,White,NULL,Splash
+Marans164,Marans,4,893,2070,Brown,54.09,125,1,Single,8,Continental,White,White,NULL,Splash
+Marans164,Marans,5,893,2070,Brown,54.09,125,1,Single,8,Continental,White,White,NULL,Splash
+Marans165,Marans,1,700,2220,Brown,44.72,118,1,Single,7,Continental,White,White,NULL,Blue Copper
+Marans165,Marans,2,700,2220,Brown,44.72,118,1,Single,7,Continental,White,White,NULL,Blue Copper
+Marans165,Marans,3,700,2220,Brown,44.72,118,1,Single,7,Continental,White,White,NULL,Blue Copper
+Marans165,Marans,4,700,2220,Brown,44.72,118,1,Single,7,Continental,White,White,NULL,Blue Copper
+Marans165,Marans,5,700,2220,Brown,44.72,118,1,Single,7,Continental,White,White,NULL,Blue Copper
+Marans166,Marans,1,143,2200,Brown,50.24,121,1,Single,8,Continental,White,White,NULL,Blue Copper
+Marans166,Marans,2,143,2200,Brown,50.24,121,1,Single,8,Continental,White,White,NULL,Blue Copper
+Marans166,Marans,3,143,2200,Brown,50.24,121,1,Single,8,Continental,White,White,NULL,Blue Copper
+Marans166,Marans,4,143,2200,Brown,50.24,121,1,Single,8,Continental,White,White,NULL,Blue Copper
+Marans166,Marans,5,143,2200,Brown,50.24,121,1,Single,8,Continental,White,White,NULL,Blue Copper
+Marans167,Marans,1,107,1530,Brown,43.06,105,1,Single,10,Continental,White,White,NULL,Blue Copper
+Marans167,Marans,2,107,1530,Brown,43.06,105,1,Single,10,Continental,White,White,NULL,Blue Copper
+Marans167,Marans,3,107,1530,Brown,43.06,105,1,Single,10,Continental,White,White,NULL,Blue Copper
+Marans167,Marans,4,107,1530,Brown,43.06,105,1,Single,10,Continental,White,White,NULL,Blue Copper
+Marans167,Marans,5,107,1530,Brown,43.06,105,1,Single,10,Continental,White,White,NULL,Blue Copper
+Marans168,Marans,1,266,2040,Brown,47.8,108,1,Single,9,Continental,White,White,NULL,Splash Copper
+Marans168,Marans,2,266,2040,Brown,47.8,108,1,Single,9,Continental,White,White,NULL,Splash Copper
+Marans168,Marans,3,266,2040,Brown,47.8,108,1,Single,9,Continental,White,White,NULL,Splash Copper
+Marans168,Marans,4,266,2040,Brown,47.8,108,1,Single,9,Continental,White,White,NULL,Splash Copper
+Marans168,Marans,5,266,2040,Brown,47.8,108,1,Single,9,Continental,White,White,NULL,Splash Copper
+Marans169,Marans,1,554,2970,Brown,43.69,114,1,Single,10,Continental,White,White,NULL,Blue Copper
+Marans169,Marans,2,554,2970,Brown,43.69,114,1,Single,10,Continental,White,White,NULL,Blue Copper
+Marans169,Marans,3,554,2970,Brown,43.69,114,1,Single,10,Continental,White,White,NULL,Blue Copper
+Marans169,Marans,4,554,2970,Brown,43.69,114,1,Single,10,Continental,White,White,NULL,Blue Copper
+Marans169,Marans,5,554,2970,Brown,43.69,114,1,Single,10,Continental,White,White,NULL,Blue Copper
+Marans170,Marans,1,467,2660,Brown,39.72,117,1,Single,10,Continental,White,White,NULL,Splash
+Marans170,Marans,2,467,2660,Brown,39.72,117,1,Single,10,Continental,White,White,NULL,Splash
+Marans170,Marans,3,467,2660,Brown,39.72,117,1,Single,10,Continental,White,White,NULL,Splash
+Marans170,Marans,4,467,2660,Brown,39.72,117,1,Single,10,Continental,White,White,NULL,Splash
+Marans170,Marans,5,467,2660,Brown,39.72,117,1,Single,10,Continental,White,White,NULL,Splash
+Marans171,Marans,1,705,1740,Brown,43.18,110,1,Single,8,Continental,White,White,NULL,Blue
+Marans171,Marans,2,705,1740,Brown,43.18,110,1,Single,8,Continental,White,White,NULL,Blue
+Marans171,Marans,3,705,1740,Brown,43.18,110,1,Single,8,Continental,White,White,NULL,Blue
+Marans171,Marans,4,705,1740,Brown,43.18,110,1,Single,8,Continental,White,White,NULL,Blue
+Marans171,Marans,5,705,1740,Brown,43.18,110,1,Single,8,Continental,White,White,NULL,Blue
+Marans172,Marans,1,987,2690,Brown,53.03,119,0,Single,7,Continental,White,White,NULL,Splash
+Marans172,Marans,2,987,2690,Brown,53.03,119,0,Single,7,Continental,White,White,NULL,Splash
+Marans172,Marans,3,987,2690,Brown,53.03,119,0,Single,7,Continental,White,White,NULL,Splash
+Marans172,Marans,4,987,2690,Brown,53.03,119,0,Single,7,Continental,White,White,NULL,Splash
+Marans172,Marans,5,987,2690,Brown,53.03,119,0,Single,7,Continental,White,White,NULL,Splash
+Marans173,Marans,1,556,1650,Brown,41.84,115,1,Single,8,Continental,White,White,NULL,Splash Copper
+Marans173,Marans,2,556,1650,Brown,41.84,115,1,Single,8,Continental,White,White,NULL,Splash Copper
+Marans173,Marans,3,556,1650,Brown,41.84,115,1,Single,8,Continental,White,White,NULL,Splash Copper
+Marans173,Marans,4,556,1650,Brown,41.84,115,1,Single,8,Continental,White,White,NULL,Splash Copper
+Marans173,Marans,5,556,1650,Brown,41.84,115,1,Single,8,Continental,White,White,NULL,Splash Copper
+Marans174,Marans,1,694,1760,Brown,51.94,106,1,Single,10,Continental,White,White,NULL,Blue Copper
+Marans174,Marans,2,694,1760,Brown,51.94,106,1,Single,10,Continental,White,White,NULL,Blue Copper
+Marans174,Marans,3,694,1760,Brown,51.94,106,1,Single,10,Continental,White,White,NULL,Blue Copper
+Marans174,Marans,4,694,1760,Brown,51.94,106,1,Single,10,Continental,White,White,NULL,Blue Copper
+Marans174,Marans,5,694,1760,Brown,51.94,106,1,Single,10,Continental,White,White,NULL,Blue Copper
+Marans175,Marans,1,589,2950,Brown,38.86,108,1,Single,8,Continental,White,White,NULL,Splash Copper
+Marans175,Marans,2,589,2950,Brown,38.86,108,1,Single,8,Continental,White,White,NULL,Splash Copper
+Marans175,Marans,3,589,2950,Brown,38.86,108,1,Single,8,Continental,White,White,NULL,Splash Copper
+Marans175,Marans,4,589,2950,Brown,38.86,108,1,Single,8,Continental,White,White,NULL,Splash Copper
+Marans175,Marans,5,589,2950,Brown,38.86,108,1,Single,8,Continental,White,White,NULL,Splash Copper
+Marans176,Marans,1,858,1530,Brown,54.98,128,1,Single,9,Continental,White,White,NULL,Splash
+Marans176,Marans,2,858,1530,Brown,54.98,128,1,Single,9,Continental,White,White,NULL,Splash
+Marans176,Marans,3,858,1530,Brown,54.98,128,1,Single,9,Continental,White,White,NULL,Splash
+Marans176,Marans,4,858,1530,Brown,54.98,128,1,Single,9,Continental,White,White,NULL,Splash
+Marans176,Marans,5,858,1530,Brown,54.98,128,1,Single,9,Continental,White,White,NULL,Splash
+Marans177,Marans,1,316,2320,Brown,31.91,117,1,Single,10,Continental,White,White,NULL,Splash
+Marans177,Marans,2,316,2320,Brown,31.91,117,1,Single,10,Continental,White,White,NULL,Splash
+Marans177,Marans,3,316,2320,Brown,31.91,117,1,Single,10,Continental,White,White,NULL,Splash
+Marans177,Marans,4,316,2320,Brown,31.91,117,1,Single,10,Continental,White,White,NULL,Splash
+Marans177,Marans,5,316,2320,Brown,31.91,117,1,Single,10,Continental,White,White,NULL,Splash
+Marans178,Marans,1,795,1950,Brown,36.56,116,1,Single,8,Continental,White,White,NULL,Splash
+Marans178,Marans,2,795,1950,Brown,36.56,116,1,Single,8,Continental,White,White,NULL,Splash
+Marans178,Marans,3,795,1950,Brown,36.56,116,1,Single,8,Continental,White,White,NULL,Splash
+Marans178,Marans,4,795,1950,Brown,36.56,116,1,Single,8,Continental,White,White,NULL,Splash
+Marans178,Marans,5,795,1950,Brown,36.56,116,1,Single,8,Continental,White,White,NULL,Splash
+Marans179,Marans,1,844,2710,Brown,34.86,117,1,Single,8,Continental,White,White,NULL,Splash
+Marans179,Marans,2,844,2710,Brown,34.86,117,1,Single,8,Continental,White,White,NULL,Splash
+Marans179,Marans,3,844,2710,Brown,34.86,117,1,Single,8,Continental,White,White,NULL,Splash
+Marans179,Marans,4,844,2710,Brown,34.86,117,1,Single,8,Continental,White,White,NULL,Splash
+Marans179,Marans,5,844,2710,Brown,34.86,117,1,Single,8,Continental,White,White,NULL,Splash
+Ameraucana1,Ameraucana,1,514,1740,Light Blue,47.12,114,1,Pea,6,NULL,NULL,White,White,Black
+Ameraucana1,Ameraucana,2,514,1740,Light Blue,47.12,114,1,Pea,6,NULL,NULL,White,White,Black
+Ameraucana1,Ameraucana,3,514,1740,Light Blue,47.12,114,1,Pea,6,NULL,NULL,White,White,Black
+Ameraucana1,Ameraucana,4,514,1740,Light Blue,47.12,114,1,Pea,6,NULL,NULL,White,White,Black
+Ameraucana1,Ameraucana,5,514,1740,Light Blue,47.12,114,1,Pea,6,NULL,NULL,White,White,Black
+Ameraucana1,Ameraucana,6,514,1740,Light Blue,47.12,114,1,Pea,6,NULL,NULL,White,White,Black
+Ameraucana1,Ameraucana,7,514,1740,Light Blue,47.12,114,1,Pea,6,NULL,NULL,White,White,Black
+Ameraucana1,Ameraucana,8,514,1740,Light Blue,47.12,114,1,Pea,6,NULL,NULL,White,White,Black
+Ameraucana1,Ameraucana,9,514,1740,Light Blue,47.12,114,1,Pea,6,NULL,NULL,White,White,Black
+Ameraucana1,Ameraucana,10,514,1740,Light Blue,47.12,114,1,Pea,6,NULL,NULL,White,White,Black
+Ameraucana2,Ameraucana,1,727,2140,Bluish-Green,44.82,117,1,Pea,11,NULL,Slate Black,White,Red,Blue Wheaten
+Ameraucana2,Ameraucana,2,727,2140,Bluish-Green,44.82,117,1,Pea,11,NULL,Slate Black,White,Red,Blue Wheaten
+Ameraucana2,Ameraucana,3,727,2140,Bluish-Green,44.82,117,1,Pea,11,NULL,Slate Black,White,Red,Blue Wheaten
+Ameraucana2,Ameraucana,4,727,2140,Bluish-Green,44.82,117,1,Pea,11,NULL,Slate Black,White,Red,Blue Wheaten
+Ameraucana2,Ameraucana,5,727,2140,Bluish-Green,44.82,117,1,Pea,11,NULL,Slate Black,White,Red,Blue Wheaten
+Ameraucana2,Ameraucana,6,727,2140,Bluish-Green,44.82,117,1,Pea,11,NULL,Slate Black,White,Red,Blue Wheaten
+Ameraucana2,Ameraucana,7,727,2140,Bluish-Green,44.82,117,1,Pea,11,NULL,Slate Black,White,Red,Blue Wheaten
+Ameraucana2,Ameraucana,8,727,2140,Bluish-Green,44.82,117,1,Pea,11,NULL,Slate Black,White,Red,Blue Wheaten
+Ameraucana2,Ameraucana,9,727,2140,Bluish-Green,44.82,117,1,Pea,11,NULL,Slate Black,White,Red,Blue Wheaten
+Ameraucana2,Ameraucana,10,727,2140,Bluish-Green,44.82,117,1,Pea,11,NULL,Slate Black,White,Red,Blue Wheaten
+Ameraucana3,Ameraucana,1,208,2080,Bluish-Green,49.51,113,1,Pea,11,NULL,Slate Blue,White,NULL,White
+Ameraucana3,Ameraucana,2,208,2080,Bluish-Green,49.51,113,1,Pea,11,NULL,Slate Blue,White,NULL,White
+Ameraucana3,Ameraucana,3,208,2080,Bluish-Green,49.51,113,1,Pea,11,NULL,Slate Blue,White,NULL,White
+Ameraucana3,Ameraucana,4,208,2080,Bluish-Green,49.51,113,1,Pea,11,NULL,Slate Blue,White,NULL,White
+Ameraucana3,Ameraucana,5,208,2080,Bluish-Green,49.51,113,1,Pea,11,NULL,Slate Blue,White,NULL,White
+Ameraucana3,Ameraucana,6,208,2080,Bluish-Green,49.51,113,1,Pea,11,NULL,Slate Blue,White,NULL,White
+Ameraucana3,Ameraucana,7,208,2080,Bluish-Green,49.51,113,1,Pea,11,NULL,Slate Blue,White,NULL,White
+Ameraucana3,Ameraucana,8,208,2080,Bluish-Green,49.51,113,1,Pea,11,NULL,Slate Blue,White,NULL,White
+Ameraucana3,Ameraucana,9,208,2080,Bluish-Green,49.51,113,1,Pea,11,NULL,Slate Blue,White,NULL,White
+Ameraucana3,Ameraucana,10,208,2080,Bluish-Green,49.51,113,1,Pea,11,NULL,Slate Blue,White,NULL,White
+Ameraucana4,Ameraucana,1,439,1960,Bluish-Green,51.37,109,1,Pea,5,NULL,Slate Black,NULL,White,Black
+Ameraucana4,Ameraucana,2,439,1960,Bluish-Green,51.37,109,1,Pea,5,NULL,Slate Black,NULL,White,Black
+Ameraucana4,Ameraucana,3,439,1960,Bluish-Green,51.37,109,1,Pea,5,NULL,Slate Black,NULL,White,Black
+Ameraucana4,Ameraucana,4,439,1960,Bluish-Green,51.37,109,1,Pea,5,NULL,Slate Black,NULL,White,Black
+Ameraucana4,Ameraucana,5,439,1960,Bluish-Green,51.37,109,1,Pea,5,NULL,Slate Black,NULL,White,Black
+Ameraucana4,Ameraucana,6,439,1960,Bluish-Green,51.37,109,1,Pea,5,NULL,Slate Black,NULL,White,Black
+Ameraucana4,Ameraucana,7,439,1960,Bluish-Green,51.37,109,1,Pea,5,NULL,Slate Black,NULL,White,Black
+Ameraucana4,Ameraucana,8,439,1960,Bluish-Green,51.37,109,1,Pea,5,NULL,Slate Black,NULL,White,Black
+Ameraucana4,Ameraucana,9,439,1960,Bluish-Green,51.37,109,1,Pea,5,NULL,Slate Black,NULL,White,Black
+Ameraucana4,Ameraucana,10,439,1960,Bluish-Green,51.37,109,1,Pea,5,NULL,Slate Black,NULL,White,Black
+Ameraucana5,Ameraucana,1,936,1880,Light Blue,51.36,100,1,Pea,11,NULL,NULL,NULL,NULL,Silver
+Ameraucana5,Ameraucana,2,936,1880,Light Blue,51.36,100,1,Pea,11,NULL,NULL,NULL,NULL,Silver
+Ameraucana5,Ameraucana,3,936,1880,Light Blue,51.36,100,1,Pea,11,NULL,NULL,NULL,NULL,Silver
+Ameraucana5,Ameraucana,4,936,1880,Light Blue,51.36,100,1,Pea,11,NULL,NULL,NULL,NULL,Silver
+Ameraucana5,Ameraucana,5,936,1880,Light Blue,51.36,100,1,Pea,11,NULL,NULL,NULL,NULL,Silver
+Ameraucana5,Ameraucana,6,936,1880,Light Blue,51.36,100,1,Pea,11,NULL,NULL,NULL,NULL,Silver
+Ameraucana5,Ameraucana,7,936,1880,Light Blue,51.36,100,1,Pea,11,NULL,NULL,NULL,NULL,Silver
+Ameraucana5,Ameraucana,8,936,1880,Light Blue,51.36,100,1,Pea,11,NULL,NULL,NULL,NULL,Silver
+Ameraucana5,Ameraucana,9,936,1880,Light Blue,51.36,100,1,Pea,11,NULL,NULL,NULL,NULL,Silver
+Ameraucana5,Ameraucana,10,936,1880,Light Blue,51.36,100,1,Pea,11,NULL,NULL,NULL,NULL,Silver
+Ameraucana6,Ameraucana,1,204,1780,Bluish-Green,58.51,105,1,Pea,7,NULL,Slate Black,NULL,Red,Buff
+Ameraucana6,Ameraucana,2,204,1780,Bluish-Green,58.51,105,1,Pea,7,NULL,Slate Black,NULL,Red,Buff
+Ameraucana6,Ameraucana,3,204,1780,Bluish-Green,58.51,105,1,Pea,7,NULL,Slate Black,NULL,Red,Buff
+Ameraucana6,Ameraucana,4,204,1780,Bluish-Green,58.51,105,1,Pea,7,NULL,Slate Black,NULL,Red,Buff
+Ameraucana6,Ameraucana,5,204,1780,Bluish-Green,58.51,105,1,Pea,7,NULL,Slate Black,NULL,Red,Buff
+Ameraucana6,Ameraucana,6,204,1780,Bluish-Green,58.51,105,1,Pea,7,NULL,Slate Black,NULL,Red,Buff
+Ameraucana6,Ameraucana,7,204,1780,Bluish-Green,58.51,105,1,Pea,7,NULL,Slate Black,NULL,Red,Buff
+Ameraucana6,Ameraucana,8,204,1780,Bluish-Green,58.51,105,1,Pea,7,NULL,Slate Black,NULL,Red,Buff
+Ameraucana6,Ameraucana,9,204,1780,Bluish-Green,58.51,105,1,Pea,7,NULL,Slate Black,NULL,Red,Buff
+Ameraucana6,Ameraucana,10,204,1780,Bluish-Green,58.51,105,1,Pea,7,NULL,Slate Black,NULL,Red,Buff
+Ameraucana7,Ameraucana,1,177,1720,Bluish-Green,42.94,116,1,Pea,6,NULL,Slate Blue,White,Red,Brown Red
+Ameraucana7,Ameraucana,2,177,1720,Bluish-Green,42.94,116,1,Pea,6,NULL,Slate Blue,White,Red,Brown Red
+Ameraucana7,Ameraucana,3,177,1720,Bluish-Green,42.94,116,1,Pea,6,NULL,Slate Blue,White,Red,Brown Red
+Ameraucana7,Ameraucana,4,177,1720,Bluish-Green,42.94,116,1,Pea,6,NULL,Slate Blue,White,Red,Brown Red
+Ameraucana7,Ameraucana,5,177,1720,Bluish-Green,42.94,116,1,Pea,6,NULL,Slate Blue,White,Red,Brown Red
+Ameraucana7,Ameraucana,6,177,1720,Bluish-Green,42.94,116,1,Pea,6,NULL,Slate Blue,White,Red,Brown Red
+Ameraucana7,Ameraucana,7,177,1720,Bluish-Green,42.94,116,1,Pea,6,NULL,Slate Blue,White,Red,Brown Red
+Ameraucana7,Ameraucana,8,177,1720,Bluish-Green,42.94,116,1,Pea,6,NULL,Slate Blue,White,Red,Brown Red
+Ameraucana7,Ameraucana,9,177,1720,Bluish-Green,42.94,116,1,Pea,6,NULL,Slate Blue,White,Red,Brown Red
+Ameraucana7,Ameraucana,10,177,1720,Bluish-Green,42.94,116,1,Pea,6,NULL,Slate Blue,White,Red,Brown Red
+Ameraucana8,Ameraucana,1,469,2370,Light Blue,50.08,117,1,Pea,6,NULL,NULL,White,White,Brown Red
+Ameraucana8,Ameraucana,2,469,2370,Light Blue,50.08,117,1,Pea,6,NULL,NULL,White,White,Brown Red
+Ameraucana8,Ameraucana,3,469,2370,Light Blue,50.08,117,1,Pea,6,NULL,NULL,White,White,Brown Red
+Ameraucana8,Ameraucana,4,469,2370,Light Blue,50.08,117,1,Pea,6,NULL,NULL,White,White,Brown Red
+Ameraucana8,Ameraucana,5,469,2370,Light Blue,50.08,117,1,Pea,6,NULL,NULL,White,White,Brown Red
+Ameraucana8,Ameraucana,6,469,2370,Light Blue,50.08,117,1,Pea,6,NULL,NULL,White,White,Brown Red
+Ameraucana8,Ameraucana,7,469,2370,Light Blue,50.08,117,1,Pea,6,NULL,NULL,White,White,Brown Red
+Ameraucana8,Ameraucana,8,469,2370,Light Blue,50.08,117,1,Pea,6,NULL,NULL,White,White,Brown Red
+Ameraucana8,Ameraucana,9,469,2370,Light Blue,50.08,117,1,Pea,6,NULL,NULL,White,White,Brown Red
+Ameraucana8,Ameraucana,10,469,2370,Light Blue,50.08,117,1,Pea,6,NULL,NULL,White,White,Brown Red
+Ameraucana9,Ameraucana,1,684,1820,Light Blue,58.93,112,1,Pea,6,NULL,Slate Blue,Brown,Red,Blue Wheaten
+Ameraucana9,Ameraucana,2,684,1820,Light Blue,58.93,112,1,Pea,6,NULL,Slate Blue,Brown,Red,Blue Wheaten
+Ameraucana9,Ameraucana,3,684,1820,Light Blue,58.93,112,1,Pea,6,NULL,Slate Blue,Brown,Red,Blue Wheaten
+Ameraucana9,Ameraucana,4,684,1820,Light Blue,58.93,112,1,Pea,6,NULL,Slate Blue,Brown,Red,Blue Wheaten
+Ameraucana9,Ameraucana,5,684,1820,Light Blue,58.93,112,1,Pea,6,NULL,Slate Blue,Brown,Red,Blue Wheaten
+Ameraucana9,Ameraucana,6,684,1820,Light Blue,58.93,112,1,Pea,6,NULL,Slate Blue,Brown,Red,Blue Wheaten
+Ameraucana9,Ameraucana,7,684,1820,Light Blue,58.93,112,1,Pea,6,NULL,Slate Blue,Brown,Red,Blue Wheaten
+Ameraucana9,Ameraucana,8,684,1820,Light Blue,58.93,112,1,Pea,6,NULL,Slate Blue,Brown,Red,Blue Wheaten
+Ameraucana9,Ameraucana,9,684,1820,Light Blue,58.93,112,1,Pea,6,NULL,Slate Blue,Brown,Red,Blue Wheaten
+Ameraucana9,Ameraucana,10,684,1820,Light Blue,58.93,112,1,Pea,6,NULL,Slate Blue,Brown,Red,Blue Wheaten
+Ameraucana10,Ameraucana,1,901,2100,Light Blue,52.24,109,1,Pea,7,NULL,Slate Blue,White,Red,Buff
+Ameraucana10,Ameraucana,2,901,2100,Light Blue,52.24,109,1,Pea,7,NULL,Slate Blue,White,Red,Buff
+Ameraucana10,Ameraucana,3,901,2100,Light Blue,52.24,109,1,Pea,7,NULL,Slate Blue,White,Red,Buff
+Ameraucana10,Ameraucana,4,901,2100,Light Blue,52.24,109,1,Pea,7,NULL,Slate Blue,White,Red,Buff
+Ameraucana10,Ameraucana,5,901,2100,Light Blue,52.24,109,1,Pea,7,NULL,Slate Blue,White,Red,Buff
+Ameraucana10,Ameraucana,6,901,2100,Light Blue,52.24,109,1,Pea,7,NULL,Slate Blue,White,Red,Buff
+Ameraucana10,Ameraucana,7,901,2100,Light Blue,52.24,109,1,Pea,7,NULL,Slate Blue,White,Red,Buff
+Ameraucana10,Ameraucana,8,901,2100,Light Blue,52.24,109,1,Pea,7,NULL,Slate Blue,White,Red,Buff
+Ameraucana10,Ameraucana,9,901,2100,Light Blue,52.24,109,1,Pea,7,NULL,Slate Blue,White,Red,Buff
+Ameraucana10,Ameraucana,10,901,2100,Light Blue,52.24,109,1,Pea,7,NULL,Slate Blue,White,Red,Buff
+Ameraucana11,Ameraucana,1,384,1800,Bluish-Green,53.1,110,1,Pea,7,NULL,Slate Blue,Brown,White,Blue Wheaten
+Ameraucana11,Ameraucana,2,384,1800,Bluish-Green,53.1,110,1,Pea,7,NULL,Slate Blue,Brown,White,Blue Wheaten
+Ameraucana11,Ameraucana,3,384,1800,Bluish-Green,53.1,110,1,Pea,7,NULL,Slate Blue,Brown,White,Blue Wheaten
+Ameraucana11,Ameraucana,4,384,1800,Bluish-Green,53.1,110,1,Pea,7,NULL,Slate Blue,Brown,White,Blue Wheaten
+Ameraucana11,Ameraucana,5,384,1800,Bluish-Green,53.1,110,1,Pea,7,NULL,Slate Blue,Brown,White,Blue Wheaten
