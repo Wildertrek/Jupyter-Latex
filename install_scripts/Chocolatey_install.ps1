@@ -10,7 +10,7 @@ Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManage
 # Step 3: Reopen Powershell for chocolately to take effect
 
 # Step 4: Install Data Science Applications
-choco install slack zoom python mysql mysql-python mysql.workbench mongodb r r.studio vscode tableau-public github-desktop anaconda3
+choco install slack zoom python mysql mysql-python mysql.workbench mongodb r r.studio vscode tableau-public github-desktop anaconda3 speedtest 
 #<Press A> for All
 
 #reboot
