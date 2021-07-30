@@ -71,4 +71,8 @@ brew install --cask tableau-public
 #optional anaconda3 install
 # brew install --cask anaconda
 
+#install speedtest
+echo "installing speedtest"
+brew install speedtest-cli
+
 
