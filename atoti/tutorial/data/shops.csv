@@ -1,0 +1,41 @@
+Shop ID,City,State or region,Country,Shop size
+shop_0,New York,New York,USA,big
+shop_1,Los Angeles,California,USA,medium
+shop_2,San Diego,California,USA,medium
+shop_3,San Jose,California,USA,medium
+shop_4,San Francisco,California,USA,small
+shop_5,Houston,Texas,USA,small
+shop_6,San Antonio,Texas,USA,small
+shop_7,Chicago,Illinois,USA,small
+shop_8,Paris,Île-de-France,France,small
+shop_9,Marseille,Provence-Alpes-Côte d'Azur,France,big
+shop_10,Nice,Provence-Alpes-Côte d'Azur,France,medium
+shop_11,Lyon,Auvergne-Rhône-Alpes,France,medium
+shop_12,Saint-Étienne,Auvergne-Rhône-Alpes,France,medium
+shop_13,New York,New York,USA,small
+shop_14,Los Angeles,California,USA,small
+shop_15,San Diego,California,USA,small
+shop_16,San Jose,California,USA,small
+shop_17,San Francisco,California,USA,small
+shop_18,Houston,Texas,USA,big
+shop_19,San Antonio,Texas,USA,medium
+shop_20,Chicago,Illinois,USA,medium
+shop_21,Paris,Île-de-France,France,medium
+shop_22,Marseille,Provence-Alpes-Côte d'Azur,France,small
+shop_23,Nice,Provence-Alpes-Côte d'Azur,France,small
+shop_24,Lyon,Auvergne-Rhône-Alpes,France,small
+shop_25,Saint-Étienne,Auvergne-Rhône-Alpes,France,small
+shop_26,New York,New York,USA,small
+shop_27,Los Angeles,California,USA,big
+shop_28,San Diego,California,USA,medium
+shop_29,San Jose,California,USA,medium
+shop_30,San Francisco,California,USA,medium
+shop_31,Houston,Texas,USA,small
+shop_32,San Antonio,Texas,USA,small
+shop_33,Chicago,Illinois,USA,small
+shop_34,Paris,Île-de-France,France,small
+shop_35,Marseille,Provence-Alpes-Côte d'Azur,France,small
+shop_36,Nice,Provence-Alpes-Côte d'Azur,France,big
+shop_37,Lyon,Auvergne-Rhône-Alpes,France,medium
+shop_38,Saint-Étienne,Auvergne-Rhône-Alpes,France,medium
+shop_39,New York,New York,USA,medium
