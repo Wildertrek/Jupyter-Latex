@@ -1,0 +1,17 @@
+    Age          group
+1    37   experimental
+2    45   experimental
+3    51   experimental
+4    47   experimental
+5    41   experimental
+6    44   experimental
+7    37   experimental
+8    46   experimental
+9    49   control
+10   37   control
+11   58   control
+12   40   control
+13   37   control
+14   43   control
+15   43   control
+16   52   control

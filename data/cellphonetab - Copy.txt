@@ -1,0 +1,6 @@
+CellPhone	Year
+Razr	2006
+Rizr	2008
+iPhone 4	2010
+iPhone 5	2012
+iPhone 6	2014
