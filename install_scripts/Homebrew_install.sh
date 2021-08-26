@@ -75,4 +75,6 @@ brew install --cask tableau-public
 echo "installing speedtest"
 brew install speedtest-cli
 
-
+#install G*Power
+echo "installing G*Power"
+brew install --cask gpower
