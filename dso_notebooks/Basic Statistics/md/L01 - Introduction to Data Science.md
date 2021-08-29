@@ -470,4 +470,3 @@ topic: Lesson 1 Project
 ```c-lms
 start-activity: Lesson 1 Final Project
 ```
-
