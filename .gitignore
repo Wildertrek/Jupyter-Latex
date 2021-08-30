@@ -1,4 +1,5 @@
-
+.ipynb_checkpoints/
+.DS_Store
 dso_notebooks/Basic Statistics/.ipynb_checkpoints/DS101L2-checkpoint.ipynb
 dso_notebooks/Basic Statistics/.ipynb_checkpoints/DS101L1-checkpoint.ipynb
 dso_notebooks/Basic Statistics/md/.ipynb_checkpoints/L01 - Introduction to Data Science-checkpoint.md
