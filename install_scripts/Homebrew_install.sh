@@ -79,21 +79,27 @@ brew install speedtest-cli
 echo "installing G*Power"
 brew install --cask gpower
 
-echo "Main Data Science applications have installed"
-
+echo "*******************************************************************"
+echo "Congratulations! Main Data Science applications have been installed"
+echo "*******************************************************************"
+echo ""
 echo "install R kernelspec for jupyter lab next by following these instructions:"
-
+echo ""
 echo "Open R and install the necessary packages by running the command below:"
 echo "1. Type R in your terminal"
-
+echo ""
 echo "2. Configure IRkernel from within R by running the command below:"
 echo "install.packages(c('repr', 'IRdisplay', 'evaluate', 'crayon', 'pbdZMQ', 'devtools', 'uuid', 'digest'))"
-
-echo "3. install devtools and the IRKernel"
+echo ""
+echo "3. install devtools and the IRKernel by running the command below:"
 echo "devtools::install_github('IRkernel/IRkernel')"
-
-echo "4. install spec to make available to Jupyter Lab"
+echo ""
+echo "4. install spec to make available to Jupyter Lab by running the command below:"
 echo "IRkernel::installspec(user = FALSE)"
+echo ""
+echo "test jupyter lab run test by running the command below:"
+echo "jupyter lab"
+
 
 
 
