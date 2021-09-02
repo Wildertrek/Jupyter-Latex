@@ -25,7 +25,7 @@ pip install --upgrade pip
 pip install jupyterlab
 
 # Step 8: Install Data Science Applications using powershell as administrator
-choco install git mysql mysql.workbench vscode mongodb-shell vscode-mongodb r r.studio tableau-public github-desktop speedtest
+choco install git mysql mysql.workbench vscode mongodb-shell vscode-mongodb r r.studio tableau-public github-desktop speedtest putty
 #<Press A> for All
 # gpower may or maynot work depending on the weather so I removed it for now, I'll be testing it periodically to see if was fixed....
 
