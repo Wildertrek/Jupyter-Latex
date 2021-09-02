@@ -56,13 +56,13 @@ brew install --cask visual-studio-code
 echo "install github desktop"
 brew install --cask github
 
-# install slack
-# echo "install slackness"
-# brew install --cask slack
+#install slack
+echo "install slack"
+brew install --cask slack
 
 #install zoom
-# echo "install zoom enter password when asked"
-# brew install --cask zoom
+echo "install zoom enter password when asked"
+brew install --cask zoom
 
 #install tableau
 echo "installing tableau enter password when asked"
@@ -82,8 +82,14 @@ echo "*******************************************************************"
 echo ""
 echo "install R kernelspec for jupyter lab next by following these instructions:"
 echo ""
+echo "It's important that these next commands are done from within the version of R that you want to link to Jupyter Lab."
+echo ""
+echo "cd /Library/Frameworks/R.framework/Versions/4.1"
+echo ""
 echo "Open R and install the necessary packages by running the command below:"
 echo "1. Type R in your terminal"
+echo ""
+echo "R"
 echo ""
 echo "2. Configure IRkernel from within R by running the command below:"
 echo "install.packages(c('repr', 'IRdisplay', 'evaluate', 'crayon', 'pbdZMQ', 'devtools', 'uuid', 'digest'))"
