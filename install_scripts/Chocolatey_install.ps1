@@ -18,8 +18,8 @@ choco install python3 --params "/InstallDir:C:\Python39"
 
 # Step 5: Close and Reopen Powershell for python to be added to PATH
 
-# Step 6: Open a command prompt as adminstrator and Upgrade pip
-pip install --upgrade pip
+# Step 6 OPTIONAL: Open a command prompt as adminstrator and Upgrade pip
+# pip install --upgrade pip
 
 # Step 7: use the command prompt to Install Jupyter Lab
 pip install jupyterlab
