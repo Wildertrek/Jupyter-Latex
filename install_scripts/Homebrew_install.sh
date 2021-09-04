@@ -76,6 +76,10 @@ brew install speedtest-cli
 echo "installing G*Power"
 brew install --cask gpower
 
+#install wget
+echo "installing wget"
+brew install wget
+
 echo "*******************************************************************"
 echo "Congratulations! Main Data Science applications have been installed"
 echo "*******************************************************************"
