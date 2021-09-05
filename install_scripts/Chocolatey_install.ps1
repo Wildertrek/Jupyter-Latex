@@ -55,5 +55,5 @@ IRkernel::installspec()
 
 # Step 12: exit out of your current command prompt
 # Step 13: reopen a command prompt (Not in administrator mode) then test jupyter-lab by typing "jupyter-lab" 
-# Step 14: ensure you see an option for an R and Julia notebook
+# Step 14: ensure you see an option for R and Julia notebooks
 # Step 15: give your computer a good reboot!
