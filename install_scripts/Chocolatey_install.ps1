@@ -1,5 +1,3 @@
-## INSTALL THIS FOR OUR DATA SCIENCE COURSE
-
 # Step 0: ensure you have a solid, high-bandwidth and unlimited 
 # connection to the internet
 
@@ -12,7 +10,7 @@ Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManage
 
 # Step 3: Close and Reopen Powershell for chocolately to take effect
 
-# Step 4: Install Python and set PATH Note: that if python is already installed please uninstall
+# Step 4: Install PythoIMPORTANT n and set PATH Note: that if python is already installed please uninstall
 choco install python3 --params "/InstallDir:C:\Python39"
 #<Press A> for All
 
@@ -25,7 +23,7 @@ choco install python3 --params "/InstallDir:C:\Python39"
 pip install jupyterlab
 
 # Step 8: Install Data Science Applications using powershell as administrator
-choco install git mysql mysql.workbench vscode mongodb-shell vscode-mongodb r r.studio tableau-public github-desktop speedtest putty wget
+choco install git mysql mysql.workbench vscode mongodb-shell vscode-mongodb r r.studio tableau-public github-desktop julia speedtest putty wget
 #<Press A> for All
 # gpower may or maynot work depending on the weather so I removed it for now, I'll be testing it periodically to see if was fixed....
 
@@ -45,8 +43,17 @@ devtools::install_github("IRkernel/IRkernel")
 
 IRkernel::installspec()
 
+# Step 11: Install Julia kernal into Jupyter
+# Open the Julia Command-Line
+# Run the following line
+# using Pkg
+# press ENTER
+# Then type this command
+# Pkg.add("IJulia")
+# Press ENTER
+# You’ll have to wait a minute or so for the installation to complete
+
 # Step 12: exit out of your current command prompt
 # Step 13: reopen a command prompt (Not in administrator mode) then test jupyter-lab by typing "jupyter-lab" 
-# Step 14: ensure you see an option for an R notebook
+# Step 14: ensure you see an option for an R and Julia notebook
 # Step 15: give your computer a good reboot!
-

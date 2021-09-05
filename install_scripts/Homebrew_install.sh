@@ -80,6 +80,10 @@ brew install --cask gpower
 echo "installing wget"
 brew install wget
 
+#install julia
+echo "installing Julia"
+brew install julia
+
 echo "*******************************************************************"
 echo "Congratulations! Main Data Science applications have been installed"
 echo "*******************************************************************"
@@ -104,11 +108,36 @@ echo ""
 echo "4. install spec to make available to Jupyter Lab by running the command below:"
 echo "IRkernel::installspec(user = FALSE)"
 echo ""
-echo "test jupyter lab run test by running the command below:"
+echo "Exit out of your R terminal by typing q()"
+echo ""
+echo "Next install Julia kernel into Jupyter"
+echo ""
+echo "Open the Julia Command-Line by typing the following line"
+echo ""
+echo "julia"
+echo ""
+echo "Press ENTER
+echo ""
+echo "Run the following command in the Julia Terminal"
+echo ""
+echo "using Pkg"
+echo ""
+echo "Press ENTER"
+echo ""
+echo "Run the following command in the Julia Terminal"
+echo ""
+echo "Pkg.add("IJulia")"
+echo ""
+echo "Press ENTER"
+echo ""
+echo "Wait a minute or so for the installation to complete"
+echo ""
+echo "Exit out of Julia terminal by typing CTRL-D"
+echot ""
+echo "Now in a new terminal (not Julia)test jupyter lab run test by running the command below:"
 echo "jupyter lab"
-
-
-
-
-
-
+echo "ensure you see notebook choices for Python3, Julia and R"
+echo ""
+echo "Give your computer a good reboot!"
+echo ""
+echo "CONGRATULATIONS!!!"
