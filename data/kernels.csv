@@ -151,3 +151,4 @@
 149,mariadb_kernel,Jupyter Notebook/Lab,SQL,"Internal Dependencies, MariaDB Server",Binder notebook,A Jupyter kernel for the MariaDB Open Source database
 150,ISetlX,Jupyter,SetlX,,Example,
 151,Ganymede,Jupyter >= 4.0,"Java 11+, Groovy, Javascript, Kotlin, Scala, Apache Spark, and more","JShell, Apache Maven Resolver",Examples,
+152,cqljupyter,Jupyter,Cassandra CQL,,,
