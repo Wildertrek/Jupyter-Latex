@@ -1,22 +1,22 @@
 ,Name,Jupyter/IPython Version,Language(s) Version,3rd party dependencies,Example Notebooks,Notes
-0,D-lang,Jupyter,DMD,,,
-1,Micronaut,,"Python>=3.7.5, Groovy>3",Micronaut,https://github.com/stainlessai/micronaut-jupyter/blob/master/examples/basic-service/notebooks/use-library.ipynb,Compatible with BeakerX
-2,Agda kernel,,2.6.0,,https://mybinder.org/v2/gh/lclem/agda-kernel/master?filepath=example/LabImp.ipynb,
-3,Dyalog Jupyter Kernel,,APL (Dyalog),Dyalog >= 15.0,Notebooks,Can also be run on TryAPL's Learn tab
-4,Coarray-Fortran,Jupyter 4.0,Fortran 2008/2015,"GFortran >= 7.1, OpenCoarrays, MPICH >= 3.2","Demo, Binder demo",Docker image
-5,LFortran,,,,Binder demo,Main repository at GitLab
-6,Ansible Jupyter Kernel,Jupyter 5.6.0.dev0,Ansible 2.x,,Hello World,
-7,sparkmagic,Jupyter >=4.0,"Pyspark (Python 2 & 3), Spark (Scala), SparkR (R)",Livy,"Notebooks, Docker Images",This kernels are implemented via the magics machinery of the ipython kernel to use Spark via Livy
-8,sas_kernel,Jupyter 4.0,python >= 3.3,SAS 9.4 or higher,,
-9,IPyKernel,Jupyter 4.0,"python 2.7, >= 3.3",pyzmq,,
-10,IJulia,,julia >= 0.3,,,
-11,IHaskell,,ghc >= 7.6,,,Demo
-12,IRuby,,ruby >= 2.3,,,
-13,tslab,,"Typescript 3.7.2, JavaScript ESNext",Node.js,Example notebooks,Jupyter kernel for JavaScript and TypeScript - npm
-14,IJavascript,,nodejs >= 0.10,,,
-15,ITypeScript,,Typescript >= 2.0,Node.js >= 0.10.0,,
-16,jpCoffeescript,,coffeescript >= 1.7,,,
-17,jp-LiveScript,,livescript >= 1.5,,,Based on IJavascript and jpCoffeescript
+0,Micronaut,,"Python>=3.7.5, Groovy>3",Micronaut,https://github.com/stainlessai/micronaut-jupyter/blob/master/examples/basic-service/notebooks/use-library.ipynb,Compatible with BeakerX
+1,Agda kernel,,2.6.0,,https://mybinder.org/v2/gh/lclem/agda-kernel/master?filepath=example/LabImp.ipynb,
+2,Dyalog Jupyter Kernel,,APL (Dyalog),Dyalog >= 15.0,Notebooks,Can also be run on TryAPL's Learn tab
+3,Coarray-Fortran,Jupyter 4.0,Fortran 2008/2015,"GFortran >= 7.1, OpenCoarrays, MPICH >= 3.2","Demo, Binder demo",Docker image
+4,LFortran,,,,Binder demo,Main repository at GitLab
+5,Ansible Jupyter Kernel,Jupyter 5.6.0.dev0,Ansible 2.x,,Hello World,
+6,sparkmagic,Jupyter >=4.0,"Pyspark (Python 2 & 3), Spark (Scala), SparkR (R)",Livy,"Notebooks, Docker Images",This kernels are implemented via the magics machinery of the ipython kernel to use Spark via Livy
+7,sas_kernel,Jupyter 4.0,python >= 3.3,SAS 9.4 or higher,,
+8,IPyKernel,Jupyter 4.0,"python 2.7, >= 3.3",pyzmq,,
+9,IJulia,,julia >= 0.3,,,
+10,IHaskell,,ghc >= 7.6,,,Demo
+11,IRuby,,ruby >= 2.3,,,
+12,tslab,,"Typescript 3.7.2, JavaScript ESNext",Node.js,Example notebooks,Jupyter kernel for JavaScript and TypeScript - npm
+13,IJavascript,,nodejs >= 0.10,,,
+14,ITypeScript,,Typescript >= 2.0,Node.js >= 0.10.0,,
+15,jpCoffeescript,,coffeescript >= 1.7,,,
+16,jp-LiveScript,,livescript >= 1.5,,,Based on IJavascript and jpCoffeescript
+17,Juka,Jupyter 4,Any,Juka,Example,Wrapper. Requires Juka executable in PATH
 18,ICSharp,Jupyter 4.0,C# 4.0+,scriptcs,,
 19,IRKernel,IPython 3.0,R 3.2,rzmq,,
 20,SageMath,Jupyter 4,Any,many,,
@@ -48,7 +48,7 @@
 46,IScilab,Jupyter,Scilab,,Example,MetaKernel
 47,MATLAB Kernel,Jupyter,Matlab,pymatbridge,Example,MetaKernel
 48,Bash,IPython >= 3,bash,,,Wrapper
-49,Z shell,IPython >= 3,zsh >= 5.3,,,
+49,Z shell,IPython >= 3,zsh >= 5.3,,Example,
 50,Pharo Smalltalk,IPython >= 3,Mac Os X,,Binder demo,"Paro 64 bits native kernel, zeromq"
 51,PowerShell,IPython >= 3,Windows,,,"Wrapper, Based on Bash Kernel"
 52,CloJupyter,Jupyter,Clojure >= 1.7,,,
@@ -77,44 +77,44 @@
 75,MetaKernel Python,,python,,,MetaKernel
 76,IVisual,,VPython,,Ball-in-Box,
 77,IBrainfuck,,Brainfuck,,Example,Wrapper
-78,KDB+/Q Kernel (IKdbQ),IPython >= 3.1,Q,"qzmq, qcrypt",,
-79,KDB+/Q Kernel (KdbQ Kernel),Jupyter,Q,,,
-80,PyQ Kernel,Jupyter,Q,,Python for kdb+,
-81,ICryptol,,Cryptol,CVC4,,
-82,cling,Jupyter 4,C++,,Example,
-83,xeus-cling,Jupyter >= 5.1,C++,,Example,Supports Jupyter widgets
-84,Xonsh,,Xonsh,,Example,MetaKernel
-85,Prolog,,Prolog,,,MetaKernel
-86,SWI-Prolog,Jupyter >=4.0,SWI-Prolog,,,https://hub.docker.com/r/jm1337/jupyter-prolog-notebook/
-87,common-lisp-jupyter,Jupyter,Common Lisp,Quicklisp,About,
-88,Maxima-Jupyter,Jupyter,Maxima,Quicklisp,,
-89,ielisp,Jupyter,Emacs Lisp,emacs-zmq,,
-90,Calysto LC3,,,,,Assembly Language for the Little Computer 3
-91,Yacas,,YACAS,,,
-92,IJython,,Jython 2.7,,,
-93,ROOT,Jupyter,C++/python,ROOT >= 6.05,,
-94,Gnuplot Kernel,,Gnuplot,,Example,MetaKernel
-95,Tcl,Jupyter,Tcl 8.5,,,Based on Bash Kernel
-96,Tcl,Jupyter,Tcl 8.6,,Binder demo,Written from scratch with a patched Tcl zmq binding
-97,J,Jupyter Notebook/Lab,J 805-807 (J901beta),,Examples,
-98,Jython,Jupyter>=4.0,Jython>=2.7.0,Java>=7,,Java based JSR223 compliant
-99,C,Jupyter,C,gcc,,
-100,jupyterC,Jupyter,C,gcc>=3.0,,"Supports C89 to C17, Built for teaching C"
-101,TaQL,Jupyter,TaQL,python-casacore,TaQL tutorial,
-102,Coconut,Jupyter,Coconut,,,
-103,SPARQL,Jupyter 4,Python 2.7 or >=3.4,"rdflib, SPARQLWrapper",Examples,Optional GraphViz dependency
-104,AIML chatbot,Jupyter 4,Python 2.7,pyAIML,Examples,
-105,IArm,Jupyter 4,ARMv6 THUMB,,Examples,Based off of the ARM Cortex M0+ CPU
-106,SoS,Jupyter 4,Python >=3.4,"Support kernels for bash, python2/3, matlab/octabe, javascript, julia, R, Stata, SAS, and more",Examples,"Workflow system, Multi-Kernel support"
-107,jupyter-nodejs,"Jupyter, iPython 3.x","NodeJS, Babel, Clojurescript",,Examples,
-108,Pike,IPython >= 3,Pike >= 7.8,,,"Wrapper, Based on Bash Kernel"
-109,imatlab,ipykernel >= 4.1,MATLAB >= 2016b,,,
-110,jupyter-kotlin,Jupyter,Kotlin 1.4.20-dev-*** DEV,Java >= 8,,Samples
-111,jupyter_kernel_singular,Jupyter,Singular 4.1.0,,Demo,"Optional PySingular for better performance, surf for images, details"
-112,spylon-kernel,ipykernel >=4.5,"python >= 3.5, scala >= 2.11",Apache Spark >=2.0,Example,MetaKernel
-113,mit-scheme-kernel,Jupyter 4.0,MIT Scheme 9.2,,,
-114,elm-kernel,Jupyter,,,Examples,
-115,SciJava Jupyter Kernel,Jupyter 4.3.0,Java + 9 scripting languages,Java,Examples,
+78,JupyterQ (KX Official Kernel),Jupyter,,"kdb+ ≥ v3.5 64-bit, Python ≥ 3.6, embedPy",Notebook Examples,
+79,KDB+/Q Kernel (IKdbQ),IPython >= 3.1,Q,"qzmq, qcrypt",,
+80,KDB+/Q Kernel (KdbQ Kernel),Jupyter,Q,,,
+81,PyQ Kernel,Jupyter,Q,,Python for kdb+,
+82,ICryptol,,Cryptol,CVC4,,
+83,cling,Jupyter 4,C++,,Example,
+84,xeus-cling,Jupyter >= 5.1,C++,,Example,Supports Jupyter widgets
+85,Xonsh,,Xonsh,,Example,MetaKernel
+86,Prolog,,Prolog,,,MetaKernel
+87,SWI-Prolog,Jupyter >=4.0,SWI-Prolog,,,https://hub.docker.com/r/jm1337/jupyter-prolog-notebook/
+88,common-lisp-jupyter,Jupyter,Common Lisp,Quicklisp,About,
+89,Maxima-Jupyter,Jupyter,Maxima,Quicklisp,,
+90,ielisp,Jupyter,Emacs Lisp,emacs-zmq,,
+91,Calysto LC3,,,,,Assembly Language for the Little Computer 3
+92,Yacas,,YACAS,,,
+93,IJython,,Jython 2.7,,,
+94,ROOT,Jupyter,C++/python,ROOT >= 6.05,,
+95,Gnuplot Kernel,,Gnuplot,,Example,MetaKernel
+96,Tcl,Jupyter,Tcl 8.5,,,Based on Bash Kernel
+97,Tcl,Jupyter,Tcl 8.6,,Binder demo,Written from scratch with a patched Tcl zmq binding
+98,J,Jupyter Notebook/Lab,J 805-807 (J901beta),,Examples,
+99,Jython,Jupyter>=4.0,Jython>=2.7.0,Java>=7,,Java based JSR223 compliant
+100,C,Jupyter,C,gcc,,
+101,jupyterC,Jupyter,C,gcc>=3.0,,"Supports C89 to C17, Built for teaching C"
+102,TaQL,Jupyter,TaQL,python-casacore,TaQL tutorial,
+103,Coconut,Jupyter,Coconut,,,
+104,SPARQL,Jupyter 4,Python 2.7 or >=3.4,"rdflib, SPARQLWrapper",Examples,Optional GraphViz dependency
+105,AIML chatbot,Jupyter 4,Python 2.7,pyAIML,Examples,
+106,IArm,Jupyter 4,ARMv6 THUMB,,Examples,Based off of the ARM Cortex M0+ CPU
+107,SoS,Jupyter 4,Python >=3.4,"Support kernels for bash, python2/3, matlab/octabe, javascript, julia, R, Stata, SAS, and more",Examples,"Workflow system, Multi-Kernel support"
+108,jupyter-nodejs,"Jupyter, iPython 3.x","NodeJS, Babel, Clojurescript",,Examples,
+109,Pike,IPython >= 3,Pike >= 7.8,,,"Wrapper, Based on Bash Kernel"
+110,imatlab,ipykernel >= 4.1,MATLAB >= 2016b,,,
+111,jupyter-kotlin,Jupyter,Kotlin 1.4.20-dev-*** DEV,Java >= 8,,Samples
+112,jupyter_kernel_singular,Jupyter,Singular 4.1.0,,Demo,"Optional PySingular for better performance, surf for images, details"
+113,spylon-kernel,ipykernel >=4.5,"python >= 3.5, scala >= 2.11",Apache Spark >=2.0,Example,MetaKernel
+114,mit-scheme-kernel,Jupyter 4.0,MIT Scheme 9.2,,,
+115,elm-kernel,Jupyter,,,Examples,
 116,Isbt,Jupyter 4.3.0,sbt >= 1.0.0,sbt,example,
 117,BeakerX,,,"Groovy, Java, Scala, Clojure, Kotlin, SQL",example,docker image
 118,MicroPython,Jupyter,ESP8266/ESP32,USB or Webrepl,developer notebooks,relies on the micro-controller's paste-mode
@@ -125,7 +125,7 @@
 123,iPyStata,Jupyter,Stata,Stata,Example Notebook,Implemented using magics machinery of ipython.
 124,IRacket,IPython >= 3,Racket >= 6.10,"Racket, ZeroMQ",Example,
 125,jupyter-dot-kernel,Jupyter >= 4.0,dot/graphviz,graphviz version 2.40.1,,
-126,Teradata SQL kernel and extensions,JupyterLab >= 0.34,SQL,ZeroMQ,Example Notebooks,
+126,Teradata SQL kernel and extensions,JupyterLab >= 3.0,SQL,,Example Notebooks,
 127,HiveQL Kernel,Jupyter >= 5,HiveQL,pyhive,,Display HiveQL queries in HTML tables
 128,EvCxR Jupyter Kernel,"Jupyter 4, JupyterLab, nteract",Rust >= 1.29.2,ZeroMQ 4.x.x,"Examples, Binder online demo",
 129,StuPyd Kernel,Jupyter >= 4,StuPyd Programming Language,"Python3, antlr4-python3-runtime >= 4.7.1",nbviewer demo,
@@ -151,4 +151,8 @@
 149,mariadb_kernel,Jupyter Notebook/Lab,SQL,"Internal Dependencies, MariaDB Server",Binder notebook,A Jupyter kernel for the MariaDB Open Source database
 150,ISetlX,Jupyter,SetlX,,Example,
 151,Ganymede,Jupyter >= 4.0,"Java 11+, Groovy, Javascript, Kotlin, Scala, Apache Spark, and more","JShell, Apache Maven Resolver",Examples,
-152,cqljupyter,Jupyter,Cassandra CQL,,,
+152,cqljupyter,Jupyter,Cassandra CQL,,CQL Examples,
+153,iclingo,IPython 8,clingo,clingo,Basic Examples,
+154,ICrystal,Jupyter,Crystal,IRC,,
+155,crystal_kernel,Jupyter,Crystal,,,Python wrapper kernel Crystal interpreter
+156,idg,Jupyter,Dg (Doge),,Example Notebooks,
